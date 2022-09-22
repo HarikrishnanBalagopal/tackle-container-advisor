@@ -1,0 +1,4611 @@
+{
+    "version": "1.0.4",
+    "data": {
+        "0": {
+            "entity_id": 1,
+            "entity_name": "(E)JES",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q355203', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q355203'}"
+        },
+        "1": {
+            "entity_id": 2,
+            "entity_name": "A-Auto Job Scheduling Software",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "2": {
+            "entity_id": 3,
+            "entity_name": "Activiti",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q344370', 'types': ['Q341', 'Q21127166'], 'url': 'http://dbpedia.org/resource/Activiti_(software)'}"
+        },
+        "3": {
+            "entity_id": 4,
+            "entity_name": "Adobe Acrobat Reader",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q207902', 'types': ['Q29364197', 'Q166142'], 'url': 'http://dbpedia.org/resource/Adobe_Acrobat'}"
+        },
+        "4": {
+            "entity_id": 5,
+            "entity_name": "Ansible",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2852503', 'types': ['Q29032804'], 'url': 'http://dbpedia.org/resource/Ansible_(software)'}"
+        },
+        "5": {
+            "entity_id": 6,
+            "entity_name": "Apache ActiveMQ",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q773135', 'types': ['Q6821765', 'Q1092177', 'Q341'], 'url': 'http://dbpedia.org/resource/Apache_ActiveMQ'}"
+        },
+        "6": {
+            "entity_id": 7,
+            "entity_name": "Apache Hbase",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2538066', 'types': ['Q341', 'Q176165'], 'url': 'http://dbpedia.org/resource/Apache_HBase'}"
+        },
+        "7": {
+            "entity_id": 8,
+            "entity_name": "Apache Hive",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q4778914', 'types': ['Q341', 'Q3932296'], 'url': 'http://dbpedia.org/resource/Apache_Hive'}"
+        },
+        "8": {
+            "entity_id": 9,
+            "entity_name": "Apache Kafka",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q16235208', 'types': ['Q1092177'], 'url': 'http://dbpedia.org/resource/Apache_Kafka'}"
+        },
+        "9": {
+            "entity_id": 10,
+            "entity_name": "Apache ServiceMix",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q773212', 'types': ['Q341'], 'url': 'http://dbpedia.org/resource/Apache_ServiceMix'}"
+        },
+        "10": {
+            "entity_id": 11,
+            "entity_name": "Apache Solr",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2858103', 'types': ['Q19541', 'Q341'], 'url': 'http://dbpedia.org/resource/Apache_Solr'}"
+        },
+        "11": {
+            "entity_id": 12,
+            "entity_name": "Apache Subversion",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q46794', 'types': ['Q55680343'], 'url': 'http://dbpedia.org/resource/Apache_Subversion'}"
+        },
+        "12": {
+            "entity_id": 13,
+            "entity_name": "Application Development Facility (ADF)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q5285237', 'types': [], 'url': 'http://dbpedia.org/resource/Django_Software_Foundation'}"
+        },
+        "13": {
+            "entity_id": 14,
+            "entity_name": "Asterisk",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q622754', 'types': ['Q1978634'], 'url': 'http://dbpedia.org/resource/Asterisk_(PBX)'}"
+        },
+        "14": {
+            "entity_id": 15,
+            "entity_name": "Automic Job Scheduler",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "15": {
+            "entity_id": 16,
+            "entity_name": "Autosys",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "16": {
+            "entity_id": 17,
+            "entity_name": "Bluebeam",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q4930191', 'types': ['Q4830453'], 'url': 'http://dbpedia.org/resource/Bluebeam_Software,_Inc.'}"
+        },
+        "17": {
+            "entity_id": 18,
+            "entity_name": "BMC Control-M",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q4835944', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q4835944'}"
+        },
+        "18": {
+            "entity_id": 19,
+            "entity_name": "BMC Identity Management",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "19": {
+            "entity_id": 20,
+            "entity_name": "Borland Database Engine (BDE)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q893888', 'types': ['Q537993'], 'url': 'http://dbpedia.org/resource/Borland_Database_Engine'}"
+        },
+        "20": {
+            "entity_id": 21,
+            "entity_name": "Business Intelligence and Reporting Tools (BIRT)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q796007', 'types': ['Q341', 'Q7397'], 'url': 'http://dbpedia.org/resource/BIRT_Project'}"
+        },
+        "21": {
+            "entity_id": 22,
+            "entity_name": "CA Gen",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2125673', 'types': ['Q28059995'], 'url': 'http://dbpedia.org/resource/CA_Gen'}"
+        },
+        "22": {
+            "entity_id": 23,
+            "entity_name": "CA Introscope",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "23": {
+            "entity_id": 24,
+            "entity_name": "CA-Panvalet",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q17073931', 'types': ['Q55680343'], 'url': 'http://dbpedia.org/resource/Panvalet'}"
+        },
+        "24": {
+            "entity_id": 25,
+            "entity_name": "CA-TELON",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2383975', 'types': ['Q238137'], 'url': 'http://dbpedia.org/resource/CA-Telon'}"
+        },
+        "25": {
+            "entity_id": 26,
+            "entity_name": "Casegen",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "26": {
+            "entity_id": 27,
+            "entity_name": "Chef Automate",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q24479', 'types': ['Q29032804'], 'url': 'http://dbpedia.org/resource/Chef_(software)'}"
+        },
+        "27": {
+            "entity_id": 28,
+            "entity_name": "Cisco AMP for Endpoints",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "28": {
+            "entity_id": 29,
+            "entity_name": "CiscoWorks LAN Management Solution (LMS)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "29": {
+            "entity_id": 30,
+            "entity_name": "Citrix Virtual Apps and Desktops",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1093482', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/XenApp'}"
+        },
+        "30": {
+            "entity_id": 31,
+            "entity_name": "Citrix ADC CPX",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "31": {
+            "entity_id": 32,
+            "entity_name": "Citrix Provisioning",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "32": {
+            "entity_id": 33,
+            "entity_name": "Clarify|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q17105097', 'types': ['Q1058914'], 'url': 'http://dbpedia.org/resource/Clarify_Op3nvoice'}"
+        },
+        "33": {
+            "entity_id": 34,
+            "entity_name": "Clarity LIMS",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "34": {
+            "entity_id": 35,
+            "entity_name": "LabWare LIMS",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1798149', 'types': ['Q121182'], 'url': 'http://dbpedia.org/resource/Laboratory_information_management_system'}"
+        },
+        "35": {
+            "entity_id": 36,
+            "entity_name": "Cognos",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1107048', 'types': ['Q4830453'], 'url': 'http://dbpedia.org/resource/Cognos'}"
+        },
+        "36": {
+            "entity_id": 37,
+            "entity_name": "Coldfusion",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q468446', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Adobe_ColdFusion'}"
+        },
+        "37": {
+            "entity_id": 38,
+            "entity_name": "ConceptWave",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "38": {
+            "entity_id": 39,
+            "entity_name": "CONNAPI",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "39": {
+            "entity_id": 40,
+            "entity_name": "Connect Direct",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q369085', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Connect:Direct'}"
+        },
+        "40": {
+            "entity_id": 41,
+            "entity_name": "Cornerstone software",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q5171657', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Cornerstone_(software)'}"
+        },
+        "41": {
+            "entity_id": 42,
+            "entity_name": "Crystal Reports",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1142403', 'types': ['Q7314108'], 'url': 'http://dbpedia.org/resource/Crystal_Reports'}"
+        },
+        "42": {
+            "entity_id": 43,
+            "entity_name": "DB2",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q431195', 'types': ['Q3932296'], 'url': 'http://dbpedia.org/resource/IBM_DB2'}"
+        },
+        "43": {
+            "entity_id": 44,
+            "entity_name": "Documentum Content Server",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q5287684', 'types': ['Q247423', 'Q1344636'], 'url': 'http://dbpedia.org/resource/Documentum'}"
+        },
+        "44": {
+            "entity_id": 45,
+            "entity_name": "Drupal",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q170855', 'types': ['Q131093'], 'url': 'http://dbpedia.org/resource/Drupal'}"
+        },
+        "45": {
+            "entity_id": 46,
+            "entity_name": "Eclipse|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q82268', 'types': ['Q13741'], 'url': 'http://dbpedia.org/resource/Eclipse_(software)'}"
+        },
+        "46": {
+            "entity_id": 47,
+            "entity_name": "Elastic (ELK) Stack",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "47": {
+            "entity_id": 48,
+            "entity_name": "ETAP License Manager (LM)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "48": {
+            "entity_id": 49,
+            "entity_name": "ExamDiff",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q5419269', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/ExamDiff_Pro'}"
+        },
+        "49": {
+            "entity_id": 50,
+            "entity_name": "F5 Secure Web Gateway Services",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "50": {
+            "entity_id": 51,
+            "entity_name": "FileMaker Pro",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1982831', 'types': ['Q4830453'], 'url': 'http://dbpedia.org/resource/FileMaker'}"
+        },
+        "51": {
+            "entity_id": 52,
+            "entity_name": "FlexNet Manager Suite",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "52": {
+            "entity_id": 53,
+            "entity_name": "FTP Voyager",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1389773', 'types': ['Q3503189', 'Q7397'], 'url': 'http://dbpedia.org/resource/FTP_Voyager'}"
+        },
+        "53": {
+            "entity_id": 54,
+            "entity_name": "Genymotion",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q105239167', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q105239167'}"
+        },
+        "54": {
+            "entity_id": 55,
+            "entity_name": "Google Chrome",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q777', 'types': ['Q6368'], 'url': 'http://dbpedia.org/resource/Google_Chrome'}"
+        },
+        "55": {
+            "entity_id": 56,
+            "entity_name": "Greenplum DB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q4039706', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Greenplum'}"
+        },
+        "56": {
+            "entity_id": 57,
+            "entity_name": "Hadoop",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q29120', 'types': ['Q271680'], 'url': 'http://dbpedia.org/resource/Apache_Hadoop'}"
+        },
+        "57": {
+            "entity_id": 58,
+            "entity_name": "HP aC++ compiler",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q5635754', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/HP_aC++'}"
+        },
+        "58": {
+            "entity_id": 59,
+            "entity_name": "HP C/ANSI C compiler",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q4045464', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Norcroft_C_compiler'}"
+        },
+        "59": {
+            "entity_id": 60,
+            "entity_name": "HP Operations Orchestration (HPOO)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "60": {
+            "entity_id": 61,
+            "entity_name": "HP Server Automation (HPSA)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "61": {
+            "entity_id": 62,
+            "entity_name": "IBM BigFix Platform|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7810432', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/IBM_BigFix'}"
+        },
+        "62": {
+            "entity_id": 63,
+            "entity_name": "IBM Business Monitor",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "63": {
+            "entity_id": 64,
+            "entity_name": "IBM Business Process Manager",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "64": {
+            "entity_id": 65,
+            "entity_name": "IBM Content Manager OnDemand (CMOD)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "65": {
+            "entity_id": 66,
+            "entity_name": "IBM FileNet P8 Platform",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "66": {
+            "entity_id": 67,
+            "entity_name": "IBM InfoSphere DataStage",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q5968866', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/IBM_InfoSphere_DataStage'}"
+        },
+        "67": {
+            "entity_id": 68,
+            "entity_name": "IBM Integration Bus|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q5969139', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/IBM_Integration_Bus'}"
+        },
+        "68": {
+            "entity_id": 69,
+            "entity_name": "IBM License Metric Tool",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "69": {
+            "entity_id": 70,
+            "entity_name": "IBM Maximo",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q55622518', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Maximo_(MRO)'}"
+        },
+        "70": {
+            "entity_id": 71,
+            "entity_name": "IBM Migration Utility",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "71": {
+            "entity_id": 72,
+            "entity_name": "IBM Mobile Foundation",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q25324136', 'types': ['None'], 'url': 'http://dbpedia.org/resource/IBM_MobileFirst'}"
+        },
+        "72": {
+            "entity_id": 73,
+            "entity_name": "IBM Operational Decision Manager (ODM)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q16928000', 'types': ['None'], 'url': 'http://dbpedia.org/resource/IBM_Operational_Decision_Management'}"
+        },
+        "73": {
+            "entity_id": 76,
+            "entity_name": "IBM Tivoli Composite Application Manager",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "74": {
+            "entity_id": 77,
+            "entity_name": "IBM Tivoli Monitoring",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "75": {
+            "entity_id": 79,
+            "entity_name": "IBM Tivoli Workload Scheduler (TWS)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'None', 'types': ['None'], 'url': 'http://dbpedia.org/resource/IBM_Tivoli_Workload_Scheduler'}"
+        },
+        "76": {
+            "entity_id": 80,
+            "entity_name": "IBM WebSphere Business Integration Adaptor",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q5969131', 'types': ['None'], 'url': 'http://dbpedia.org/resource/IBM_WebSphere_Adapters'}"
+        },
+        "77": {
+            "entity_id": 81,
+            "entity_name": "IBM Websphere MQ",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q528294', 'types': ['Q1092177'], 'url': 'http://dbpedia.org/resource/IBM_WebSphere_MQ'}"
+        },
+        "78": {
+            "entity_id": 82,
+            "entity_name": "IBM WebSphere MQ Telemetry",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "79": {
+            "entity_id": 83,
+            "entity_name": "IBM WebSphere Transformation Extender (WTX)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "80": {
+            "entity_id": 84,
+            "entity_name": "IMS DB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1571984', 'types': ['Q871236', 'Q4388320', 'Q176165'], 'url': 'http://dbpedia.org/resource/IBM_Information_Management_System'}"
+        },
+        "81": {
+            "entity_id": 85,
+            "entity_name": "Info-ZIP",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1662431', 'types': ['Q341'], 'url': 'http://dbpedia.org/resource/Info-ZIP'}"
+        },
+        "82": {
+            "entity_id": 86,
+            "entity_name": "Infobright Community Edition (ICE)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q3150805', 'types': ['Q4830453'], 'url': 'http://dbpedia.org/resource/Infobright'}"
+        },
+        "83": {
+            "entity_id": 87,
+            "entity_name": "Informatica PowerCenter",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "84": {
+            "entity_id": 88,
+            "entity_name": "Ingres",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q60463', 'types': ['Q1130645', 'Q3932296'], 'url': 'http://dbpedia.org/resource/Ingres_(database)'}"
+        },
+        "85": {
+            "entity_id": 89,
+            "entity_name": "JBoss|JBoss Enterprise Service Bus",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "86": {
+            "entity_id": 90,
+            "entity_name": "Jenkins",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7491312', 'types': ['Q16947796'], 'url': 'http://dbpedia.org/resource/Jenkins_(software)'}"
+        },
+        "87": {
+            "entity_id": 91,
+            "entity_name": "joinIT",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "88": {
+            "entity_id": 92,
+            "entity_name": "LifeFlow",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "89": {
+            "entity_id": 93,
+            "entity_name": "Lotus Notes",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q60198', 'types': ['Q474157', 'Q28601953', 'Q131093'], 'url': 'http://dbpedia.org/resource/IBM_Notes'}"
+        },
+        "90": {
+            "entity_id": 94,
+            "entity_name": "MaaS360",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q39089630', 'types': ['None'], 'url': 'None'}"
+        },
+        "91": {
+            "entity_id": 95,
+            "entity_name": "Malwarebytes Anti-Malware",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1783235', 'types': ['Q13429867'], 'url': 'http://dbpedia.org/resource/Malwarebytes_Anti-Malware'}"
+        },
+        "92": {
+            "entity_id": 96,
+            "entity_name": "ManageEngine ADSelfService Plus",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "93": {
+            "entity_id": 97,
+            "entity_name": "MarkLogic DB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q6766381', 'types': ['Q4830453'], 'url': 'http://dbpedia.org/resource/MarkLogic'}"
+        },
+        "94": {
+            "entity_id": 98,
+            "entity_name": "Memcached",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q306661', 'types': ['Q165596', 'Q341'], 'url': 'http://dbpedia.org/resource/Memcached'}"
+        },
+        "95": {
+            "entity_id": 99,
+            "entity_name": "Microsoft Access",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q80689', 'types': ['Q218616', 'Q176165', 'Q3932296'], 'url': 'http://dbpedia.org/resource/Microsoft_Access'}"
+        },
+        "96": {
+            "entity_id": 100,
+            "entity_name": "Microsoft BizTalk Adapters for Host Systems",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q904150', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Microsoft_BizTalk_Server'}"
+        },
+        "97": {
+            "entity_id": 101,
+            "entity_name": "Microsoft Dynamics AX",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q675860', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Microsoft_Dynamics_AX'}"
+        },
+        "98": {
+            "entity_id": 102,
+            "entity_name": "Microsoft Endpoint Configuration Manager (SCCM)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2061082', 'types': ['Q312466', 'Q1371279'], 'url': 'http://dbpedia.org/resource/System_Center_Configuration_Manager'}"
+        },
+        "99": {
+            "entity_id": 103,
+            "entity_name": "Microsoft Excel",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q11272', 'types': ['Q218616', 'Q183197'], 'url': 'http://dbpedia.org/resource/Microsoft_Excel'}"
+        },
+        "100": {
+            "entity_id": 104,
+            "entity_name": "Microsoft Exchange Server|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q223653', 'types': ['Q474157', 'Q859477', 'Q2933820'], 'url': 'http://dbpedia.org/resource/Microsoft_Exchange_Server'}"
+        },
+        "101": {
+            "entity_id": 105,
+            "entity_name": "Microsoft Forefront Identity Manager (FIM)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q5468182', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Forefront_Identity_Manager'}"
+        },
+        "102": {
+            "entity_id": 106,
+            "entity_name": "Microsoft InfoPath",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q706294', 'types': ['Q474157', 'Q218616'], 'url': 'http://dbpedia.org/resource/Microsoft_InfoPath'}"
+        },
+        "103": {
+            "entity_id": 107,
+            "entity_name": "Microsoft Internet Explorer",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1575', 'types': ['Q218616', 'Q498267', 'Q6368'], 'url': 'http://dbpedia.org/resource/Internet_Explorer'}"
+        },
+        "104": {
+            "entity_id": 108,
+            "entity_name": "Microsoft ISA Server",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q632851', 'types': ['Q40056'], 'url': 'http://dbpedia.org/resource/Microsoft_Forefront_Threat_Management_Gateway'}"
+        },
+        "105": {
+            "entity_id": 109,
+            "entity_name": "Microsoft MQ",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1931595', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Microsoft_Message_Queuing'}"
+        },
+        "106": {
+            "entity_id": 110,
+            "entity_name": "Microsoft System Center Endpoint Protection",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "107": {
+            "entity_id": 111,
+            "entity_name": "Microsoft Visual Studio",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q134067', 'types': ['Q13741'], 'url': 'http://dbpedia.org/resource/Microsoft_Visual_Studio'}"
+        },
+        "108": {
+            "entity_id": 112,
+            "entity_name": "Microsoft Web Deploy",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "109": {
+            "entity_id": 113,
+            "entity_name": "Microsoft Web Farm Framework (WFF)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "110": {
+            "entity_id": 114,
+            "entity_name": "Microsoft Web Platform Installer",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q976637', 'types': [], 'url': 'http://dbpedia.org/resource/Web_Platform_Installer'}"
+        },
+        "111": {
+            "entity_id": 115,
+            "entity_name": "Model Driven Workflow (MDW)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "112": {
+            "entity_id": 116,
+            "entity_name": "MongoDB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1165204', 'types': ['Q1235236', 'Q176165', 'Q82231'], 'url': 'http://dbpedia.org/resource/MongoDB'}"
+        },
+        "113": {
+            "entity_id": 117,
+            "entity_name": "Mozilla Firefox",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q698', 'types': ['Q6368'], 'url': 'http://dbpedia.org/resource/Firefox'}"
+        },
+        "114": {
+            "entity_id": 118,
+            "entity_name": "MQ Client",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "115": {
+            "entity_id": 119,
+            "entity_name": "MS Office 365",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q775811', 'types': ['Q1254596', 'Q26674207'], 'url': 'http://dbpedia.org/resource/Office_365'}"
+        },
+        "116": {
+            "entity_id": 121,
+            "entity_name": "MS SQL Server Compact",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1814028', 'types': ['Q3932296'], 'url': 'http://dbpedia.org/resource/SQL_Server_Compact'}"
+        },
+        "117": {
+            "entity_id": 122,
+            "entity_name": "MySQL",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q850', 'types': ['Q1371279', 'Q1130645', 'Q3932296'], 'url': 'http://dbpedia.org/resource/MySQL'}"
+        },
+        "118": {
+            "entity_id": 123,
+            "entity_name": "Neo4j",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1628290', 'types': ['Q99510066', 'Q218616', 'Q595971', 'Q341'], 'url': 'http://dbpedia.org/resource/Neo4j'}"
+        },
+        "119": {
+            "entity_id": 124,
+            "entity_name": "Nexus Repository OSS",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "120": {
+            "entity_id": 125,
+            "entity_name": "Nix package manager",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7041957', 'types': ['Q891055', 'Q341'], 'url': 'http://dbpedia.org/resource/Nix_package_manager'}"
+        },
+        "121": {
+            "entity_id": 126,
+            "entity_name": "OpenLDAP",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q682918', 'types': ['Q341'], 'url': 'http://dbpedia.org/resource/OpenLDAP'}"
+        },
+        "122": {
+            "entity_id": 127,
+            "entity_name": "OpenText Exstream",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q5421776', 'types': ['Q4830453'], 'url': 'http://dbpedia.org/resource/Exstream_Software'}"
+        },
+        "123": {
+            "entity_id": 128,
+            "entity_name": "OpenVPN",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q509075', 'types': ['Q166142', 'Q341'], 'url': 'http://dbpedia.org/resource/OpenVPN'}"
+        },
+        "124": {
+            "entity_id": 129,
+            "entity_name": "Oracle Access Management",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7099276', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Oracle_Identity_Management'}"
+        },
+        "125": {
+            "entity_id": 130,
+            "entity_name": "Oracle ADF",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1853309', 'types': ['Q271680'], 'url': 'http://dbpedia.org/resource/Oracle_Application_Development_Framework'}"
+        },
+        "126": {
+            "entity_id": 131,
+            "entity_name": "Oracle APEX",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1908291', 'types': ['Q1330336'], 'url': 'http://dbpedia.org/resource/Oracle_Application_Express'}"
+        },
+        "127": {
+            "entity_id": 132,
+            "entity_name": "Oracle BI Publisher",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7099244', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Oracle_BI_Publisher'}"
+        },
+        "128": {
+            "entity_id": 133,
+            "entity_name": "Oracle Business Intelligence",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7099251', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Oracle_Business_Intelligence_Suite_Enterprise_Edition'}"
+        },
+        "129": {
+            "entity_id": 134,
+            "entity_name": "Oracle Database|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q185524', 'types': ['Q3932296'], 'url': 'http://dbpedia.org/resource/Oracle_Database'}"
+        },
+        "130": {
+            "entity_id": 135,
+            "entity_name": "Oracle Designer",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7099261', 'types': ['Q28059995'], 'url': 'http://dbpedia.org/resource/Oracle_Designer'}"
+        },
+        "131": {
+            "entity_id": 136,
+            "entity_name": "Oracle Enterprise Manager",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7099266', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Oracle_Enterprise_Manager'}"
+        },
+        "132": {
+            "entity_id": 137,
+            "entity_name": "Oracle Forms",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q744707', 'types': ['Q756637'], 'url': 'http://dbpedia.org/resource/Oracle_Forms'}"
+        },
+        "133": {
+            "entity_id": 138,
+            "entity_name": "Oracle Hyperion|Hyperion Interactive Reporting",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "134": {
+            "entity_id": 139,
+            "entity_name": "Oracle Hyperion|Hyperion Planning",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q5958168', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q5958168'}"
+        },
+        "135": {
+            "entity_id": 140,
+            "entity_name": "Oracle Net Services",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7099283', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Oracle_Net_Services'}"
+        },
+        "136": {
+            "entity_id": 141,
+            "entity_name": "Oracle Real Application Clusters (RAC)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1418481', 'types': ['Q28057052'], 'url': 'http://dbpedia.org/resource/Oracle_RAC'}"
+        },
+        "137": {
+            "entity_id": 142,
+            "entity_name": "Oracle Retail Point-of-Service",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "138": {
+            "entity_id": 143,
+            "entity_name": "Oracle Service Bus",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7099295', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Oracle_Service_Bus'}"
+        },
+        "139": {
+            "entity_id": 144,
+            "entity_name": "Oracle Smart View",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "140": {
+            "entity_id": 145,
+            "entity_name": "Oracle SOA Suite",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7099294', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Oracle_SOA_Suite'}"
+        },
+        "141": {
+            "entity_id": 146,
+            "entity_name": "Oracle SQL Developer",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q931351', 'types': ['Q13741', 'Q47607'], 'url': 'http://dbpedia.org/resource/Oracle_SQL_Developer'}"
+        },
+        "142": {
+            "entity_id": 147,
+            "entity_name": "Oracle TimesTen In-Memory Database",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q3991449', 'types': ['Q3932296'], 'url': 'http://dbpedia.org/resource/TimesTen'}"
+        },
+        "143": {
+            "entity_id": 148,
+            "entity_name": "Oracle Warehouse Builder (OWB)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q3354986', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Oracle_Warehouse_Builder'}"
+        },
+        "144": {
+            "entity_id": 149,
+            "entity_name": "Orbix",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q4045955', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Orbix_(software)'}"
+        },
+        "145": {
+            "entity_id": 150,
+            "entity_name": "Pentaho",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q644841', 'types': ['Q341', 'Q4830453'], 'url': 'http://dbpedia.org/resource/Pentaho'}"
+        },
+        "146": {
+            "entity_id": 151,
+            "entity_name": "PeopleSoft",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1928814', 'types': ['Q6881511', 'Q4830453'], 'url': 'http://dbpedia.org/resource/PeopleSoft'}"
+        },
+        "147": {
+            "entity_id": 152,
+            "entity_name": "Perkin Elmer Informatics (PKI)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "148": {
+            "entity_id": 153,
+            "entity_name": "Pervasive PSQL",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7171236', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Pervasive_PSQL'}"
+        },
+        "149": {
+            "entity_id": 154,
+            "entity_name": "PIPE-FLO",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "150": {
+            "entity_id": 155,
+            "entity_name": "PKZIP",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1602149', 'types': ['Q25303924'], 'url': 'http://dbpedia.org/resource/PKZIP'}"
+        },
+        "151": {
+            "entity_id": 156,
+            "entity_name": "Planview",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q19903554', 'types': ['Q4830453'], 'url': 'http://dbpedia.org/resource/Planview'}"
+        },
+        "152": {
+            "entity_id": 157,
+            "entity_name": "PostgreSQL",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q192490', 'types': ['Q341', 'Q3932296'], 'url': 'http://dbpedia.org/resource/PostgreSQL'}"
+        },
+        "153": {
+            "entity_id": 158,
+            "entity_name": "Powerbuilder",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q580882', 'types': ['Q13741'], 'url': 'http://dbpedia.org/resource/PowerBuilder'}"
+        },
+        "154": {
+            "entity_id": 159,
+            "entity_name": "Primavera P6",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2111327', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Primavera_(software)'}"
+        },
+        "155": {
+            "entity_id": 160,
+            "entity_name": "Pro*COBOL",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "156": {
+            "entity_id": 161,
+            "entity_name": "ProjectWise",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7248950', 'types': ['Q131093'], 'url': 'http://dbpedia.org/resource/ProjectWise'}"
+        },
+        "157": {
+            "entity_id": 162,
+            "entity_name": "ProjectWise Web Server",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7248950', 'types': ['Q131093'], 'url': 'http://dbpedia.org/resource/ProjectWise'}"
+        },
+        "158": {
+            "entity_id": 163,
+            "entity_name": "PVCS Version Manager",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q3359906', 'types': ['Q3257930', 'Q55680343'], 'url': 'http://dbpedia.org/resource/PVCS'}"
+        },
+        "159": {
+            "entity_id": 164,
+            "entity_name": "QlikView",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q105859488', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q105859488'}"
+        },
+        "160": {
+            "entity_id": 165,
+            "entity_name": "RabbitMQ",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2081413', 'types': ['Q6821765', 'Q341'], 'url': 'http://dbpedia.org/resource/RabbitMQ'}"
+        },
+        "161": {
+            "entity_id": 166,
+            "entity_name": "Rational ClearCase",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q593863', 'types': ['Q55680343'], 'url': 'http://dbpedia.org/resource/Rational_ClearCase'}"
+        },
+        "162": {
+            "entity_id": 167,
+            "entity_name": "Rational ClearQuest",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1493633', 'types': ['Q4830453'], 'url': 'http://dbpedia.org/resource/Rational_ClearQuest'}"
+        },
+        "163": {
+            "entity_id": 168,
+            "entity_name": "Redis",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2136322', 'types': ['Q82231'], 'url': 'http://dbpedia.org/resource/Redis'}"
+        },
+        "164": {
+            "entity_id": 169,
+            "entity_name": "Remedy",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7311616', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Remedy_Debugger'}"
+        },
+        "165": {
+            "entity_id": 170,
+            "entity_name": "Riak",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2328712', 'types': ['Q506883', 'Q20706915', 'Q176165'], 'url': 'http://dbpedia.org/resource/Riak'}"
+        },
+        "166": {
+            "entity_id": 171,
+            "entity_name": "RightFax",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "167": {
+            "entity_id": 172,
+            "entity_name": "Rumba",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q21684437', 'types': ['Q1544863', 'Q3328778'], 'url': 'http://dbpedia.org/resource/Rumba'}"
+        },
+        "168": {
+            "entity_id": 173,
+            "entity_name": "SAP BusinessObjects BI server",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "169": {
+            "entity_id": 174,
+            "entity_name": "SAP ERP|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q167533', 'types': ['Q28057030'], 'url': 'http://dbpedia.org/resource/SAP_ERP'}"
+        },
+        "170": {
+            "entity_id": 175,
+            "entity_name": "SAP HANA DB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q951374', 'types': ['Q1572823', 'Q166142', 'Q3932296'], 'url': 'http://dbpedia.org/resource/SAP_HANA'}"
+        },
+        "171": {
+            "entity_id": 176,
+            "entity_name": "SAP MaxDB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2143312', 'types': ['Q3932296'], 'url': 'http://dbpedia.org/resource/MaxDB'}"
+        },
+        "172": {
+            "entity_id": 177,
+            "entity_name": "SAP NetWeaver Business Warehouse",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1269377', 'types': ['Q193351'], 'url': 'http://dbpedia.org/resource/SAP_NetWeaver_Business_Warehouse'}"
+        },
+        "173": {
+            "entity_id": 178,
+            "entity_name": "SAP SQL Anywhere",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2247564', 'types': ['Q3932296'], 'url': 'http://dbpedia.org/resource/SQL_Anywhere'}"
+        },
+        "174": {
+            "entity_id": 179,
+            "entity_name": "SAP Web Dynpro",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1804792', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Web_Dynpro'}"
+        },
+        "175": {
+            "entity_id": 180,
+            "entity_name": "Sentry",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q3478803', 'types': ['Q58778'], 'url': 'http://dbpedia.org/resource/Sentry_(monitoring_system)'}"
+        },
+        "176": {
+            "entity_id": 182,
+            "entity_name": "Siebel",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "177": {
+            "entity_id": 183,
+            "entity_name": "SNA Manager",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "178": {
+            "entity_id": 184,
+            "entity_name": "SnagIt",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1776235', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Snagit'}"
+        },
+        "179": {
+            "entity_id": 185,
+            "entity_name": "solidDB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7557804', 'types': ['Q3932296'], 'url': 'http://dbpedia.org/resource/SolidDB'}"
+        },
+        "180": {
+            "entity_id": 186,
+            "entity_name": "SonarQube",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q541691', 'types': ['Q28061130', 'Q341'], 'url': 'http://dbpedia.org/resource/SonarQube'}"
+        },
+        "181": {
+            "entity_id": 187,
+            "entity_name": "SpaceMonger",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "182": {
+            "entity_id": 188,
+            "entity_name": "Splunk",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1835753', 'types': ['Q1058914', 'Q6881511', 'Q4830453'], 'url': 'http://dbpedia.org/resource/Splunk'}"
+        },
+        "183": {
+            "entity_id": 189,
+            "entity_name": "SQLIO",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "184": {
+            "entity_id": 190,
+            "entity_name": "Sybase SQL Server|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2576415', 'types': ['Q3932296'], 'url': 'http://dbpedia.org/resource/Adaptive_Server_Enterprise'}"
+        },
+        "185": {
+            "entity_id": 191,
+            "entity_name": "Syncsort",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7662279', 'types': ['Q4830453'], 'url': 'http://dbpedia.org/resource/Syncsort'}"
+        },
+        "186": {
+            "entity_id": 193,
+            "entity_name": "Sysinternal Tools|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "187": {
+            "entity_id": 194,
+            "entity_name": "Sysinternal Tools|AccessEnum",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "188": {
+            "entity_id": 195,
+            "entity_name": "Sysinternal Tools|ClockRes",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "189": {
+            "entity_id": 196,
+            "entity_name": "Sysinternal Tools|Coreinfo",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "190": {
+            "entity_id": 197,
+            "entity_name": "Sysinternal Tools|DiskExt",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "191": {
+            "entity_id": 198,
+            "entity_name": "Sysinternal Tools|DiskMon",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "192": {
+            "entity_id": 199,
+            "entity_name": "Sysinternal Tools|Hex2dec",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "193": {
+            "entity_id": 200,
+            "entity_name": "Sysinternal Tools|Junction",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "194": {
+            "entity_id": 201,
+            "entity_name": "Sysinternal Tools|LDMDump",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "195": {
+            "entity_id": 202,
+            "entity_name": "Sysinternal Tools|LoadOrder",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "196": {
+            "entity_id": 203,
+            "entity_name": "Sysinternal Tools|PipeList",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "197": {
+            "entity_id": 204,
+            "entity_name": "Sysinternal Tools|Process Explorer",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "198": {
+            "entity_id": 205,
+            "entity_name": "Sysinternal Tools|PsKill",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "199": {
+            "entity_id": 206,
+            "entity_name": "Sysinternal Tools|PsPasswd",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "200": {
+            "entity_id": 207,
+            "entity_name": "Sysinternal Tools|SDelete",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "201": {
+            "entity_id": 208,
+            "entity_name": "Sysinternal Tools|ShareEnum",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "202": {
+            "entity_id": 209,
+            "entity_name": "Sysinternal Tools|Sync",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "203": {
+            "entity_id": 210,
+            "entity_name": "Sysinternal Tools|TCPView",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "204": {
+            "entity_id": 211,
+            "entity_name": "Sysinternal Tools|VMMap",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "205": {
+            "entity_id": 212,
+            "entity_name": "Sysinternal Tools|Whois",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "206": {
+            "entity_id": 213,
+            "entity_name": "Tableau",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "207": {
+            "entity_id": 214,
+            "entity_name": "TCPLink Enterprise Server",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "208": {
+            "entity_id": 215,
+            "entity_name": "Teradata",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q430745', 'types': ['Q6881511', 'Q4830453'], 'url': 'http://dbpedia.org/resource/Teradata'}"
+        },
+        "209": {
+            "entity_id": 216,
+            "entity_name": "Teradata QS Server",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "210": {
+            "entity_id": 217,
+            "entity_name": "TIBCO Business Works (BW)|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "211": {
+            "entity_id": 218,
+            "entity_name": "TIBCO InConcert",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "212": {
+            "entity_id": 219,
+            "entity_name": "TIBCO Rendezvous",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q11198794', 'types': ['Q1092177'], 'url': 'http://dbpedia.org/resource/TIBCO_Rendezvous'}"
+        },
+        "213": {
+            "entity_id": 220,
+            "entity_name": "Tivoli Access Manager (TAM)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'None', 'types': ['None'], 'url': 'http://dbpedia.org/resource/IBM_Tivoli_Access_Manager'}"
+        },
+        "214": {
+            "entity_id": 221,
+            "entity_name": "TortoiseCVS",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2883113', 'types': ['Q166142', 'Q341'], 'url': 'http://dbpedia.org/resource/TortoiseCVS'}"
+        },
+        "215": {
+            "entity_id": 222,
+            "entity_name": "TortoiseSVN",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1062467', 'types': ['Q166142', 'Q1130645'], 'url': 'http://dbpedia.org/resource/TortoiseSVN'}"
+        },
+        "216": {
+            "entity_id": 223,
+            "entity_name": "TSO/ISPF",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q679906', 'types': ['Q131212'], 'url': 'http://dbpedia.org/resource/ISPF'}"
+        },
+        "217": {
+            "entity_id": 224,
+            "entity_name": "TWS zCentric",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "218": {
+            "entity_id": 225,
+            "entity_name": "Uniface",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2143563', 'types': ['Q9143', 'Q13741', 'Q238137'], 'url': 'http://dbpedia.org/resource/Uniface_(programming_language)'}"
+        },
+        "219": {
+            "entity_id": 226,
+            "entity_name": "ViewNow X Server",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "220": {
+            "entity_id": 227,
+            "entity_name": "Virtual I/O Server",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "221": {
+            "entity_id": 228,
+            "entity_name": "Visibroker",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q7936097', 'types': ['Q146768'], 'url': 'http://dbpedia.org/resource/Visibroker'}"
+        },
+        "222": {
+            "entity_id": 229,
+            "entity_name": "VMware Solution Exchange Marketplace (VSX)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "223": {
+            "entity_id": 230,
+            "entity_name": "VMware Tools",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "224": {
+            "entity_id": 231,
+            "entity_name": "VMware vCenter",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q55636858', 'types': ['Q218616', 'Q1371279'], 'url': 'None'}"
+        },
+        "225": {
+            "entity_id": 232,
+            "entity_name": "WebFOCUS",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "226": {
+            "entity_id": 233,
+            "entity_name": "WebLogic Integration",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "227": {
+            "entity_id": 234,
+            "entity_name": "WebSphere Commerce Suite (WCS)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q5969126', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/WebSphere_Commerce'}"
+        },
+        "228": {
+            "entity_id": 235,
+            "entity_name": "WebSphere Message Broker",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "229": {
+            "entity_id": 236,
+            "entity_name": "Wherescape Red",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "230": {
+            "entity_id": 237,
+            "entity_name": "Windchill",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q8024086', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Windchill_(software)'}"
+        },
+        "231": {
+            "entity_id": 238,
+            "entity_name": "Windows Indexing Service",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q575974', 'types': ['Q1138815'], 'url': 'http://dbpedia.org/resource/Indexing_Service'}"
+        },
+        "232": {
+            "entity_id": 239,
+            "entity_name": "Windows Terminal Server (WTS)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "233": {
+            "entity_id": 240,
+            "entity_name": "WingArc SVF",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "234": {
+            "entity_id": 241,
+            "entity_name": "WinMerge",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q250602', 'types': ['Q341', 'Q2990323'], 'url': 'http://dbpedia.org/resource/WinMerge'}"
+        },
+        "235": {
+            "entity_id": 242,
+            "entity_name": "WinRAR",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q242747', 'types': ['Q25303924', 'Q185534'], 'url': 'http://dbpedia.org/resource/WinRAR'}"
+        },
+        "236": {
+            "entity_id": 243,
+            "entity_name": "WinSCP",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1160381', 'types': ['Q3503189', 'Q2158576', 'Q341'], 'url': 'http://dbpedia.org/resource/WinSCP'}"
+        },
+        "237": {
+            "entity_id": 244,
+            "entity_name": "Wise Package Studio",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "238": {
+            "entity_id": 245,
+            "entity_name": "Wordpress",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q13166', 'types': ['Q131093'], 'url': 'http://dbpedia.org/resource/WordPress'}"
+        },
+        "239": {
+            "entity_id": 246,
+            "entity_name": "XAMPP",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q324073', 'types': ['Q100528793', 'Q341'], 'url': 'http://dbpedia.org/resource/XAMPP'}"
+        },
+        "240": {
+            "entity_id": 247,
+            "entity_name": "ZAP BI",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "241": {
+            "entity_id": 248,
+            "entity_name": "ZeroMQ",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q8079189', 'types': ['Q188860', 'Q341'], 'url': 'http://dbpedia.org/resource/ZeroMQ'}"
+        },
+        "242": {
+            "entity_id": 249,
+            "entity_name": "Zerto Virtual Replication",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q8069662', 'types': ['Q4830453'], 'url': 'http://dbpedia.org/resource/Zerto'}"
+        },
+        "243": {
+            "entity_id": 250,
+            "entity_name": "IBM PowerHA",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q10850880', 'types': ['Q28057052', 'Q7397'], 'url': 'http://dbpedia.org/resource/IBM_High_Availability_Cluster_Multiprocessing'}"
+        },
+        "244": {
+            "entity_id": 251,
+            "entity_name": "Tivoli Netcool/OMNIbus",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "245": {
+            "entity_id": 252,
+            "entity_name": "IBM ILOG Views",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "246": {
+            "entity_id": 253,
+            "entity_name": "IBM ILOG CPLEX",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2372381', 'types': ['Q74086777'], 'url': 'http://dbpedia.org/resource/CPLEX'}"
+        },
+        "247": {
+            "entity_id": 254,
+            "entity_name": "IBM ILOG Jviews",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "248": {
+            "entity_id": 255,
+            "entity_name": "IBM ILOG Elixir",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "249": {
+            "entity_id": 256,
+            "entity_name": "IBM ILOG Supply Chain Apps",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "250": {
+            "entity_id": 257,
+            "entity_name": "ILOG Solver",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2011386', 'types': ['Q6881511', 'Q4830453'], 'url': 'http://dbpedia.org/resource/ILOG'}"
+        },
+        "251": {
+            "entity_id": 258,
+            "entity_name": "SQLite",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q319417', 'types': ['Q35687379', 'Q3932296'], 'url': 'http://dbpedia.org/resource/SQLite'}"
+        },
+        "252": {
+            "entity_id": 259,
+            "entity_name": "Apache HTTP Server",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q11354', 'types': ['Q11288'], 'url': 'http://dbpedia.org/resource/Apache_HTTP_Server'}"
+        },
+        "253": {
+            "entity_id": 260,
+            "entity_name": "Apache Tomcat",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q507430', 'types': ['Q71550'], 'url': 'http://dbpedia.org/resource/Apache_Tomcat'}"
+        },
+        "254": {
+            "entity_id": 261,
+            "entity_name": "ArcGIS Server",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q4784987', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/ArcGIS_Server'}"
+        },
+        "255": {
+            "entity_id": 263,
+            "entity_name": "GlassFish",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q68847', 'types': ['Q71550'], 'url': 'http://dbpedia.org/resource/GlassFish'}"
+        },
+        "256": {
+            "entity_id": 264,
+            "entity_name": "HAProxy",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q5628948', 'types': ['Q341'], 'url': 'http://dbpedia.org/resource/HAProxy'}"
+        },
+        "257": {
+            "entity_id": 265,
+            "entity_name": "IBM HTTP Server",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q821668', 'types': ['Q11288'], 'url': 'http://dbpedia.org/resource/IBM_HTTP_Server'}"
+        },
+        "258": {
+            "entity_id": 268,
+            "entity_name": "JBoss|*",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q485593', 'types': ['Q6881511', 'Q4830453'], 'url': 'http://dbpedia.org/resource/JBoss_(company)'}"
+        },
+        "259": {
+            "entity_id": 269,
+            "entity_name": "Kitura",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q28130427', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Kitura'}"
+        },
+        "260": {
+            "entity_id": 270,
+            "entity_name": "Lotus Domino",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q1069529', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q1069529'}"
+        },
+        "261": {
+            "entity_id": 271,
+            "entity_name": "Lucee",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q105180640', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Lucee'}"
+        },
+        "262": {
+            "entity_id": 272,
+            "entity_name": "Netscape Application Server (NAS)",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q7000305', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Netscape_Application_Server'}"
+        },
+        "263": {
+            "entity_id": 273,
+            "entity_name": "Netscape Enterprise Server (NES)",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q478430', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q478430'}"
+        },
+        "264": {
+            "entity_id": 274,
+            "entity_name": "Nginx",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q306144', 'types': ['Q11288'], 'url': 'http://dbpedia.org/resource/Nginx'}"
+        },
+        "265": {
+            "entity_id": 276,
+            "entity_name": "Oracle WebCenter Content Server|*",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q2309159', 'types': ['Q131093'], 'url': 'http://dbpedia.org/resource/Oracle_WebCenter'}"
+        },
+        "266": {
+            "entity_id": 277,
+            "entity_name": "Pivotal tc Server",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{}"
+        },
+        "267": {
+            "entity_id": 278,
+            "entity_name": "Resin Web Server",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q2145742', 'types': ['Q341'], 'url': 'http://dbpedia.org/resource/Resin_(software)'}"
+        },
+        "268": {
+            "entity_id": 279,
+            "entity_name": "SAP NetWeaver App Server|*",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q2204924', 'types': ['None'], 'url': 'http://dbpedia.org/resource/SAP_NetWeaver'}"
+        },
+        "269": {
+            "entity_id": 280,
+            "entity_name": "Spark",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q20712258', 'types': ['Q1330336'], 'url': 'http://dbpedia.org/resource/Spark_(software)'}"
+        },
+        "270": {
+            "entity_id": 281,
+            "entity_name": "Oracle iPlanet Web Server",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q1225115', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Oracle_iPlanet_Web_Server'}"
+        },
+        "271": {
+            "entity_id": 282,
+            "entity_name": "UltiDev Web Server Pro (UWS)",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{}"
+        },
+        "272": {
+            "entity_id": 283,
+            "entity_name": "webMethods Integration Server",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q7978461', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/WebMethods_Integration_Server'}"
+        },
+        "273": {
+            "entity_id": 284,
+            "entity_name": "Websphere Application Server (WAS)",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q81612', 'types': ['Q1330336', 'Q71550'], 'url': 'http://dbpedia.org/resource/IBM_WebSphere_Application_Server'}"
+        },
+        "274": {
+            "entity_id": 285,
+            "entity_name": "WebSphere Liberty",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q2536917', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q2536917'}"
+        },
+        "275": {
+            "entity_id": 286,
+            "entity_name": "WebSphere Portal Server",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q4053022', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/WebSphere_Portal'}"
+        },
+        "276": {
+            "entity_id": 287,
+            "entity_name": "Websphere Process Server",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q5969143', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/IBM_WebSphere_Process_Server'}"
+        },
+        "277": {
+            "entity_id": 289,
+            "entity_name": "Oracle Real-Time Decisions (RTD)",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{}"
+        },
+        "278": {
+            "entity_id": 290,
+            "entity_name": "CA API Gateway",
+            "entity_type_id": 4,
+            "entity_type_name": "HW",
+            "external_link": "{}"
+        },
+        "279": {
+            "entity_id": 291,
+            "entity_name": "Citrix ADC SDX",
+            "entity_type_id": 4,
+            "entity_type_name": "HW",
+            "external_link": "{}"
+        },
+        "280": {
+            "entity_id": 292,
+            "entity_name": "Citrix ADC MPX",
+            "entity_type_id": 4,
+            "entity_type_name": "HW",
+            "external_link": "{}"
+        },
+        "281": {
+            "entity_id": 293,
+            "entity_name": "HP Nonstop",
+            "entity_type_id": 4,
+            "entity_type_name": "HW",
+            "external_link": "{'qid': 'Q826798', 'types': ['None'], 'url': 'http://dbpedia.org/resource/NonStop_(server_computers)'}"
+        },
+        "282": {
+            "entity_id": 294,
+            "entity_name": "IBM DataPower Gateway",
+            "entity_type_id": 4,
+            "entity_type_name": "HW",
+            "external_link": "{}"
+        },
+        "283": {
+            "entity_id": 295,
+            "entity_name": "IBM Power Systems",
+            "entity_type_id": 4,
+            "entity_type_name": "HW",
+            "external_link": "{'qid': 'Q2040857', 'types': ['Q10929058'], 'url': 'http://dbpedia.org/resource/IBM_Power_Systems'}"
+        },
+        "284": {
+            "entity_id": 296,
+            "entity_name": "Intel Xeon Processor",
+            "entity_type_id": 4,
+            "entity_type_name": "HW",
+            "external_link": "{'qid': 'Q656154', 'types': ['Q431289', 'Q12047070'], 'url': 'http://dbpedia.org/resource/Xeon'}"
+        },
+        "285": {
+            "entity_id": 297,
+            "entity_name": "Net Optics Taps",
+            "entity_type_id": 4,
+            "entity_type_name": "HW",
+            "external_link": "{'qid': 'Q17114213', 'types': ['Q4830453'], 'url': 'http://dbpedia.org/resource/Net_Optics'}"
+        },
+        "286": {
+            "entity_id": 298,
+            "entity_name": "Oracle Exadata",
+            "entity_type_id": 4,
+            "entity_type_name": "HW",
+            "external_link": "{'qid': 'Q4038419', 'types': ['Q68'], 'url': 'http://dbpedia.org/resource/Oracle_Exadata'}"
+        },
+        "287": {
+            "entity_id": 299,
+            "entity_name": "AutoIt",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q784845', 'types': ['Q187432', 'Q7397'], 'url': 'http://dbpedia.org/resource/AutoIt'}"
+        },
+        "288": {
+            "entity_id": 300,
+            "entity_name": "AWK",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q213970', 'types': ['Q1418502', 'Q187432', 'Q28919945', 'Q18343316', 'Q287472'], 'url': 'http://dbpedia.org/resource/AWK'}"
+        },
+        "289": {
+            "entity_id": 301,
+            "entity_name": "BASIC",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q42979', 'types': ['Q79872', 'Q1418502', 'Q28922854', 'Q9143', 'Q21562092'], 'url': 'http://dbpedia.org/resource/BASIC'}"
+        },
+        "290": {
+            "entity_id": 302,
+            "entity_name": "Brainscript",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{}"
+        },
+        "291": {
+            "entity_id": 303,
+            "entity_name": "C",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q15777', 'types': ['Q28922885', 'Q28920117', 'Q9143', 'Q21562092', 'Q651794'], 'url': 'http://dbpedia.org/resource/C_(programming_language)'}"
+        },
+        "292": {
+            "entity_id": 306,
+            "entity_name": "C++|Visual C++",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q847296', 'types': ['Q13741', 'Q4117406'], 'url': 'http://dbpedia.org/resource/Visual_C++'}"
+        },
+        "293": {
+            "entity_id": 307,
+            "entity_name": "Cascading Style Sheets (CSS)|*",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q46441', 'types': ['Q1029123'], 'url': 'http://dbpedia.org/resource/Cascading_Style_Sheets'}"
+        },
+        "294": {
+            "entity_id": 308,
+            "entity_name": "Clipper",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q834358', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/Clipper_(programming_language)'}"
+        },
+        "295": {
+            "entity_id": 309,
+            "entity_name": "CLIST",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q579880', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/CLIST'}"
+        },
+        "296": {
+            "entity_id": 311,
+            "entity_name": "ColdFusion Markup Language (CFML)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2524362', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/ColdFusion_Markup_Language'}"
+        },
+        "297": {
+            "entity_id": 312,
+            "entity_name": "Data Language Interface (DL/I)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2299300', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/Data_Language_Interface'}"
+        },
+        "298": {
+            "entity_id": 313,
+            "entity_name": "Delphi",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q487378', 'types': ['Q9143', 'Q218616', 'Q13741'], 'url': 'http://dbpedia.org/resource/Delphi_(programming_language)'}"
+        },
+        "299": {
+            "entity_id": 314,
+            "entity_name": "Easytrieve",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q1278381', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Easytrieve'}"
+        },
+        "300": {
+            "entity_id": 315,
+            "entity_name": "Expect",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2642029', 'types': ['Q9143', 'Q28937412', 'Q4826135', 'Q341'], 'url': 'http://dbpedia.org/resource/Expect'}"
+        },
+        "301": {
+            "entity_id": 316,
+            "entity_name": "eXtensible HyperText Markup Language (XHTML)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q166074', 'types': ['Q20155966', 'Q317623', 'Q37045'], 'url': 'http://dbpedia.org/resource/XHTML'}"
+        },
+        "302": {
+            "entity_id": 318,
+            "entity_name": "Extensible Markup Language (XML)|MSXML",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q1133470', 'types': ['None'], 'url': 'http://dbpedia.org/resource/MSXML'}"
+        },
+        "303": {
+            "entity_id": 319,
+            "entity_name": "Extensible Stylesheet Language (XSL)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q32061', 'types': ['Q1029123', 'Q235557'], 'url': 'http://dbpedia.org/resource/XSL'}"
+        },
+        "304": {
+            "entity_id": 320,
+            "entity_name": "Extensible Stylesheet Language Transformations (XLST)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q32110', 'types': ['Q2661442', 'Q9143', 'Q1144882', 'Q3217190'], 'url': 'http://dbpedia.org/resource/XSLT'}"
+        },
+        "305": {
+            "entity_id": 321,
+            "entity_name": "FOCUS",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q5426833', 'types': ['Q238137'], 'url': 'http://dbpedia.org/resource/FOCUS'}"
+        },
+        "306": {
+            "entity_id": 322,
+            "entity_name": "Fortran",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q83303', 'types': ['Q28923026', 'Q28922885', 'Q899523', 'Q28920117', 'Q9143', 'Q28920142', 'Q21562092'], 'url': 'http://dbpedia.org/resource/Fortran'}"
+        },
+        "307": {
+            "entity_id": 323,
+            "entity_name": "Go",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q37227', 'types': ['Q12772052', 'Q28922885', 'Q899523', 'Q28920117', 'Q9143', 'Q28919943', 'Q21562092', 'Q651794'], 'url': 'http://dbpedia.org/resource/Go_(programming_language)'}"
+        },
+        "308": {
+            "entity_id": 324,
+            "entity_name": "GraphQL",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q25104949', 'types': ['Q557770', 'Q9143', 'Q60551191'], 'url': 'http://dbpedia.org/resource/GraphQL'}"
+        },
+        "309": {
+            "entity_id": 325,
+            "entity_name": "Groovy",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q16886826', 'types': [], 'url': 'http://dbpedia.org/resource/Skeevy'}"
+        },
+        "310": {
+            "entity_id": 326,
+            "entity_name": "HiveQL",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{}"
+        },
+        "311": {
+            "entity_id": 327,
+            "entity_name": "Hypertext Markup Language (HTML)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q8811', 'types': ['Q2661442', 'Q17537576', 'Q37045', 'Q235557', 'Q20202982'], 'url': 'http://dbpedia.org/resource/HTML'}"
+        },
+        "312": {
+            "entity_id": 328,
+            "entity_name": "IBM High Level Assembler (HLASM)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q4039976', 'types': ['Q6470767'], 'url': 'http://dbpedia.org/resource/IBM_High_Level_Assembler'}"
+        },
+        "313": {
+            "entity_id": 329,
+            "entity_name": "IBM i Control Language (CL)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q263490', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/IBM_i_Control_Language'}"
+        },
+        "314": {
+            "entity_id": 330,
+            "entity_name": "IBM Informix-4GL",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2816938', 'types': ['Q9143', 'Q238137'], 'url': 'http://dbpedia.org/resource/IBM_Informix-4GL'}"
+        },
+        "315": {
+            "entity_id": 333,
+            "entity_name": "Java|Java Enterprise Edition (Java EE)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q193247', 'types': ['Q1330336', 'Q27493', 'Q241317'], 'url': 'http://dbpedia.org/resource/Java_Platform,_Enterprise_Edition'}"
+        },
+        "316": {
+            "entity_id": 334,
+            "entity_name": "Java|Java Standard Edition (Java SE)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q747478', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Java_Platform,_Standard_Edition'}"
+        },
+        "317": {
+            "entity_id": 335,
+            "entity_name": "Java|JavaServer Pages (JSP)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q183169', 'types': ['Q351507', 'Q20819677', 'Q1650567', 'Q235557'], 'url': 'http://dbpedia.org/resource/JavaServer_Pages'}"
+        },
+        "318": {
+            "entity_id": 336,
+            "entity_name": "Java|JavaServer Pages (JSP)|Scriptlets",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q3476475', 'types': [], 'url': 'http://dbpedia.org/resource/Scriptlet'}"
+        },
+        "319": {
+            "entity_id": 338,
+            "entity_name": "JCL",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q1505372', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/Job_Control_Language'}"
+        },
+        "320": {
+            "entity_id": 339,
+            "entity_name": "Job Information Language (JIL)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{}"
+        },
+        "321": {
+            "entity_id": 340,
+            "entity_name": "JScript",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q553514', 'types': ['Q4117406'], 'url': 'http://dbpedia.org/resource/JScript'}"
+        },
+        "322": {
+            "entity_id": 341,
+            "entity_name": "Lisp",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q132874', 'types': ['Q12772052', 'Q28922885', 'Q3839507', 'Q28922887', 'Q28922893', 'Q1993334'], 'url': 'http://dbpedia.org/resource/Lisp_(programming_language)'}"
+        },
+        "323": {
+            "entity_id": 342,
+            "entity_name": "Niakwa Programming Language (NPL)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q6955040', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/NPL_(programming_language)'}"
+        },
+        "324": {
+            "entity_id": 343,
+            "entity_name": "Objective C",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q188531', 'types': ['Q12772052', 'Q28922858', 'Q899523', 'Q9143', 'Q28922893'], 'url': 'http://dbpedia.org/resource/Objective-C'}"
+        },
+        "325": {
+            "entity_id": 344,
+            "entity_name": "OpenEdge ABL",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q1963461', 'types': ['Q899523', 'Q9143', 'Q238137'], 'url': 'http://dbpedia.org/resource/OpenEdge_Advanced_Business_Language'}"
+        },
+        "326": {
+            "entity_id": 346,
+            "entity_name": "Pascal|Object Pascal",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q633894', 'types': ['Q12772052', 'Q9143', 'Q21562092', 'Q899523'], 'url': 'http://dbpedia.org/resource/Object_Pascal'}"
+        },
+        "327": {
+            "entity_id": 348,
+            "entity_name": "Perl|ActivePerl",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q4033363', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/ActivePerl'}"
+        },
+        "328": {
+            "entity_id": 349,
+            "entity_name": "Perl|Rex",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q42478', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/Perl'}"
+        },
+        "329": {
+            "entity_id": 351,
+            "entity_name": "PL/I",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q223433', 'types': ['Q9143', 'Q28922885'], 'url': 'http://dbpedia.org/resource/PL/I'}"
+        },
+        "330": {
+            "entity_id": 352,
+            "entity_name": "PL/SQL",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q41574', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/PL/SQL'}"
+        },
+        "331": {
+            "entity_id": 353,
+            "entity_name": "PRO*C",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2111340', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/Pro*C'}"
+        },
+        "332": {
+            "entity_id": 355,
+            "entity_name": "R",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q206904', 'types': ['Q9143', 'Q1004415'], 'url': 'http://dbpedia.org/resource/R_(programming_language)'}"
+        },
+        "333": {
+            "entity_id": 356,
+            "entity_name": "Rexx",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q685820', 'types': ['Q9143', 'Q28937412', 'Q1993334'], 'url': 'http://dbpedia.org/resource/Rexx'}"
+        },
+        "334": {
+            "entity_id": 357,
+            "entity_name": "RPG",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q840543', 'types': ['Q9143', 'Q28922885'], 'url': 'http://dbpedia.org/resource/IBM_RPG'}"
+        },
+        "335": {
+            "entity_id": 359,
+            "entity_name": "Salesforce Object Query Language (SOQL)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{}"
+        },
+        "336": {
+            "entity_id": 360,
+            "entity_name": "SAS",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2003932', 'types': ['Q9143', 'Q13199995', 'Q238137'], 'url': 'http://dbpedia.org/resource/SAS_(software)'}"
+        },
+        "337": {
+            "entity_id": 361,
+            "entity_name": "Sass",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q1572865', 'types': ['Q9143', 'Q1029123', 'Q50843083', 'Q918333'], 'url': 'http://dbpedia.org/resource/Sass_(stylesheet_language)'}"
+        },
+        "338": {
+            "entity_id": 362,
+            "entity_name": "Scala",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q460584', 'types': ['Q12772052', 'Q899523', 'Q3839507', 'Q9143', 'Q56062429'], 'url': 'http://dbpedia.org/resource/Scala_(programming_language)'}"
+        },
+        "339": {
+            "entity_id": 363,
+            "entity_name": "Smalltalk",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q235086', 'types': ['Q9143', 'Q28922858', 'Q899523'], 'url': 'http://dbpedia.org/resource/Smalltalk'}"
+        },
+        "340": {
+            "entity_id": 364,
+            "entity_name": "Swift",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q17118377', 'types': ['Q12772052', 'Q28923023', 'Q3839507', 'Q899523', 'Q341', 'Q9143', 'Q21562092'], 'url': 'http://dbpedia.org/resource/Swift_(programming_language)'}"
+        },
+        "341": {
+            "entity_id": 365,
+            "entity_name": "TCL",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q5288', 'types': ['Q12772052', 'Q28922885', 'Q899523', 'Q187432', 'Q1993334'], 'url': 'http://dbpedia.org/resource/Tcl'}"
+        },
+        "342": {
+            "entity_id": 366,
+            "entity_name": "Transact-SQL",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q1411245', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/Transact-SQL'}"
+        },
+        "343": {
+            "entity_id": 367,
+            "entity_name": "TypeScript",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q978185', 'types': ['Q9143', 'Q341'], 'url': 'http://dbpedia.org/resource/TypeScript'}"
+        },
+        "344": {
+            "entity_id": 368,
+            "entity_name": "VB.NET",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q50077', 'types': ['Q2378', 'Q4117406'], 'url': 'http://dbpedia.org/resource/Visual_Basic_.NET'}"
+        },
+        "345": {
+            "entity_id": 369,
+            "entity_name": "VBScript",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q13743', 'types': ['Q187432', 'Q1993334'], 'url': 'http://dbpedia.org/resource/VBScript'}"
+        },
+        "346": {
+            "entity_id": 370,
+            "entity_name": "Visual Basic",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2378', 'types': ['Q28922885', 'Q899523', 'Q9143', 'Q42979', 'Q28920813'], 'url': 'http://dbpedia.org/resource/Visual_Basic'}"
+        },
+        "347": {
+            "entity_id": 371,
+            "entity_name": "Visual Basic for Applications (VBA)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q667566', 'types': ['Q2378', 'Q9143', 'Q4117406'], 'url': 'http://dbpedia.org/resource/Visual_Basic_for_Applications'}"
+        },
+        "348": {
+            "entity_id": 372,
+            "entity_name": "Visual FoxPro",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q753868', 'types': ['Q9143', 'Q28922885', 'Q899523', 'Q13741'], 'url': 'http://dbpedia.org/resource/Visual_FoxPro'}"
+        },
+        "349": {
+            "entity_id": 373,
+            "entity_name": "VoiceXML",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q776038', 'types': ['Q20155966'], 'url': 'http://dbpedia.org/resource/VoiceXML'}"
+        },
+        "350": {
+            "entity_id": 374,
+            "entity_name": "Xbase++",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q1753410', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/XBase++'}"
+        },
+        "351": {
+            "entity_id": 375,
+            "entity_name": "Apache Lucene",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q773196', 'types': ['Q188860', 'Q19541', 'Q21127166'], 'url': 'http://dbpedia.org/resource/Lucene'}"
+        },
+        "352": {
+            "entity_id": 376,
+            "entity_name": "Apache Xerces",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q629740', 'types': ['Q188860', 'Q1130645'], 'url': 'http://dbpedia.org/resource/Xerces'}"
+        },
+        "353": {
+            "entity_id": 377,
+            "entity_name": "Cascading Style Sheets (CSS)|Bootstrap",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q1195936', 'types': [], 'url': 'http://dbpedia.org/resource/Bootstrapping'}"
+        },
+        "354": {
+            "entity_id": 378,
+            "entity_name": "Java|Apache Camel",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q616626', 'types': ['Q341'], 'url': 'http://dbpedia.org/resource/Apache_Camel'}"
+        },
+        "355": {
+            "entity_id": 379,
+            "entity_name": "Java|Apache Commons BeanUtils",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q28916245', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q28916245'}"
+        },
+        "356": {
+            "entity_id": 380,
+            "entity_name": "Java|Apache PDFBox",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q17512395', 'types': ['Q21127166', 'Q341'], 'url': 'http://dbpedia.org/resource/Apache_PDFBox'}"
+        },
+        "357": {
+            "entity_id": 381,
+            "entity_name": "Java|Apache Velocity",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q617156', 'types': ['Q351507', 'Q21127166'], 'url': 'http://dbpedia.org/resource/Apache_Velocity'}"
+        },
+        "358": {
+            "entity_id": 382,
+            "entity_name": "Java|EclipseLink",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q897058', 'types': ['Q506883'], 'url': 'http://dbpedia.org/resource/EclipseLink'}"
+        },
+        "359": {
+            "entity_id": 383,
+            "entity_name": "Java|Enterprise JavaBeans (EJB)",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q742961', 'types': ['Q20819677', 'Q609588'], 'url': 'http://dbpedia.org/resource/Enterprise_JavaBeans'}"
+        },
+        "360": {
+            "entity_id": 384,
+            "entity_name": "Java|EZMorph",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{}"
+        },
+        "361": {
+            "entity_id": 385,
+            "entity_name": "Java|Google Web Toolkit (GWT)",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q79578', 'types': ['Q2533324', 'Q1193246', 'Q341'], 'url': 'http://dbpedia.org/resource/Google_Web_Toolkit'}"
+        },
+        "362": {
+            "entity_id": 386,
+            "entity_name": "Java|Hibernate",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q747866', 'types': ['Q1172354', 'Q7170392', 'Q58748', 'Q5227234', 'Q341', 'Q271680'], 'url': 'http://dbpedia.org/resource/Hibernate_(framework)'}"
+        },
+        "363": {
+            "entity_id": 387,
+            "entity_name": "Java|IBM SDK",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{}"
+        },
+        "364": {
+            "entity_id": 388,
+            "entity_name": "Java|Java Development Kit (JDK)",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q741303', 'types': ['Q467707'], 'url': 'http://dbpedia.org/resource/Java_Development_Kit'}"
+        },
+        "365": {
+            "entity_id": 389,
+            "entity_name": "Java|Java Message Service (JMS)",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q755515', 'types': ['Q20819677', 'Q1092177'], 'url': 'http://dbpedia.org/resource/Java_Message_Service'}"
+        },
+        "366": {
+            "entity_id": 390,
+            "entity_name": "Java|Java Web Start",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q33079', 'types': ['Q271680'], 'url': 'http://dbpedia.org/resource/Java_Web_Start'}"
+        },
+        "367": {
+            "entity_id": 391,
+            "entity_name": "Java|JavaServer Faces (JSF)",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q729427', 'types': ['Q1330336', 'Q20819677'], 'url': 'http://dbpedia.org/resource/JavaServer_Faces'}"
+        },
+        "368": {
+            "entity_id": 392,
+            "entity_name": "Java|JDBC",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q722772', 'types': ['Q1172354', 'Q165194', 'Q7397'], 'url': 'http://dbpedia.org/resource/Java_Database_Connectivity'}"
+        },
+        "369": {
+            "entity_id": 393,
+            "entity_name": "Java|JRuby Core",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q605718', 'types': [], 'url': 'http://dbpedia.org/resource/JRuby'}"
+        },
+        "370": {
+            "entity_id": 394,
+            "entity_name": "Java|Log4j",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q286923', 'types': ['Q22003134'], 'url': 'http://dbpedia.org/resource/Log4j'}"
+        },
+        "371": {
+            "entity_id": 395,
+            "entity_name": "Java|Quartz",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q2122405', 'types': ['Q341'], 'url': 'http://dbpedia.org/resource/Quartz_(scheduler)'}"
+        },
+        "372": {
+            "entity_id": 396,
+            "entity_name": "Java|Remote Method Invocation (RMI)",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q61902', 'types': ['Q1799072'], 'url': 'http://dbpedia.org/resource/Java_remote_method_invocation'}"
+        },
+        "373": {
+            "entity_id": 397,
+            "entity_name": "Java|Servlet",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q341', 'types': [], 'url': 'http://dbpedia.org/resource/Free_software'}"
+        },
+        "374": {
+            "entity_id": 398,
+            "entity_name": "Java|Spring",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q720314', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q720314'}"
+        },
+        "375": {
+            "entity_id": 399,
+            "entity_name": "Java|Spring|Spring Boot",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q98731994', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q98731994'}"
+        },
+        "376": {
+            "entity_id": 400,
+            "entity_name": "Java|Spring|Spring Cloud Data Flow",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{}"
+        },
+        "377": {
+            "entity_id": 401,
+            "entity_name": "Java|Spring|Spring MVC",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{}"
+        },
+        "378": {
+            "entity_id": 402,
+            "entity_name": "Java|Struts",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q900957', 'types': ['Q1330336'], 'url': 'http://dbpedia.org/resource/Apache_Struts_1'}"
+        },
+        "379": {
+            "entity_id": 403,
+            "entity_name": "Java|Swing",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q859221', 'types': ['Q21127166'], 'url': 'http://dbpedia.org/resource/Swing_(Java)'}"
+        },
+        "380": {
+            "entity_id": 404,
+            "entity_name": "Java|Vaadin",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q1400683', 'types': ['Q1330336', 'Q386275', 'Q21127166'], 'url': 'http://dbpedia.org/resource/Vaadin'}"
+        },
+        "381": {
+            "entity_id": 405,
+            "entity_name": "JavaScript|AJAX",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q134471', 'types': ['Q9143', 'Q918270', 'Q101244'], 'url': 'http://dbpedia.org/resource/Ajax_(programming)'}"
+        },
+        "382": {
+            "entity_id": 406,
+            "entity_name": "JavaScript|AngularJS",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q2849803', 'types': ['Q188860', 'Q783866', 'Q271680'], 'url': 'http://dbpedia.org/resource/AngularJS'}"
+        },
+        "383": {
+            "entity_id": 407,
+            "entity_name": "JavaScript|Draw2D",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{}"
+        },
+        "384": {
+            "entity_id": 408,
+            "entity_name": "JavaScript|Express.js",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q16878131', 'types': ['Q1330336'], 'url': 'http://dbpedia.org/resource/Express.js'}"
+        },
+        "385": {
+            "entity_id": 409,
+            "entity_name": "JavaScript|Ext JS",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q515393', 'types': ['Q1193246', 'Q783866'], 'url': 'http://dbpedia.org/resource/Ext_JS'}"
+        },
+        "386": {
+            "entity_id": 410,
+            "entity_name": "JavaScript|jqGrid",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{}"
+        },
+        "387": {
+            "entity_id": 411,
+            "entity_name": "JavaScript|JQuery",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q230036', 'types': ['Q170584', 'Q188860', 'Q783866'], 'url': 'http://dbpedia.org/resource/JQuery'}"
+        },
+        "388": {
+            "entity_id": 412,
+            "entity_name": "JavaScript|Jquery|jQuery UI",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q285960', 'types': [], 'url': 'http://dbpedia.org/resource/JQuery_UI'}"
+        },
+        "389": {
+            "entity_id": 413,
+            "entity_name": "JavaScript|React",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q19399674', 'types': ['Q1330336', 'Q783866', 'Q341'], 'url': 'http://dbpedia.org/resource/React_(JavaScript_library)'}"
+        },
+        "390": {
+            "entity_id": 414,
+            "entity_name": "JavaScript|script.aculo.us",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{'qid': 'Q309509', 'types': ['Q188860', 'Q783866'], 'url': 'http://dbpedia.org/resource/Script.aculo.us'}"
+        },
+        "391": {
+            "entity_id": 415,
+            "entity_name": "JavaScript|Valums AJAX File Uploader",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{}"
+        },
+        "392": {
+            "entity_id": 416,
+            "entity_name": "OWASP Enterprise Security API (ESAPI)",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{}"
+        },
+        "393": {
+            "entity_id": 417,
+            "entity_name": "Perl|Oraperl",
+            "entity_type_id": 12,
+            "entity_type_name": "Lib",
+            "external_link": "{}"
+        },
+        "394": {
+            "entity_id": 418,
+            "entity_name": "Android",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q94', 'types': ['Q920890'], 'url': 'http://dbpedia.org/resource/Android_(operating_system)'}"
+        },
+        "395": {
+            "entity_id": 419,
+            "entity_name": "BeOS",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q62563', 'types': ['Q218616', 'Q14656'], 'url': 'http://dbpedia.org/resource/BeOS'}"
+        },
+        "396": {
+            "entity_id": 420,
+            "entity_name": "Cisco IOS",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q753576', 'types': ['Q282080'], 'url': 'http://dbpedia.org/resource/Cisco_IOS'}"
+        },
+        "397": {
+            "entity_id": 421,
+            "entity_name": "DART",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q406009', 'types': ['Q1330336', 'Q12772052', 'Q899523', 'Q3839507', 'Q187432', 'Q28922893', 'Q21562092'], 'url': 'http://dbpedia.org/resource/Dart_(programming_language)'}"
+        },
+        "398": {
+            "entity_id": 422,
+            "entity_name": "Fabric OS",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q5428124', 'types': ['Q9135'], 'url': 'http://dbpedia.org/resource/Fabric_OS'}"
+        },
+        "399": {
+            "entity_id": 423,
+            "entity_name": "GNU",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q44571', 'types': ['Q9135', 'Q11368'], 'url': 'http://dbpedia.org/resource/GNU'}"
+        },
+        "400": {
+            "entity_id": 424,
+            "entity_name": "IBM i",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q15637561', 'types': ['Q9135'], 'url': 'http://dbpedia.org/resource/IBM_i'}"
+        },
+        "401": {
+            "entity_id": 425,
+            "entity_name": "iOS",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q48493', 'types': ['Q920890', 'Q14656'], 'url': 'http://dbpedia.org/resource/IOS'}"
+        },
+        "402": {
+            "entity_id": 427,
+            "entity_name": "Linux|CentOS",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q207542', 'types': ['Q131669', 'Q20983788'], 'url': 'http://dbpedia.org/resource/CentOS'}"
+        },
+        "403": {
+            "entity_id": 428,
+            "entity_name": "Linux|Check Point",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q751519', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q751519'}"
+        },
+        "404": {
+            "entity_id": 429,
+            "entity_name": "Linux|Debian",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q7715973', 'types': ['Q20983788', 'Q3251801'], 'url': 'http://dbpedia.org/resource/Debian'}"
+        },
+        "405": {
+            "entity_id": 430,
+            "entity_name": "Linux|Junos OS",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q4041744', 'types': ['Q9135'], 'url': 'http://dbpedia.org/resource/Junos_OS'}"
+        },
+        "406": {
+            "entity_id": 431,
+            "entity_name": "Linux|openSUSE",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q16691', 'types': ['Q131669', 'Q388', 'Q20983788'], 'url': 'http://dbpedia.org/resource/OpenSUSE'}"
+        },
+        "407": {
+            "entity_id": 432,
+            "entity_name": "Linux|Oracle Linux",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q46094', 'types': ['Q131669', 'Q977076'], 'url': 'http://dbpedia.org/resource/Oracle_Linux'}"
+        },
+        "408": {
+            "entity_id": 433,
+            "entity_name": "Linux|Photon OS",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q105703682', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q105703682'}"
+        },
+        "409": {
+            "entity_id": 434,
+            "entity_name": "Linux|Red Hat Enterprise Linux",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q215273', 'types': ['Q9135', 'Q131669'], 'url': 'http://dbpedia.org/resource/Red_Hat_Enterprise_Linux'}"
+        },
+        "410": {
+            "entity_id": 435,
+            "entity_name": "Linux|SUSE Linux Enterprise Server",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q1759786', 'types': ['Q131669'], 'url': 'http://dbpedia.org/resource/SUSE_Linux_Enterprise_Server'}"
+        },
+        "411": {
+            "entity_id": 436,
+            "entity_name": "Linux|Ubuntu",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q381', 'types': ['Q131669', 'Q5276054', 'Q20983788', 'Q3251801'], 'url': 'http://dbpedia.org/resource/Ubuntu_(operating_system)'}"
+        },
+        "412": {
+            "entity_id": 437,
+            "entity_name": "Linux|zLinux",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q136277', 'types': ['Q388'], 'url': 'http://dbpedia.org/resource/Linux_on_z_Systems'}"
+        },
+        "413": {
+            "entity_id": 438,
+            "entity_name": "macOS",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q14116', 'types': ['Q43627', 'Q218616', 'Q811701', 'Q14656'], 'url': 'http://dbpedia.org/resource/MacOS'}"
+        },
+        "414": {
+            "entity_id": 440,
+            "entity_name": "MVS|OS/390",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q1726891', 'types': ['Q9135'], 'url': 'http://dbpedia.org/resource/OS/390'}"
+        },
+        "415": {
+            "entity_id": 441,
+            "entity_name": "MVS|z/OS",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q283705', 'types': ['Q14656'], 'url': 'http://dbpedia.org/resource/Z/OS'}"
+        },
+        "416": {
+            "entity_id": 442,
+            "entity_name": "OpenVMS",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q479882', 'types': ['Q9135', 'Q218616', 'Q3496042'], 'url': 'http://dbpedia.org/resource/OpenVMS'}"
+        },
+        "417": {
+            "entity_id": 443,
+            "entity_name": "OS/2",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q189794', 'types': ['Q9135'], 'url': 'http://dbpedia.org/resource/OS/2'}"
+        },
+        "418": {
+            "entity_id": 445,
+            "entity_name": "Unix|AIX",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q269856', 'types': ['Q218616', 'Q14656'], 'url': 'http://dbpedia.org/resource/IBM_AIX'}"
+        },
+        "419": {
+            "entity_id": 447,
+            "entity_name": "Unix|BSD|FreeBSD",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q34236', 'types': [], 'url': 'http://dbpedia.org/resource/FreeBSD'}"
+        },
+        "420": {
+            "entity_id": 448,
+            "entity_name": "Unix|BSD|SunOS",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q1208460', 'types': ['Q9135'], 'url': 'http://dbpedia.org/resource/SunOS'}"
+        },
+        "421": {
+            "entity_id": 449,
+            "entity_name": "Unix|HP-UX",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q847593', 'types': ['Q14656'], 'url': 'http://dbpedia.org/resource/HP-UX'}"
+        },
+        "422": {
+            "entity_id": 451,
+            "entity_name": "Windows|Windows Desktop",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q1406', 'types': ['Q9135', 'Q218616'], 'url': 'http://dbpedia.org/resource/Microsoft_Windows'}"
+        },
+        "423": {
+            "entity_id": 452,
+            "entity_name": "Windows|Windows Server",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q11219', 'types': ['Q9135'], 'url': 'http://dbpedia.org/resource/Windows_Server'}"
+        },
+        "424": {
+            "entity_id": 453,
+            "entity_name": "Linux|Fedora",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q48267', 'types': ['Q131669', 'Q20983788'], 'url': 'http://dbpedia.org/resource/Fedora_(operating_system)'}"
+        },
+        "425": {
+            "entity_id": 454,
+            "entity_name": "Linux|Amazon Linux",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q68223191', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q68223191'}"
+        },
+        "426": {
+            "entity_id": 455,
+            "entity_name": "Clarify|Clear Basic",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "427": {
+            "entity_id": 456,
+            "entity_name": "Eclipse|ATLAS Transformation Language (ATL)",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{'qid': 'Q667812', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/ATLAS_Transformation_Language'}"
+        },
+        "428": {
+            "entity_id": 457,
+            "entity_name": "IBM BigFix Platform|Client Deploy Tool",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{'qid': 'Q1420900', 'types': [], 'url': 'http://dbpedia.org/resource/Microsoft_Deployment_Toolkit'}"
+        },
+        "429": {
+            "entity_id": 458,
+            "entity_name": "IBM Integration Bus|Extended Structured Query Language (ESQL)",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "430": {
+            "entity_id": 459,
+            "entity_name": "IBM Tivoli Asset Management|Asset Discovery for Distributed",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "431": {
+            "entity_id": 460,
+            "entity_name": "IBM Tivoli Storage Manager|TSM API",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "432": {
+            "entity_id": 461,
+            "entity_name": "IBM Tivoli Storage Manager|TSM Client",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "433": {
+            "entity_id": 462,
+            "entity_name": "IBM Tivoli Storage Manager|TSM Storage Agent",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "434": {
+            "entity_id": 463,
+            "entity_name": "IBM Tivoli Storage Manager|VSS Requestor",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "435": {
+            "entity_id": 464,
+            "entity_name": "Microsoft Exchange Server|Veeam Explorer",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{'qid': 'Q22096414', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q22096414'}"
+        },
+        "436": {
+            "entity_id": 465,
+            "entity_name": "MS SQL Server|MS SQL Server Browser",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "437": {
+            "entity_id": 466,
+            "entity_name": "MS SQL Server|Data Transformation Services",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{'qid': 'Q644775', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Data_Transformation_Services'}"
+        },
+        "438": {
+            "entity_id": 467,
+            "entity_name": "MS SQL Server|Log Reader Agent",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "439": {
+            "entity_id": 468,
+            "entity_name": "MS SQL Server|SQL Server Analysis Services (SSAS)",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{'qid': 'Q2067216', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Microsoft_Analysis_Services'}"
+        },
+        "440": {
+            "entity_id": 469,
+            "entity_name": "MS SQL Server|SQL Server Database Engine",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "441": {
+            "entity_id": 470,
+            "entity_name": "MS SQL Server|SQL Server Integration Services (SSIS)",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{'qid': 'Q1231051', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/SQL_Server_Integration_Services'}"
+        },
+        "442": {
+            "entity_id": 471,
+            "entity_name": "MS SQL Server|SQL Server Management Studio",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{'qid': 'Q4048883', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/SQL_Server_Management_Studio'}"
+        },
+        "443": {
+            "entity_id": 472,
+            "entity_name": "MS SQL Server|SQL Server Report Builder",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{'qid': 'Q846897', 'types': ['Q7314108'], 'url': 'http://dbpedia.org/resource/SQL_Server_Reporting_Services'}"
+        },
+        "444": {
+            "entity_id": 473,
+            "entity_name": "MS SQL Server|SQL Server Reporting Services (SSRS)",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{'qid': 'Q846897', 'types': ['Q7314108'], 'url': 'http://dbpedia.org/resource/SQL_Server_Reporting_Services'}"
+        },
+        "445": {
+            "entity_id": 474,
+            "entity_name": "Oracle Database|Jserver",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "446": {
+            "entity_id": 475,
+            "entity_name": "Oracle Database|Oracle Spatial and Graph",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{'qid': 'Q3508244', 'types': ['Q7397', 'Q176165'], 'url': 'http://dbpedia.org/resource/Oracle_Spatial_and_Graph'}"
+        },
+        "447": {
+            "entity_id": 476,
+            "entity_name": "SAP ERP|SAP EHP",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "448": {
+            "entity_id": 477,
+            "entity_name": "SAP ERP|SAP Kernel",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "449": {
+            "entity_id": 478,
+            "entity_name": "Oracle Database|SQL*Plus",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{'qid': 'Q2575010', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/SQL*Plus'}"
+        },
+        "450": {
+            "entity_id": 479,
+            "entity_name": "Sybase SQL Server|Sybase Central",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "451": {
+            "entity_id": 480,
+            "entity_name": "Sybase SQL Server|Sybase Dsedit",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "452": {
+            "entity_id": 481,
+            "entity_name": "TIBCO Business Works (BW)|Integration Manager",
+            "entity_type_id": 5,
+            "entity_type_name": "Plugin",
+            "external_link": "{}"
+        },
+        "453": {
+            "entity_id": 482,
+            "entity_name": ".NET Framework|Common Runtime Library",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{'qid': 'Q1444922', 'types': [], 'url': 'http://dbpedia.org/resource/Runtime_library'}"
+        },
+        "454": {
+            "entity_id": 483,
+            "entity_name": ".NET Framework|log4net",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{'qid': 'Q7884429', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q7884429'}"
+        },
+        "455": {
+            "entity_id": 484,
+            "entity_name": ".NET Framework|Magick.NET",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{}"
+        },
+        "456": {
+            "entity_id": 485,
+            "entity_name": ".NET Framework|Windows Communication Foundation (WCF)",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{'qid': 'Q261595', 'types': ['Q40056', 'Q271680'], 'url': 'http://dbpedia.org/resource/Windows_Communication_Foundation'}"
+        },
+        "457": {
+            "entity_id": 486,
+            "entity_name": ".NET Framework|Windows Workflow Foundation (WF)",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{'qid': 'Q1154450', 'types': ['Q271680'], 'url': 'http://dbpedia.org/resource/Windows_Workflow_Foundation'}"
+        },
+        "458": {
+            "entity_id": 487,
+            "entity_name": ".NET Framework|WinForms",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{'qid': 'Q613361', 'types': ['Q1193246', 'Q271680'], 'url': 'http://dbpedia.org/resource/Windows_Forms'}"
+        },
+        "459": {
+            "entity_id": 488,
+            "entity_name": "ActiveX|ADO",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{'qid': 'Q344005', 'types': ['Q165194'], 'url': 'http://dbpedia.org/resource/ActiveX_Data_Objects'}"
+        },
+        "460": {
+            "entity_id": 489,
+            "entity_name": "IIS|Easy Migration Tool (IEMT)",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{}"
+        },
+        "461": {
+            "entity_id": 490,
+            "entity_name": "IIS|Application Request Routing (ARR)",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{'qid': 'Q16987674', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/Application_Request_Routing'}"
+        },
+        "462": {
+            "entity_id": 491,
+            "entity_name": "IIS|IIS Manager",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{}"
+        },
+        "463": {
+            "entity_id": 492,
+            "entity_name": "JBoss|JBoss Seam",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{'qid': 'Q923560', 'types': ['Q1330336', 'Q341'], 'url': 'http://dbpedia.org/resource/JBoss_Seam'}"
+        },
+        "464": {
+            "entity_id": 493,
+            "entity_name": "JBoss|Wildfly",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{'qid': 'Q68850', 'types': ['Q71550', 'Q341'], 'url': 'http://dbpedia.org/resource/WildFly'}"
+        },
+        "465": {
+            "entity_id": 494,
+            "entity_name": "Oracle Application Server|Oracle Transparent Gateway",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{}"
+        },
+        "466": {
+            "entity_id": 495,
+            "entity_name": "Oracle WebCenter Content Server|Idoc Script",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{}"
+        },
+        "467": {
+            "entity_id": 496,
+            "entity_name": "SAP NetWeaver App Server|ABAP",
+            "entity_type_id": 7,
+            "entity_type_name": "Runlib",
+            "external_link": "{'qid': 'Q380523', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/ABAP'}"
+        },
+        "468": {
+            "entity_id": 497,
+            "entity_name": ".NET Framework|*",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q5289', 'types': ['Q241317', 'Q271680'], 'url': 'http://dbpedia.org/resource/.NET_Framework'}"
+        },
+        "469": {
+            "entity_id": 498,
+            "entity_name": "Active Directory (AD)",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q55692', 'types': ['Q756230'], 'url': 'http://dbpedia.org/resource/Active_Directory'}"
+        },
+        "470": {
+            "entity_id": 500,
+            "entity_name": "ActiveX|*",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q302022', 'types': ['Q271680'], 'url': 'http://dbpedia.org/resource/ActiveX'}"
+        },
+        "471": {
+            "entity_id": 501,
+            "entity_name": "Apache Cordova",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q16626338', 'types': ['Q6934955'], 'url': 'http://dbpedia.org/resource/Apache_Cordova'}"
+        },
+        "472": {
+            "entity_id": 502,
+            "entity_name": "CICS",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q1146247', 'types': ['Q9143', 'Q4388320'], 'url': 'http://dbpedia.org/resource/CICS'}"
+        },
+        "473": {
+            "entity_id": 503,
+            "entity_name": "Docker",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q15206305', 'types': ['Q167772', 'Q7935198', 'Q506883'], 'url': 'http://dbpedia.org/resource/Docker_(software)'}"
+        },
+        "474": {
+            "entity_id": 504,
+            "entity_name": "Flash",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q165658', 'types': ['Q1155404', 'Q241317', 'Q2622299', 'Q166142'], 'url': 'http://dbpedia.org/resource/Adobe_Flash'}"
+        },
+        "475": {
+            "entity_id": 505,
+            "entity_name": "HTTP File Server",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q1566096', 'types': ['Q11288'], 'url': 'http://dbpedia.org/resource/HTTP_File_Server'}"
+        },
+        "476": {
+            "entity_id": 506,
+            "entity_name": "Java Runtime Environment (JRE)",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q1504505', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q1504505'}"
+        },
+        "477": {
+            "entity_id": 507,
+            "entity_name": "Node.js",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q756100', 'types': ['Q28920813'], 'url': 'http://dbpedia.org/resource/Node.js'}"
+        },
+        "478": {
+            "entity_id": 508,
+            "entity_name": "Ruby on Rails",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q190478', 'types': ['Q1330336', 'Q341'], 'url': 'http://dbpedia.org/resource/Ruby_on_Rails'}"
+        },
+        "479": {
+            "entity_id": 509,
+            "entity_name": "VisualForce",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{}"
+        },
+        "480": {
+            "entity_id": 510,
+            "entity_name": "EMC Celerra",
+            "entity_type_id": 11,
+            "entity_type_name": "Storage",
+            "external_link": "{'qid': 'Q5057823', 'types': ['Q9135'], 'url': 'http://dbpedia.org/resource/Celerra'}"
+        },
+        "481": {
+            "entity_id": 511,
+            "entity_name": "Application Lifecycle Management (ALM)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q621590', 'types': ['Q1780667'], 'url': 'http://dbpedia.org/resource/Application_lifecycle_management'}"
+        },
+        "482": {
+            "entity_id": 512,
+            "entity_name": "Assembler Language",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q165436', 'types': ['Q28922854', 'Q9143', 'Q558937'], 'url': 'http://dbpedia.org/resource/Assembly_language'}"
+        },
+        "483": {
+            "entity_id": 513,
+            "entity_name": "Batch Management Software (BMS)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{}"
+        },
+        "484": {
+            "entity_id": 514,
+            "entity_name": "Business Object Reports",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{}"
+        },
+        "485": {
+            "entity_id": 515,
+            "entity_name": "Common Gateway Interface (CGI)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q264364', 'types': ['Q11016', 'Q132364'], 'url': 'http://dbpedia.org/resource/Common_Gateway_Interface'}"
+        },
+        "486": {
+            "entity_id": 516,
+            "entity_name": "Compopent Object Model (COM)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q662200', 'types': ['Q271680'], 'url': 'http://dbpedia.org/resource/Component_Object_Model'}"
+        },
+        "487": {
+            "entity_id": 517,
+            "entity_name": "Common Object Request Broker Architecture (CORBA)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q691593', 'types': ['Q317623'], 'url': 'http://dbpedia.org/resource/Common_Object_Request_Broker_Architecture'}"
+        },
+        "488": {
+            "entity_id": 518,
+            "entity_name": "CORBA Interface Definition Language (CORBA IDL)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{}"
+        },
+        "489": {
+            "entity_id": 519,
+            "entity_name": "Data Control Language (DCL)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q604737', 'types': ['Q41591651'], 'url': 'http://dbpedia.org/resource/Data_control_language'}"
+        },
+        "490": {
+            "entity_id": 520,
+            "entity_name": "Database (DB)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q8513', 'types': ['Q15401930', 'Q386724', 'Q28813620'], 'url': 'http://dbpedia.org/resource/Database'}"
+        },
+        "491": {
+            "entity_id": 521,
+            "entity_name": "Electronic Data Interchange (EDI)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q690189', 'types': ['Q2989673'], 'url': 'http://dbpedia.org/resource/Electronic_data_interchange'}"
+        },
+        "492": {
+            "entity_id": 522,
+            "entity_name": "Application Web Server",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q11288', 'types': ['Q1371279', 'Q4485156', 'Q17155032'], 'url': 'http://dbpedia.org/resource/Web_server'}"
+        },
+        "493": {
+            "entity_id": 523,
+            "entity_name": "Java-based Document Object Model for XML (JDOM)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q359595', 'types': ['Q341', 'Q21127166'], 'url': 'http://dbpedia.org/resource/JDOM'}"
+        },
+        "494": {
+            "entity_id": 524,
+            "entity_name": "Lightweight Directory Access Protocol (LDAP)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q188816', 'types': ['Q756230', 'Q15836568'], 'url': 'http://dbpedia.org/resource/Lightweight_Directory_Access_Protocol'}"
+        },
+        "495": {
+            "entity_id": 525,
+            "entity_name": "Open Database Connectivity (ODBC)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q212606', 'types': ['Q165194', 'Q1172367'], 'url': 'http://dbpedia.org/resource/Open_Database_Connectivity'}"
+        },
+        "496": {
+            "entity_id": 526,
+            "entity_name": "Order Management System (OMS)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q7100437', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Order_management_system'}"
+        },
+        "497": {
+            "entity_id": 527,
+            "entity_name": "Oracle Web Services",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{}"
+        },
+        "498": {
+            "entity_id": 529,
+            "entity_name": "Representational State Transfer (REST)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q749568', 'types': ['Q220644'], 'url': 'http://dbpedia.org/resource/Representational_state_transfer'}"
+        },
+        "499": {
+            "entity_id": 530,
+            "entity_name": "Service-Oriented Architecture (SOA)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q220644', 'types': ['Q846636'], 'url': 'http://dbpedia.org/resource/Service-oriented_architecture'}"
+        },
+        "500": {
+            "entity_id": 531,
+            "entity_name": "Simple Object Access Protocol (SOAP)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q189620', 'types': ['Q15836568'], 'url': 'http://dbpedia.org/resource/SOAP'}"
+        },
+        "501": {
+            "entity_id": 533,
+            "entity_name": "YAML",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q281876', 'types': ['Q37045', 'Q50843083', 'Q235557', 'Q24451526'], 'url': 'http://dbpedia.org/resource/YAML'}"
+        },
+        "502": {
+            "entity_id": 535,
+            "entity_name": "Application Server",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q71550', 'types': ['Q1371279'], 'url': 'http://dbpedia.org/resource/Application_server'}"
+        },
+        "503": {
+            "entity_id": 536,
+            "entity_name": "Cloud",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q483639', 'types': ['Q771906', 'Q241317'], 'url': 'http://dbpedia.org/resource/Cloud_computing'}"
+        },
+        "504": {
+            "entity_id": 537,
+            "entity_name": "Competency and Quality Assurance Server",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{}"
+        },
+        "505": {
+            "entity_id": 538,
+            "entity_name": "Device Provisioning Engines (DPE)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q5318925', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Dynamic_provisioning_environment'}"
+        },
+        "506": {
+            "entity_id": 539,
+            "entity_name": "E-business solution",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{}"
+        },
+        "507": {
+            "entity_id": 540,
+            "entity_name": "Enterprise Service Bus(ESB)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q1061460', 'types': ['Q146923'], 'url': 'http://dbpedia.org/resource/Enterprise_service_bus'}"
+        },
+        "508": {
+            "entity_id": 541,
+            "entity_name": "File Server",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q513349', 'types': ['Q1371279'], 'url': 'http://dbpedia.org/resource/File_server'}"
+        },
+        "509": {
+            "entity_id": 542,
+            "entity_name": "General Ledger",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q1977520', 'types': ['Q3831821', 'Q4116214'], 'url': 'http://dbpedia.org/resource/General_ledger'}"
+        },
+        "510": {
+            "entity_id": 543,
+            "entity_name": "HTTP client",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q2979024', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q2979024'}"
+        },
+        "511": {
+            "entity_id": 545,
+            "entity_name": "Integrated Safe System of Work (ISSOW)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q5974495', 'types': ['Q317623'], 'url': 'http://dbpedia.org/resource/ISSOW'}"
+        },
+        "512": {
+            "entity_id": 546,
+            "entity_name": "Internet Exchange Point - Full Stack (ixp-ft)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q1433061', 'types': ['Q173106', 'Q1293220'], 'url': 'http://dbpedia.org/resource/Internet_exchange_point'}"
+        },
+        "513": {
+            "entity_id": 547,
+            "entity_name": "Internet Message Access Protocol (IMAP)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q166936', 'types': ['Q16935517', 'Q15836568'], 'url': 'http://dbpedia.org/resource/Internet_Message_Access_Protocol'}"
+        },
+        "514": {
+            "entity_id": 548,
+            "entity_name": "JSON",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q2063', 'types': ['Q681263', 'Q235557', 'Q24451526'], 'url': 'http://dbpedia.org/resource/JSON'}"
+        },
+        "515": {
+            "entity_id": 549,
+            "entity_name": "KVS Application Server",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{}"
+        },
+        "516": {
+            "entity_id": 550,
+            "entity_name": "KVS File Server",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{}"
+        },
+        "517": {
+            "entity_id": 551,
+            "entity_name": "KVS Proxy Server",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{}"
+        },
+        "518": {
+            "entity_id": 552,
+            "entity_name": "mainframe",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q177234', 'types': ['Q64729893'], 'url': 'http://dbpedia.org/resource/Mainframe_computer'}"
+        },
+        "519": {
+            "entity_id": 553,
+            "entity_name": "Manufacturing Execution System (MES)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q1404943', 'types': ['Q489371'], 'url': 'http://dbpedia.org/resource/Manufacturing_execution_system'}"
+        },
+        "520": {
+            "entity_id": 554,
+            "entity_name": "Mobile",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q2738570', 'types': ['Q179310'], 'url': 'http://dbpedia.org/resource/Mobile_computing'}"
+        },
+        "521": {
+            "entity_id": 555,
+            "entity_name": "NonSQL",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q5999165', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q5999165'}"
+        },
+        "522": {
+            "entity_id": 556,
+            "entity_name": "SaaS",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q1254596', 'types': ['Q8187769', 'Q25036597', 'Q17155032', 'Q7397'], 'url': 'http://dbpedia.org/resource/Software_as_a_service'}"
+        },
+        "523": {
+            "entity_id": 557,
+            "entity_name": "Storage Area Network (SAN)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q237576', 'types': ['Q15141646', 'Q994895', 'Q1301371'], 'url': 'http://dbpedia.org/resource/Storage_area_network'}"
+        },
+        "524": {
+            "entity_id": 558,
+            "entity_name": "Supplier Registration System Application Server",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{}"
+        },
+        "525": {
+            "entity_id": 559,
+            "entity_name": "Virtual Appliance",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q752708', 'types': ['None'], 'url': 'http://dbpedia.org/resource/Virtual_appliance'}"
+        },
+        "526": {
+            "entity_id": 560,
+            "entity_name": "Webtop",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q1780763', 'types': ['Q1668024'], 'url': 'http://dbpedia.org/resource/Web_desktop'}"
+        },
+        "527": {
+            "entity_id": 561,
+            "entity_name": "Proxy Server",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q11189', 'types': ['Q1371279'], 'url': 'http://dbpedia.org/resource/Proxy_server'}"
+        },
+        "528": {
+            "entity_id": 562,
+            "entity_name": "Utility",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q312466', 'types': ['Q40056', 'Q676202', 'Q17155032'], 'url': 'http://dbpedia.org/resource/Utility_software'}"
+        },
+        "529": {
+            "entity_id": 563,
+            "entity_name": "Citrix ADC",
+            "entity_type_id": 3,
+            "entity_type_name": "VM",
+            "external_link": "{'qid': 'Q12040775', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q12040775'}"
+        },
+        "530": {
+            "entity_id": 564,
+            "entity_name": "Citrix ADC VPX",
+            "entity_type_id": 3,
+            "entity_type_name": "VM",
+            "external_link": "{}"
+        },
+        "531": {
+            "entity_id": 565,
+            "entity_name": "Citrix ADC BLX",
+            "entity_type_id": 3,
+            "entity_type_name": "VM",
+            "external_link": "{}"
+        },
+        "532": {
+            "entity_id": 566,
+            "entity_name": "InterScan Messaging Security Virtual Appliance (IMSVA)",
+            "entity_type_id": 3,
+            "entity_type_name": "VM",
+            "external_link": "{}"
+        },
+        "533": {
+            "entity_id": 567,
+            "entity_name": "Oracle VM",
+            "entity_type_id": 3,
+            "entity_type_name": "VM",
+            "external_link": "{'qid': 'Q10852040', 'types': [], 'url': 'http://dbpedia.org/resource/Oracle_VM_Server_for_x86'}"
+        },
+        "534": {
+            "entity_id": 568,
+            "entity_name": "VMware ESXi",
+            "entity_type_id": 3,
+            "entity_type_name": "VM",
+            "external_link": "{'qid': 'Q179116', 'types': ['Q1077480', 'Q14656'], 'url': 'http://dbpedia.org/resource/VMware_ESXi'}"
+        },
+        "535": {
+            "entity_id": 569,
+            "entity_name": "VMware Server",
+            "entity_type_id": 3,
+            "entity_type_name": "VM",
+            "external_link": "{'qid': 'Q4007037', 'types': ['Q1077480'], 'url': 'http://dbpedia.org/resource/VMware_Server'}"
+        },
+        "536": {
+            "entity_id": 572,
+            "entity_name": "Structured Query Language (SQL)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q47607', 'types': ['Q9143', 'Q1144882', 'Q845739', 'Q691358'], 'url': 'http://dbpedia.org/resource/SQL'}"
+        },
+        "537": {
+            "entity_id": 574,
+            "entity_name": "Model view controller (MVC)",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q44860', 'types': ['Q635346', 'Q181156'], 'url': 'http://dbpedia.org/resource/Model\u00fbview\u00fbcontroller'}"
+        },
+        "538": {
+            "entity_id": 576,
+            "entity_name": "Linux|*",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q388', 'types': ['Q14656', 'Q16889133', 'Q341'], 'url': 'http://dbpedia.org/resource/Linux'}"
+        },
+        "539": {
+            "entity_id": 577,
+            "entity_name": "MVS|*",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q781443', 'types': ['Q9135'], 'url': 'http://dbpedia.org/resource/MVS'}"
+        },
+        "540": {
+            "entity_id": 578,
+            "entity_name": "Unix|*",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q11368', 'types': ['Q170584', 'Q14656'], 'url': 'http://dbpedia.org/resource/Unix'}"
+        },
+        "541": {
+            "entity_id": 579,
+            "entity_name": "Unix|BSD|*",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q34264', 'types': ['Q11368'], 'url': 'http://dbpedia.org/resource/Berkeley_Software_Distribution'}"
+        },
+        "542": {
+            "entity_id": 580,
+            "entity_name": "Windows|*",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q1406', 'types': ['Q9135', 'Q218616'], 'url': 'http://dbpedia.org/resource/Microsoft_Windows'}"
+        },
+        "543": {
+            "entity_id": 581,
+            "entity_name": "MS SQL Server|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q215819', 'types': ['Q218616', 'Q3932296'], 'url': 'http://dbpedia.org/resource/Microsoft_SQL_Server'}"
+        },
+        "544": {
+            "entity_id": 582,
+            "entity_name": "C#",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2370', 'types': ['Q9143', 'Q12772052'], 'url': 'http://dbpedia.org/resource/C_Sharp_(programming_language)'}"
+        },
+        "545": {
+            "entity_id": 583,
+            "entity_name": "C++|*",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2407', 'types': ['Q28923026', 'Q12772052', 'Q28922885', 'Q899523', 'Q3839507', 'Q9143', 'Q5499621', 'Q651794'], 'url': 'http://dbpedia.org/resource/C++'}"
+        },
+        "546": {
+            "entity_id": 584,
+            "entity_name": "Java|*",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q251', 'types': ['Q12772052', 'Q56062429', 'Q9143'], 'url': 'http://dbpedia.org/resource/Java_(programming_language)'}"
+        },
+        "547": {
+            "entity_id": 585,
+            "entity_name": "Perl|*",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q42478', 'types': ['Q9143'], 'url': 'http://dbpedia.org/resource/Perl'}"
+        },
+        "548": {
+            "entity_id": 586,
+            "entity_name": "PHP",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q59', 'types': ['Q1993334'], 'url': 'http://dbpedia.org/resource/PHP'}"
+        },
+        "549": {
+            "entity_id": 587,
+            "entity_name": "Python",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q28865', 'types': ['Q899523'], 'url': 'http://dbpedia.org/resource/Python_(programming_language)'}"
+        },
+        "550": {
+            "entity_id": 588,
+            "entity_name": "Ruby",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q161053', 'types': ['Q899523'], 'url': 'http://dbpedia.org/resource/Ruby_(programming_language)'}"
+        },
+        "551": {
+            "entity_id": 589,
+            "entity_name": "JavaScript|*",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2005', 'types': ['Q241317', 'Q12772052', 'Q3839507', 'Q187432', 'Q9143', 'Q28920810', 'Q21562092', 'Q28920813', 'Q1993334'], 'url': 'http://dbpedia.org/resource/JavaScript'}"
+        },
+        "552": {
+            "entity_id": 590,
+            "entity_name": "Unix|BSD|OpenBSD",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q34215', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q34215'}"
+        },
+        "553": {
+            "entity_id": 591,
+            "entity_name": "z/VSE",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q289345', 'types': ['Q9135'], 'url': 'http://dbpedia.org/resource/VSE_(operating_system)'}"
+        },
+        "554": {
+            "entity_id": 592,
+            "entity_name": "Active Server Pages (ASP)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q344266', 'types': ['Q1330336', 'Q9143'], 'url': 'http://dbpedia.org/resource/Active_Server_Pages'}"
+        },
+        "555": {
+            "entity_id": 593,
+            "entity_name": "MS-DOS",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q47604', 'types': ['Q9135', 'Q241317', 'Q170434'], 'url': 'http://dbpedia.org/resource/MS-DOS'}"
+        },
+        "556": {
+            "entity_id": 594,
+            "entity_name": "COBOL",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q131140', 'types': ['Q9143', 'Q28922885', 'Q21562092', 'Q899523'], 'url': 'http://dbpedia.org/resource/COBOL'}"
+        },
+        "557": {
+            "entity_id": 595,
+            "entity_name": "VME",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{}"
+        },
+        "558": {
+            "entity_id": 596,
+            "entity_name": "Extensible Markup Language (XML)|*",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2115', 'types': ['Q82753', 'Q37045', 'Q24451526'], 'url': 'http://dbpedia.org/resource/XML'}"
+        },
+        "559": {
+            "entity_id": 597,
+            "entity_name": "DOS/360",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q3487917', 'types': ['Q9135'], 'url': 'http://dbpedia.org/resource/DOS/360_and_successors'}"
+        },
+        "560": {
+            "entity_id": 598,
+            "entity_name": "z/TPF",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q1426122', 'types': ['Q9135'], 'url': 'http://dbpedia.org/resource/Transaction_Processing_Facility'}"
+        },
+        "561": {
+            "entity_id": 599,
+            "entity_name": "Pascal|*",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q81571', 'types': ['Q9143', 'Q21562092', 'Q1993334'], 'url': 'http://dbpedia.org/resource/Pascal_(programming_language)'}"
+        },
+        "562": {
+            "entity_id": 600,
+            "entity_name": "Oracle WebLogic Server",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q83589', 'types': ['Q71550'], 'url': 'http://dbpedia.org/resource/Oracle_WebLogic_Server'}"
+        },
+        "563": {
+            "entity_id": 601,
+            "entity_name": "Websphere ILOG JRules BRMS",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "564": {
+            "entity_id": 602,
+            "entity_name": "Unix|BSD|NetBSD",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q34225', 'types': [], 'url': 'https://www.wikidata.org/wiki/Q34225'}"
+        },
+        "565": {
+            "entity_id": 603,
+            "entity_name": "SharePoint",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q18833', 'types': ['Q1371279', 'Q1344636', 'Q131093', 'Q831677', 'Q615985'], 'url': 'http://dbpedia.org/resource/SharePoint'}"
+        },
+        "566": {
+            "entity_id": 604,
+            "entity_name": "IBM Tivoli Storage Manager|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2001900', 'types': ['Q7397'], 'url': 'http://dbpedia.org/resource/IBM_Tivoli_Storage_Manager'}"
+        },
+        "567": {
+            "entity_id": 605,
+            "entity_name": "IBM Spectrum Scale",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2389927', 'types': ['Q174989', 'Q7397'], 'url': 'http://dbpedia.org/resource/IBM_General_Parallel_File_System'}"
+        },
+        "568": {
+            "entity_id": 606,
+            "entity_name": "IBM Tivoli Asset Management|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "569": {
+            "entity_id": 607,
+            "entity_name": "Oracle Hyperion|*",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1431991', 'types': ['Q4830453'], 'url': 'http://dbpedia.org/resource/Oracle_Hyperion'}"
+        },
+        "570": {
+            "entity_id": 608,
+            "entity_name": "z/VM",
+            "entity_type_id": 6,
+            "entity_type_name": "OS",
+            "external_link": "{'qid': 'Q1399696', 'types': ['Q9135', 'Q1077480'], 'url': 'http://dbpedia.org/resource/Z/VM'}"
+        },
+        "571": {
+            "entity_id": 609,
+            "entity_name": "IIS|*",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q11341', 'types': ['Q218616', 'Q18287040'], 'url': 'http://dbpedia.org/resource/Internet_Information_Services'}"
+        },
+        "572": {
+            "entity_id": 610,
+            "entity_name": "Oracle Application Server|*",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q2027912', 'types': ['Q71550'], 'url': 'http://dbpedia.org/resource/Oracle_Application_Server'}"
+        },
+        "573": {
+            "entity_id": 611,
+            "entity_name": "instana",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q107383927', 'url': 'https://www.wikidata.org/wiki/Q107383927'}"
+        },
+        "574": {
+            "entity_id": 612,
+            "entity_name": "credstash",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q107384165', 'url': 'https://www.wikidata.org/wiki/Q107384165'}"
+        },
+        "575": {
+            "entity_id": 613,
+            "entity_name": "Snyk",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q108282404', 'url': 'https://www.wikidata.org/wiki/Q108282404'}"
+        },
+        "576": {
+            "entity_id": 614,
+            "entity_name": "Akka",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q16002307', 'url': 'https://www.wikidata.org/wiki/Q16002307'}"
+        },
+        "577": {
+            "entity_id": 615,
+            "entity_name": "Varnish",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q1602447', 'url': 'https://www.wikidata.org/wiki/Q1602447'}"
+        },
+        "578": {
+            "entity_id": 616,
+            "entity_name": "Datadog",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q16248637', 'url': 'https://www.wikidata.org/wiki/Q16248637'}"
+        },
+        "579": {
+            "entity_id": 617,
+            "entity_name": "API",
+            "entity_type_id": 1,
+            "entity_type_name": "Technology",
+            "external_link": "{'qid': 'Q165194', 'url': 'https://www.wikidata.org/wiki/Q165194'}"
+        },
+        "580": {
+            "entity_id": 618,
+            "entity_name": "Hazelcast",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q17021540', 'url': 'https://www.wikidata.org/wiki/Q17021540'}"
+        },
+        "581": {
+            "entity_id": 619,
+            "entity_name": "Infinispan",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q18152516', 'url': 'https://www.wikidata.org/wiki/Q18152516'}"
+        },
+        "582": {
+            "entity_id": 620,
+            "entity_name": "Nuxeo",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q2004521', 'url': 'https://www.wikidata.org/wiki/Q2004521'}"
+        },
+        "583": {
+            "entity_id": 621,
+            "entity_name": "ArangoDB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q20072115', 'url': 'https://www.wikidata.org/wiki/Q20072115'}"
+        },
+        "584": {
+            "entity_id": 622,
+            "entity_name": "Eclipse|Eclipse Che",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q25000883', 'url': 'https://www.wikidata.org/wiki/Q25000883'}"
+        },
+        "585": {
+            "entity_id": 623,
+            "entity_name": "Amazon S3",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q2593067', 'url': 'https://www.wikidata.org/wiki/Q2593067'}"
+        },
+        "586": {
+            "entity_id": 624,
+            "entity_name": "ClickHouse",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q27825826', 'url': 'https://www.wikidata.org/wiki/Q27825826'}"
+        },
+        "587": {
+            "entity_id": 625,
+            "entity_name": "MinIO",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q28956397', 'url': 'https://www.wikidata.org/wiki/Q28956397'}"
+        },
+        "588": {
+            "entity_id": 626,
+            "entity_name": "Elasticsearch",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q3050461', 'url': 'https://www.wikidata.org/wiki/Q3050461'}"
+        },
+        "589": {
+            "entity_id": 627,
+            "entity_name": "XtraDB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q4021858', 'url': 'https://www.wikidata.org/wiki/Q4021858'}"
+        },
+        "590": {
+            "entity_id": 628,
+            "entity_name": "Keycloak",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q42916195', 'url': 'https://www.wikidata.org/wiki/Q42916195'}"
+        },
+        "591": {
+            "entity_id": 629,
+            "entity_name": "Grafana",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q43399271', 'url': 'https://www.wikidata.org/wiki/Q43399271'}"
+        },
+        "592": {
+            "entity_id": 630,
+            "entity_name": "Mattermost",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q55478510', 'url': 'https://www.wikidata.org/wiki/Q55478510'}"
+        },
+        "593": {
+            "entity_id": 631,
+            "entity_name": "Synapse",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q56328412', 'url': 'https://www.wikidata.org/wiki/Q56328412'}"
+        },
+        "594": {
+            "entity_id": 632,
+            "entity_name": "Cloud IAM",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q59852253', 'url': 'https://www.wikidata.org/wiki/Q59852253'}"
+        },
+        "595": {
+            "entity_id": 633,
+            "entity_name": "Knative",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q59905591', 'url': 'https://www.wikidata.org/wiki/Q59905591'}"
+        },
+        "596": {
+            "entity_id": 634,
+            "entity_name": "Apache Cassandra",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q616639', 'url': 'https://www.wikidata.org/wiki/Q616639'}"
+        },
+        "597": {
+            "entity_id": 635,
+            "entity_name": "Kubeflow",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q65048974', 'url': 'https://www.wikidata.org/wiki/Q65048974'}"
+        },
+        "598": {
+            "entity_id": 636,
+            "entity_name": "Qiskit",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q70490607', 'url': 'https://www.wikidata.org/wiki/Q70490607'}"
+        },
+        "599": {
+            "entity_id": 637,
+            "entity_name": "Microsoft Azure",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q725967', 'url': 'https://www.wikidata.org/wiki/Q725967'}"
+        },
+        "600": {
+            "entity_id": 638,
+            "entity_name": "Strimzi",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q72711423', 'url': 'https://www.wikidata.org/wiki/Q72711423'}"
+        },
+        "601": {
+            "entity_id": 639,
+            "entity_name": "Sematext",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q7449130', 'url': 'https://www.wikidata.org/wiki/Q7449130'}"
+        },
+        "602": {
+            "entity_id": 640,
+            "entity_name": "Eclipse|Eclipse hawkBit",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q76178253', 'url': 'https://www.wikidata.org/wiki/Q76178253'}"
+        },
+        "603": {
+            "entity_id": 641,
+            "entity_name": "Eclipse|Eclipse Ditto",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q76178650', 'url': 'https://www.wikidata.org/wiki/Q76178650'}"
+        },
+        "604": {
+            "entity_id": 642,
+            "entity_name": "MariaDB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q787177', 'url': 'https://www.wikidata.org/wiki/Q787177'}"
+        },
+        "605": {
+            "entity_id": 643,
+            "entity_name": "Zadara",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q8064144', 'url': 'https://www.wikidata.org/wiki/Q8064144'}"
+        },
+        "606": {
+            "entity_id": 644,
+            "entity_name": "Istio",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q88464464', 'url': 'https://www.wikidata.org/wiki/Q88464464'}"
+        },
+        "607": {
+            "entity_id": 645,
+            "entity_name": "Vault",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q88664426', 'url': 'https://www.wikidata.org/wiki/Q88664426'}"
+        },
+        "608": {
+            "entity_id": 646,
+            "entity_name": "Apache Druid",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q89693799', 'url': 'https://www.wikidata.org/wiki/Q89693799'}"
+        },
+        "609": {
+            "entity_id": 647,
+            "entity_name": "etcd",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q96324273', 'url': 'https://www.wikidata.org/wiki/Q96324273'}"
+        },
+        "610": {
+            "entity_id": 648,
+            "entity_name": "Traefik",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q96332968', 'url': 'https://www.wikidata.org/wiki/Q96332968'}"
+        },
+        "611": {
+            "entity_id": 649,
+            "entity_name": "IBM Cloud",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q96381605', 'url': 'https://www.wikidata.org/wiki/Q96381605'}"
+        },
+        "612": {
+            "entity_id": 650,
+            "entity_name": "YugabyteDB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q97187861', 'url': 'https://www.wikidata.org/wiki/Q97187861'}"
+        },
+        "613": {
+            "entity_id": 651,
+            "entity_name": "CockroachDB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q98731903', 'url': 'https://www.wikidata.org/wiki/Q98731903'}"
+        },
+        "614": {
+            "entity_id": 652,
+            "entity_name": "Jaeger",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q98799449', 'url': 'https://www.wikidata.org/wiki/Q98799449'}"
+        },
+        "615": {
+            "entity_id": 653,
+            "entity_name": "Natural Programming Language",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{}"
+        },
+        "616": {
+            "entity_id": 654,
+            "entity_name": "AcuCOBOL",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q288844', 'url': 'https://www.wikidata.org/wiki/Q288844'}"
+        },
+        "617": {
+            "entity_id": 655,
+            "entity_name": "Ada",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q154755', 'url': 'https://www.wikidata.org/wiki/Q154755'}"
+        },
+        "618": {
+            "entity_id": 656,
+            "entity_name": "ADABAS",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q346434', 'url': 'https://www.wikidata.org/wiki/Q346434'}"
+        },
+        "619": {
+            "entity_id": 657,
+            "entity_name": "ADSO",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q4685839', 'url': 'https://www.wikidata.org/wiki/Q4685839'}"
+        },
+        "620": {
+            "entity_id": 659,
+            "entity_name": "Batch",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q479833', 'url': 'https://www.wikidata.org/wiki/Q479833'}"
+        },
+        "621": {
+            "entity_id": 660,
+            "entity_name": "Powershell",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q840410', 'url': 'https://www.wikidata.org/wiki/Q840410'}"
+        },
+        "622": {
+            "entity_id": 661,
+            "entity_name": "COM+",
+            "entity_type_id": 10,
+            "entity_type_name": "Runtime",
+            "external_link": "{'qid': 'Q9670606', 'url': 'https://www.wikidata.org/wiki/Q9670606'}"
+        },
+        "623": {
+            "entity_id": 662,
+            "entity_name": "Dataflex",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2391203', 'url': 'https://www.wikidata.org/wiki/Q2391203'}"
+        },
+        "624": {
+            "entity_id": 663,
+            "entity_name": "DDS",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q1149607', 'url': 'https://www.wikidata.org/wiki/Q1149607'}"
+        },
+        "625": {
+            "entity_id": 664,
+            "entity_name": "Forte",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q3748867', 'url': 'https://www.wikidata.org/wiki/Q3748867'}"
+        },
+        "626": {
+            "entity_id": 665,
+            "entity_name": "Foxpro",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2507721', 'url': 'https://www.wikidata.org/wiki/Q2507721'}"
+        },
+        "627": {
+            "entity_id": 666,
+            "entity_name": "IBM DB2 Purescale",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "628": {
+            "entity_id": 667,
+            "entity_name": "IDMS DB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "629": {
+            "entity_id": 668,
+            "entity_name": "IDMS DML",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{}"
+        },
+        "630": {
+            "entity_id": 669,
+            "entity_name": "Jaguar",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{}"
+        },
+        "631": {
+            "entity_id": 670,
+            "entity_name": "EAServer",
+            "entity_type_id": 8,
+            "entity_type_name": "App Server",
+            "external_link": "{'qid': 'Q5816084', 'url': 'https://www.wikidata.org/wiki/Q5816084'}"
+        },
+        "632": {
+            "entity_id": 672,
+            "entity_name": "IBM Netezza",
+            "entity_type_id": 4,
+            "entity_type_name": "HW",
+            "external_link": "{'qid': 'Q3874960', 'url': 'https://www.wikidata.org/wiki/Q3874960'}"
+        },
+        "633": {
+            "entity_id": 674,
+            "entity_name": "OpenROAD",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q2025504', 'url': 'https://www.wikidata.org/wiki/Q2025504'}"
+        },
+        "634": {
+            "entity_id": 675,
+            "entity_name": "Oracle Reports",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q4045946', 'url': 'https://www.wikidata.org/wiki/Q4045946'}"
+        },
+        "635": {
+            "entity_id": 676,
+            "entity_name": "SAP Replication Server",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "636": {
+            "entity_id": 677,
+            "entity_name": "Git",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q186055', 'url': 'https://www.wikidata.org/wiki/Q186055'}"
+        },
+        "637": {
+            "entity_id": 678,
+            "entity_name": "GitLab",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q16639197', 'url': 'https://www.wikidata.org/wiki/Q16639197'}"
+        },
+        "638": {
+            "entity_id": 679,
+            "entity_name": "VSAM",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1514276', 'url': 'https://www.wikidata.org/wiki/Q1514276'}"
+        },
+        "639": {
+            "entity_id": 680,
+            "entity_name": "Cloud<>Apache HTTP Server",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "640": {
+            "entity_id": 681,
+            "entity_name": "Cloud<>Windows Server",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "641": {
+            "entity_id": 682,
+            "entity_name": "Cloud<>MS SQL Server",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "642": {
+            "entity_id": 683,
+            "entity_name": "Cloud<>Azure SQL Server Database",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "643": {
+            "entity_id": 684,
+            "entity_name": "Cloud<>MySQL",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "644": {
+            "entity_id": 685,
+            "entity_name": "Cloud<>Oracle Database",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "645": {
+            "entity_id": 686,
+            "entity_name": "Cloud<>PostgreSQL",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "646": {
+            "entity_id": 687,
+            "entity_name": "Cloud<>AWS RDS",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "647": {
+            "entity_id": 688,
+            "entity_name": "Cloud<>SAP HANA DB",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "648": {
+            "entity_id": 689,
+            "entity_name": "BMS Map",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{}"
+        },
+        "649": {
+            "entity_id": 690,
+            "entity_name": "DB400",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "650": {
+            "entity_id": 691,
+            "entity_name": "ILE",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q16889435', 'url': 'https://www.wikidata.org/wiki/Q16889435'}"
+        },
+        "651": {
+            "entity_id": 692,
+            "entity_name": "Integrated Data Store (IDS)",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q3799287', 'url': 'https://www.wikidata.org/wiki/Q3799287'}"
+        },
+        "652": {
+            "entity_id": 693,
+            "entity_name": "ISAM",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q1154755', 'url': 'https://www.wikidata.org/wiki/Q1154755'}"
+        },
+        "653": {
+            "entity_id": 694,
+            "entity_name": "Oracle RDS",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "654": {
+            "entity_id": 695,
+            "entity_name": "SAP IQ",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q948492', 'url': 'https://www.wikidata.org/wiki/Q948492'}"
+        },
+        "655": {
+            "entity_id": 696,
+            "entity_name": "Cloud<>Linux",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{}"
+        },
+        "656": {
+            "entity_id": 697,
+            "entity_name": "Apache Maven",
+            "entity_type_id": 2,
+            "entity_type_name": "App",
+            "external_link": "{'qid': 'Q139941', 'url': 'https://www.wikidata.org/wiki/Q139941'}"
+        },
+        "657": {
+            "entity_id": 698,
+            "entity_name": "IBM Basic Assembly Language (BAL)",
+            "entity_type_id": 9,
+            "entity_type_name": "Lang",
+            "external_link": "{'qid': 'Q5968762', 'url': 'https://www.wikidata.org/wiki/Q5968762'}"
+        }
+    }
+}

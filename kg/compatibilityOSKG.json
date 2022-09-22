@@ -1,0 +1,2385 @@
+{
+  "KG Version": "1.0.4",
+  ".NET Framework|*": [
+    "Windows"
+  ],
+  "Active Directory (AD)": [
+    "Windows"
+  ],
+  "Active Server Pages (ASP)": [
+    "Windows"
+  ],
+  "ActiveX|*": [
+    "Windows"
+  ],
+  "Apache Cordova": [
+    "Android",
+    "iOS",
+    "macOS",
+    "Windows"
+  ],
+  "CICS": [
+    "MVS|z/OS",
+    "z/VSE"
+  ],
+  "Docker": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "Flash": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "HTTP File Server": [
+    "Windows"
+  ],
+  "Node.js": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|OpenBSD",
+    "Windows"
+  ],
+  "Ruby on Rails": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "AutoIt": [
+    "Windows"
+  ],
+  "AWK": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "Brainscript": [
+    "Windows"
+  ],
+  "C#": [
+    "Windows"
+  ],
+  "Clipper": [
+    "MS-DOS"
+  ],
+  "CLIST": [
+    "MVS|OS/390",
+    "MVS|z/OS"
+  ],
+  "COBOL": [
+    "MVS|z/OS",
+    "OpenVMS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Linux",
+    "VME",
+    "Windows",
+    "z/VSE"
+  ],
+  "ColdFusion Markup Language (CFML)": [
+    "Windows"
+  ],
+  "Delphi": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "Easytrieve": [
+    "Linux",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows",
+    "z/VM",
+    "z/VSE"
+  ],
+  "FOCUS": [
+    "DOS/360",
+    "MVS|OS/390",
+    "MVS|z/OS",
+    "OpenVMS",
+    "OS/2",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "z/VM"
+  ],
+  "Go": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "IBM High Level Assembler (HLASM)": [
+    "MVS|z/OS",
+    "z/TPF",
+    "z/VM",
+    "z/VSE"
+  ],
+  "IBM i Control Language (CL)": [
+    "IBM i"
+  ],
+  "JCL": [
+    "DOS/360",
+    "MVS|OS/390",
+    "MVS|z/OS",
+    "z/VSE"
+  ],
+  "Job Information Language (JIL)": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "JScript": [
+    "Windows"
+  ],
+  "Niakwa Programming Language (NPL)": [
+    "Linux|openSUSE",
+    "OpenVMS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Perl|*": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "PHP": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "PL/I": [
+    "MVS|OS/390",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Windows",
+    "z/VM"
+  ],
+  "Rexx": [
+    "IBM i",
+    "MVS|OS/390",
+    "MVS|z/OS",
+    "OS/2",
+    "Unix|AIX",
+    "z/VM",
+    "z/VSE"
+  ],
+  "RPG": [
+    "IBM i",
+    "MVS|z/OS",
+    "OpenVMS",
+    "Windows",
+    "z/VSE"
+  ],
+  "Scala": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "Smalltalk": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "Swift": [
+    "Linux",
+    "macOS",
+    "MVS|z/OS",
+    "Unix|BSD|FreeBSD",
+    "Windows"
+  ],
+  "TCL": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "VB.NET": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "VBScript": [
+    "Windows"
+  ],
+  "Visual Basic": [
+    "MS-DOS",
+    "Windows"
+  ],
+  "Visual Basic for Applications (VBA)": [
+    "macOS",
+    "Windows"
+  ],
+  "Visual FoxPro": [
+    "Windows"
+  ],
+  "Xbase++": [
+    "Windows"
+  ],
+  "Apache HTTP Server": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Apache Tomcat": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|Ubuntu",
+    "Unix|BSD|SunOS",
+    "Windows",
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "macOS"
+  ],
+  "ArcGIS Server": [
+    "Linux",
+    "Windows"
+  ],
+  "Oracle WebLogic Server": [
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows",
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "GlassFish": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|Ubuntu",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "HAProxy": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|SunOS"
+  ],
+  "IIS|*": [
+    "Windows"
+  ],
+  "JBoss|*": [
+    "Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Unix|BSD|SunOS",
+    "Windows",
+    "Windows",
+    "Linux",
+    "Windows",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "Kitura": [
+    "iOS",
+    "Linux",
+    "macOS"
+  ],
+  "Lotus Domino": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "Lucee": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "Netscape Application Server (NAS)": [
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "Netscape Enterprise Server (NES)": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Nginx": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Oracle Application Server|*": [
+    "Windows",
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX"
+  ],
+  "Oracle WebCenter Content Server|*": [
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Resin Web Server": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "Spark": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "UltiDev Web Server Pro (UWS)": [
+    "Windows"
+  ],
+  "webMethods Integration Server": [
+    "IBM i",
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Websphere Application Server (WAS)": [
+    "IBM i",
+    "Linux",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "WebSphere Liberty": [
+    "Windows",
+    "IBM i",
+    "Linux",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "WebSphere Portal Server": [
+    "IBM i",
+    "Linux",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Websphere Process Server": [
+    "IBM i",
+    "Linux",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "IBM HTTP Server": [
+    "Unix|AIX",
+    "Unix|HP-UX",
+    "Linux",
+    "Unix|BSD|SunOS",
+    "Windows",
+    "IBM i",
+    "MVS|z/OS"
+  ],
+  "Pivotal tc Server": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|Oracle Linux",
+    "Linux|CentOS",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|Ubuntu",
+    "Unix|BSD|SunOS",
+    "Windows",
+    "macOS"
+  ],
+  "SAP NetWeaver App Server|*": [
+    "Unix|AIX",
+    "Unix|HP-UX",
+    "Linux",
+    "Unix|BSD|SunOS"
+  ],
+  "Oracle iPlanet Web Server": [
+    "Windows",
+    "Unix|AIX",
+    "Unix|HP-UX",
+    "Unix|AIX",
+    "Unix|HP-UX",
+    "Windows",
+    "Unix|BSD|SunOS",
+    "Linux|Red Hat Enterprise Linux"
+  ],
+  "(E)JES": [
+    "MVS|z/OS"
+  ],
+  "Ansible": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows",
+    "Linux",
+    "Windows",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "macOS"
+  ],
+  "Apache ActiveMQ": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "Apache Hive": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "Apache Kafka": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "Apache ServiceMix": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "Apache Solr": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "Apache Subversion": [
+    "BeOS",
+    "Linux|CentOS",
+    "Linux|Debian",
+    "Linux|openSUSE",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|Ubuntu",
+    "macOS",
+    "OS/2",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Asterisk": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "Automic Job Scheduler": [
+    "Linux|CentOS",
+    "Linux|Red Hat Enterprise Linux",
+    "Windows"
+  ],
+  "Autosys": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "BMC Identity Management": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Business Intelligence and Reporting Tools (BIRT)": [
+    "Linux|CentOS",
+    "Linux|openSUSE",
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Windows"
+  ],
+  "CA Introscope": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "CA-TELON": [
+    "IBM i",
+    "MS-DOS",
+    "MVS|OS/390",
+    "MVS|z/OS",
+    "OS/2",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows",
+    "z/VSE"
+  ],
+  "Chef Automate": [
+    "Linux|CentOS",
+    "Linux|Debian",
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|Ubuntu",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "CiscoWorks LAN Management Solution (LMS)": [
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "Citrix ADC CPX": [
+    "Linux"
+  ],
+  "Citrix Provisioning": [
+    "Windows",
+    "Linux"
+  ],
+  "Cognos": [
+    "Android",
+    "iOS",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|Ubuntu",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "Coldfusion": [
+    "Linux|CentOS",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|Ubuntu",
+    "macOS",
+    "Windows"
+  ],
+  "CONNAPI": [
+    "Windows"
+  ],
+  "Connect Direct": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Cornerstone software": [
+    "Windows"
+  ],
+  "Crystal Reports": [
+    "Windows"
+  ],
+  "DB2": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Windows",
+    "IBM i",
+    "MVS|z/OS"
+  ],
+  "Documentum Content Server": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "Drupal": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "Eclipse|*": [
+    "Linux",
+    "macOS",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "Elastic (ELK) Stack": [
+    "Linux|CentOS",
+    "Linux|Debian",
+    "Linux|openSUSE",
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|Ubuntu",
+    "Windows"
+  ],
+  "FileMaker Pro": [
+    "iOS",
+    "macOS",
+    "Windows"
+  ],
+  "Genymotion": [
+    "Android",
+    "iOS",
+    "macOS",
+    "Windows"
+  ],
+  "Hadoop": [
+    "Linux|CentOS",
+    "Linux|Debian",
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|Ubuntu",
+    "Windows"
+  ],
+  "HP aC++ compiler": [
+    "Unix|HP-UX"
+  ],
+  "HP C/ANSI C compiler": [
+    "Unix|HP-UX"
+  ],
+  "HP Operations Orchestration (HPOO)": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "IBM Content Manager OnDemand (CMOD)": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|zLinux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "IBM FileNet P8 Platform": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "IBM InfoSphere DataStage": [
+    "Linux",
+    "Unix|AIX",
+    "Windows"
+  ],
+  "IBM Integration Bus|*": [
+    "Linux",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "IBM Migration Utility": [
+    "Windows"
+  ],
+  "IBM Mobile Foundation": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "IBM Tivoli Workload Scheduler (TWS)": [
+    "IBM i",
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "IBM Websphere MQ": [
+    "IBM i",
+    "Linux",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows",
+    "z/VSE"
+  ],
+  "IBM WebSphere MQ Telemetry": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|AIX",
+    "Windows"
+  ],
+  "IBM WebSphere Transformation Extender (WTX)": [
+    "Linux",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Websphere ILOG JRules BRMS": [
+    "Linux",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "IMS DB": [
+    "MVS|z/OS"
+  ],
+  "Infobright Community Edition (ICE)": [
+    "Linux",
+    "Windows"
+  ],
+  "Informatica PowerCenter": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "Ingres": [
+    "Linux",
+    "OpenVMS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Jenkins": [
+    "Linux|CentOS",
+    "Linux|Debian",
+    "Linux|Fedora",
+    "Linux|openSUSE",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|Ubuntu",
+    "macOS",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|OpenBSD",
+    "Windows"
+  ],
+  "Lotus Notes": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "MaaS360": [
+    "Android",
+    "iOS",
+    "macOS",
+    "Windows"
+  ],
+  "ManageEngine ADSelfService Plus": [
+    "Windows"
+  ],
+  "Microsoft Access": [
+    "Windows"
+  ],
+  "Microsoft BizTalk Adapters for Host Systems": [
+    "Windows"
+  ],
+  "Microsoft Dynamics AX": [
+    "Windows"
+  ],
+  "Microsoft Endpoint Configuration Manager (SCCM)": [
+    "Windows"
+  ],
+  "Microsoft Exchange Server|*": [
+    "Windows"
+  ],
+  "Microsoft InfoPath": [
+    "Windows"
+  ],
+  "Microsoft MQ": [
+    "Windows"
+  ],
+  "Microsoft Web Deploy": [
+    "Windows"
+  ],
+  "Microsoft Web Farm Framework (WFF)": [
+    "Windows"
+  ],
+  "Microsoft Web Platform Installer": [
+    "Windows"
+  ],
+  "Model Driven Workflow (MDW)": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "MongoDB": [
+    "Linux",
+    "macOS",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "MQ Client": [
+    "IBM i",
+    "Linux",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "MS SQL Server|*": [
+    "Linux",
+    "Windows",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "MS SQL Server Compact": [
+    "Windows",
+    "Windows"
+  ],
+  "MySQL": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Neo4j": [
+    "Linux|CentOS",
+    "Linux|Debian",
+    "Linux|Fedora",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|Ubuntu",
+    "macOS",
+    "Windows"
+  ],
+  "Nix package manager": [
+    "Linux",
+    "macOS"
+  ],
+  "OpenLDAP": [
+    "Android",
+    "macOS",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "OpenVPN": [
+    "Linux",
+    "macOS",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|NetBSD",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "Oracle ADF": [
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "macOS",
+    "Windows"
+  ],
+  "Oracle APEX": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Oracle BI Publisher": [
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Windows"
+  ],
+  "Oracle Business Intelligence": [
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Oracle Database|*": [
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows",
+    "IBM i",
+    "MVS|z/OS"
+  ],
+  "Oracle Enterprise Manager": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Oracle Forms": [
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Oracle Service Bus": [
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Oracle TimesTen In-Memory Database": [
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "Oracle Warehouse Builder (OWB)": [
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Orbix": [
+    "MVS|OS/390",
+    "MVS|z/OS",
+    "OS/2",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Pentaho": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "PostgreSQL": [
+    "Linux",
+    "macOS",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|OpenBSD",
+    "Windows"
+  ],
+  "Powerbuilder": [
+    "Windows"
+  ],
+  "Pro*COBOL": [
+    "Linux",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "PVCS Version Manager": [
+    "Linux|Red Hat Enterprise Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "RabbitMQ": [
+    "Linux",
+    "macOS",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "Redis": [
+    "Linux|Amazon Linux",
+    "Linux|CentOS",
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux"
+  ],
+  "Remedy": [
+    "Linux|CentOS",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "Riak": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Unix|BSD|SunOS"
+  ],
+  "RightFax": [
+    "Windows"
+  ],
+  "Rumba": [
+    "Windows"
+  ],
+  "SAP BusinessObjects BI server": [
+    "Windows"
+  ],
+  "SharePoint": [
+    "Windows"
+  ],
+  "Siebel": [
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "SNA Manager": [
+    "Windows"
+  ],
+  "Splunk": [
+    "Linux",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "SQLIO": [
+    "Windows"
+  ],
+  "Syncsort": [
+    "MVS|z/OS"
+  ],
+  "Teradata": [
+    "Linux|SUSE Linux Enterprise Server"
+  ],
+  "Teradata QS Server": [
+    "Windows"
+  ],
+  "TIBCO Business Works (BW)|*": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "TIBCO Rendezvous": [
+    "IBM i",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "macOS",
+    "OpenVMS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Tivoli Access Manager (TAM)": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|zLinux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "TSO/ISPF": [
+    "MVS|z/OS"
+  ],
+  "TWS zCentric": [
+    "MVS|z/OS",
+    "Linux",
+    "Windows"
+  ],
+  "ViewNow X Server": [
+    "Windows"
+  ],
+  "Virtual I/O Server": [
+    "IBM i",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|AIX"
+  ],
+  "Visibroker": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows",
+    "Windows"
+  ],
+  "WebFOCUS": [
+    "IBM i",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|zLinux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "WebLogic Integration": [
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "WebSphere Message Broker": [
+    "Linux",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Windows"
+  ],
+  "Wherescape Red": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "Windchill": [
+    "Windows"
+  ],
+  "Wise Package Studio": [
+    "Windows"
+  ],
+  "Wordpress": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "XAMPP": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "ZeroMQ": [
+    "Linux|CentOS",
+    "Linux|Debian",
+    "Linux|Fedora",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|Ubuntu",
+    "macOS",
+    "Windows"
+  ],
+  "A-Auto Job Scheduling Software": [
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Linux",
+    "Windows"
+  ],
+  "Adobe Acrobat Reader": [
+    "Windows",
+    "macOS",
+    "Android",
+    "iOS",
+    "Linux",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|AIX"
+  ],
+  "Bluebeam": [
+    "Windows"
+  ],
+  "BMC Control-M": [
+    "Linux|Amazon Linux",
+    "Linux|CentOS",
+    "Unix|AIX",
+    "Windows",
+    "Linux|Oracle Linux",
+    "Unix|BSD|SunOS",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server"
+  ],
+  "Borland Database Engine (BDE)": [
+    "Windows"
+  ],
+  "CA Gen": [
+    "Unix|HP-UX",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Linux"
+  ],
+  "CA-Panvalet": [
+    "MVS|z/OS",
+    "z/VSE"
+  ],
+  "Sysinternal Tools|*": [
+    "Windows"
+  ],
+  "Tableau": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "IBM Tivoli Storage Manager|*": [
+    "Unix|AIX",
+    "Unix|HP-UX",
+    "Linux",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "Microsoft Excel": [
+    "Windows",
+    "macOS",
+    "Android",
+    "iOS"
+  ],
+  "IBM Tivoli Monitoring": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Windows",
+    "Windows",
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "Mozilla Firefox": [
+    "Android",
+    "Linux",
+    "macOS",
+    "iOS",
+    "Windows",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|NetBSD",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|SunOS"
+  ],
+  "MS Office 365": [
+    "Android",
+    "iOS",
+    "macOS",
+    "Windows"
+  ],
+  "Citrix Virtual Apps and Desktops": [
+    "Windows"
+  ],
+  "Google Chrome": [
+    "Android",
+    "iOS",
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "Greenplum DB": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|CentOS",
+    "Linux|Ubuntu"
+  ],
+  "IBM Business Monitor": [
+    "Unix|AIX",
+    "Linux",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "Cisco AMP for Endpoints": [
+    "Android",
+    "iOS",
+    "Linux|Red Hat Enterprise Linux",
+    "macOS",
+    "Windows"
+  ],
+  "Clarity LIMS": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|CentOS",
+    "Windows",
+    "macOS"
+  ],
+  "ETAP License Manager (LM)": [
+    "Windows"
+  ],
+  "ExamDiff": [
+    "Windows"
+  ],
+  "FlexNet Manager Suite": [
+    "Windows",
+    "Unix|AIX",
+    "Linux|Amazon Linux",
+    "Linux|CentOS",
+    "Linux|Debian"
+  ],
+  "FTP Voyager": [
+    "Windows"
+  ],
+  "IBM BigFix Platform|*": [
+    "Windows",
+    "Linux",
+    "Unix|BSD|SunOS",
+    "Unix|AIX",
+    "macOS",
+    "Android",
+    "iOS"
+  ],
+  "IBM Business Process Manager": [
+    "Unix|AIX",
+    "Linux",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "IBM License Metric Tool": [
+    "Unix|AIX",
+    "Unix|HP-UX",
+    "IBM i",
+    "Linux",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "IBM Maximo": [
+    "Unix|AIX",
+    "Linux",
+    "Windows"
+  ],
+  "IBM Operational Decision Manager (ODM)": [
+    "Unix|AIX",
+    "Linux",
+    "Windows",
+    "MVS|z/OS"
+  ],
+  "IBM Spectrum Scale": [
+    "Unix|AIX",
+    "Linux",
+    "Windows"
+  ],
+  "IBM Tivoli Asset Management|*": [
+    "Windows",
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX"
+  ],
+  "IBM Tivoli Composite Application Manager": [
+    "Unix|AIX",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "IBM WebSphere Business Integration Adaptor": [
+    "Unix|AIX",
+    "Unix|HP-UX",
+    "Linux",
+    "Unix|BSD|SunOS",
+    "Windows",
+    "MVS|z/OS"
+  ],
+  "Info-ZIP": [
+    "macOS",
+    "Windows"
+  ],
+  "joinIT": [
+    "MVS|OS/390",
+    "MVS|z/OS"
+  ],
+  "LifeFlow": [
+    "macOS",
+    "Windows"
+  ],
+  "Malwarebytes Anti-Malware": [
+    "Windows",
+    "macOS",
+    "Android",
+    "iOS"
+  ],
+  "MarkLogic DB": [
+    "Windows",
+    "Unix|BSD|SunOS",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|CentOS",
+    "Linux|Amazon Linux",
+    "macOS"
+  ],
+  "Memcached": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "Microsoft Forefront Identity Manager (FIM)": [
+    "Windows"
+  ],
+  "Microsoft Internet Explorer": [
+    "Windows",
+    "macOS",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX"
+  ],
+  "Microsoft ISA Server": [
+    "Windows"
+  ],
+  "Microsoft System Center Endpoint Protection": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "Microsoft Visual Studio": [
+    "Windows",
+    "macOS"
+  ],
+  "Oracle Hyperion|*": [
+    "Windows",
+    "Linux",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|AIX"
+  ],
+  "Oracle Retail Point-of-Service": [
+    "Linux|SUSE Linux Enterprise Server"
+  ],
+  "Oracle Smart View": [
+    "Windows"
+  ],
+  "Oracle SOA Suite": [
+    "Windows",
+    "Linux|Oracle Linux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server"
+  ],
+  "Oracle SQL Developer": [
+    "Windows",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|Ubuntu",
+    "Linux|Oracle Linux"
+  ],
+  "Pervasive PSQL": [
+    "Windows",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server"
+  ],
+  "PIPE-FLO": [
+    "Windows"
+  ],
+  "PKZIP": [
+    "MS-DOS",
+    "OS/2",
+    "Windows"
+  ],
+  "Planview": [
+    "Windows",
+    "macOS"
+  ],
+  "Primavera P6": [
+    "Windows",
+    "macOS",
+    "iOS",
+    "Android"
+  ],
+  "ProjectWise": [
+    "Windows"
+  ],
+  "ProjectWise Web Server": [
+    "Windows"
+  ],
+  "QlikView": [
+    "Windows"
+  ],
+  "Rational ClearCase": [
+    "Unix|AIX",
+    "Unix|HP-UX",
+    "Linux",
+    "MVS|z/OS",
+    "macOS",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "Rational ClearQuest": [
+    "Unix|AIX",
+    "Unix|HP-UX",
+    "Linux",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "SAP ERP|*": [
+    "Windows",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|HP-UX",
+    "Unix|AIX",
+    "Unix|BSD|SunOS"
+  ],
+  "SAP HANA DB": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server"
+  ],
+  "SAP MaxDB": [
+    "Unix|AIX",
+    "Unix|HP-UX",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "SAP NetWeaver Business Warehouse": [
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Windows"
+  ],
+  "SAP SQL Anywhere": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Unix|AIX",
+    "Unix|HP-UX",
+    "Unix|BSD|SunOS"
+  ],
+  "SnagIt": [
+    "macOS",
+    "Windows"
+  ],
+  "solidDB": [
+    "Unix|AIX",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|zLinux",
+    "Unix|BSD|SunOS",
+    "Windows"
+  ],
+  "SpaceMonger": [
+    "Windows"
+  ],
+  "TCPLink Enterprise Server": [
+    "Windows"
+  ],
+  "TortoiseCVS": [
+    "Windows"
+  ],
+  "TortoiseSVN": [
+    "Windows"
+  ],
+  "Uniface": [
+    "Windows",
+    "OpenVMS",
+    "IBM i",
+    "MVS|z/OS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "VMware Tools": [
+    "Windows",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|Ubuntu",
+    "macOS",
+    "Unix|BSD|SunOS"
+  ],
+  "VMware vCenter": [
+    "Windows",
+    "Linux|CentOS",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|Ubuntu"
+  ],
+  "WebSphere Commerce Suite (WCS)": [
+    "Unix|AIX",
+    "Linux|zLinux",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Unix|BSD|SunOS",
+    "Windows",
+    "IBM i"
+  ],
+  "Windows Indexing Service": [
+    "Windows"
+  ],
+  "Windows Terminal Server (WTS)": [
+    "Windows"
+  ],
+  "WingArc SVF": [
+    "Windows"
+  ],
+  "WinMerge": [
+    "Windows"
+  ],
+  "WinRAR": [
+    "Windows"
+  ],
+  "WinSCP": [
+    "Windows"
+  ],
+  "ZAP BI": [
+    "Windows"
+  ],
+  "Zerto Virtual Replication": [
+    "Windows",
+    "Linux|Red Hat Enterprise Linux",
+    "Linux|SUSE Linux Enterprise Server",
+    "Linux|CentOS",
+    "Linux|Ubuntu",
+    "Linux|Oracle Linux"
+  ],
+  "Oracle Real-Time Decisions (RTD)": [
+    "Linux",
+    "Windows",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "IBM PowerHA": [
+    "Unix|AIX",
+    "IBM i",
+    "Linux"
+  ],
+  "Tivoli Netcool/OMNIbus": [
+    "Unix|AIX",
+    "Linux"
+  ],
+  "IBM ILOG Views": [
+    "Windows",
+    "Linux"
+  ],
+  "IBM ILOG CPLEX": [
+    "Windows",
+    "Linux"
+  ],
+  "IBM ILOG Jviews": [
+    "Windows",
+    "Linux"
+  ],
+  "IBM ILOG Elixir": [
+    "Windows",
+    "Linux"
+  ],
+  "IBM ILOG Supply Chain Apps": [
+    "Windows",
+    "Linux"
+  ],
+  "ILOG Solver": [
+    "Windows",
+    "Linux"
+  ],
+  "SQLite": [
+    "Windows",
+    "Linux"
+  ],
+  "Fortran": [
+    "Linux",
+    "Linux"
+  ],
+  "instana": [
+    "Linux"
+  ],
+  "credstash": [
+    "Linux"
+  ],
+  "Snyk": [
+    "Linux"
+  ],
+  "Akka": [
+    "Linux"
+  ],
+  "Varnish": [
+    "Linux"
+  ],
+  "Datadog": [
+    "Linux"
+  ],
+  "Hazelcast": [
+    "Linux"
+  ],
+  "Infinispan": [
+    "Linux"
+  ],
+  "Nuxeo": [
+    "Linux"
+  ],
+  "ArangoDB": [
+    "Linux"
+  ],
+  "Eclipse|Eclipse Che": [
+    "Linux"
+  ],
+  "Amazon S3": [
+    "Linux"
+  ],
+  "ClickHouse": [
+    "Linux"
+  ],
+  "MinIO": [
+    "Linux"
+  ],
+  "Elasticsearch": [
+    "Linux"
+  ],
+  "XtraDB": [
+    "Linux"
+  ],
+  "Keycloak": [
+    "Linux"
+  ],
+  "Grafana": [
+    "Linux"
+  ],
+  "Mattermost": [
+    "Linux"
+  ],
+  "Synapse": [
+    "Linux"
+  ],
+  "Cloud IAM": [
+    "Linux"
+  ],
+  "Knative": [
+    "Linux"
+  ],
+  "Apache Cassandra": [
+    "Linux",
+    "Linux"
+  ],
+  "Kubeflow": [
+    "Linux"
+  ],
+  "Qiskit": [
+    "Linux"
+  ],
+  "Microsoft Azure": [
+    "Linux"
+  ],
+  "Strimzi": [
+    "Linux"
+  ],
+  "Sematext": [
+    "Linux"
+  ],
+  "Eclipse|Eclipse hawkBit": [
+    "Linux"
+  ],
+  "Eclipse|Eclipse Ditto": [
+    "Linux"
+  ],
+  "MariaDB": [
+    "Linux"
+  ],
+  "Zadara": [
+    "Linux"
+  ],
+  "Istio": [
+    "Linux"
+  ],
+  "Vault": [
+    "Linux"
+  ],
+  "Apache Druid": [
+    "Linux"
+  ],
+  "etcd": [
+    "Linux"
+  ],
+  "Traefik": [
+    "Linux"
+  ],
+  "IBM Cloud": [
+    "Linux"
+  ],
+  "YugabyteDB": [
+    "Linux"
+  ],
+  "CockroachDB": [
+    "Linux"
+  ],
+  "Jaeger": [
+    "Linux"
+  ],
+  "Powershell": [
+    "Windows",
+    "Linux",
+    "macOS"
+  ],
+  "Natural Programming Language": [
+    "MVS|z/OS",
+    "Linux|zLinux",
+    "z/VSE"
+  ],
+  "AcuCOBOL": [
+    "Windows",
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "Ada": [
+    "Linux"
+  ],
+  "ADABAS": [
+    "Linux",
+    "Windows",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "ADSO": [
+    "MVS|z/OS"
+  ],
+  "Batch": [
+    "MS-DOS",
+    "OS/2",
+    "Windows"
+  ],
+  "COM+": [
+    "Windows"
+  ],
+  "Dataflex": [
+    "OS/2",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "MS-DOS",
+    "Windows"
+  ],
+  "DDS": [
+    "Windows",
+    "Linux"
+  ],
+  "Forte": [
+    "Windows",
+    "OpenVMS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "Foxpro": [
+    "MS-DOS",
+    "Windows",
+    "macOS",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Linux"
+  ],
+  "IBM DB2 Purescale": [
+    "Linux",
+    "Windows",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "IDMS DB": [
+    "MVS|OS/390",
+    "MVS|z/OS"
+  ],
+  "IDMS DML": [
+    "MVS|OS/390",
+    "MVS|z/OS"
+  ],
+  "Jaguar": [
+    "Linux",
+    "Windows",
+    "Unix|HP-UX"
+  ],
+  "EAServer": [
+    "Linux",
+    "Windows",
+    "Unix|HP-UX"
+  ],
+  "IBM Netezza": [
+    "Linux"
+  ],
+  "OpenEdge ABL": [
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows",
+    "Linux"
+  ],
+  "OpenROAD": [
+    "Windows",
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "Oracle Reports": [
+    "Windows",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "SAP Replication Server": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "Git": [
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "GitLab": [
+    "Linux"
+  ],
+  "VSAM": [
+    "MVS|OS/390",
+    "MVS|z/OS"
+  ],
+  "BMS Map": [
+    "MVS|OS/390",
+    "MVS|z/OS"
+  ],
+  "DB400": [
+    "IBM i"
+  ],
+  "ILE": [
+    "IBM i"
+  ],
+  "ISAM": [
+    "MVS|OS/390",
+    "MVS|z/OS"
+  ],
+  "SAP IQ": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD",
+    "Windows"
+  ],
+  "Oracle RDS": [
+    "Linux",
+    "Unix|AIX",
+    "Unix|BSD|FreeBSD",
+    "Unix|BSD|SunOS",
+    "Unix|HP-UX",
+    "Unix|BSD|OpenBSD",
+    "Unix|BSD|NetBSD"
+  ],
+  "Apache Maven": [
+    "Linux",
+    "Windows"
+  ],
+  "Java|*": [
+    "Linux"
+  ],
+  "JavaScript|*": [
+    "Linux"
+  ],
+  "Java Runtime Environment (JRE)": [
+    "Linux"
+  ],
+  "VisualForce": [
+    "Linux"
+  ],
+  "BASIC": [
+    "Linux"
+  ],
+  "C": [
+    "Linux"
+  ],
+  "C++|*": [
+    "Linux"
+  ],
+  "Cascading Style Sheets (CSS)|*": [
+    "Linux"
+  ],
+  "Data Language Interface (DL/I)": [
+    "Linux"
+  ],
+  "Expect": [
+    "Linux"
+  ],
+  "eXtensible HyperText Markup Language (XHTML)": [
+    "Linux"
+  ],
+  "Extensible Markup Language (XML)|*": [
+    "Linux"
+  ],
+  "Extensible Stylesheet Language (XSL)": [
+    "Linux"
+  ],
+  "Extensible Stylesheet Language Transformations (XLST)": [
+    "Linux"
+  ],
+  "GraphQL": [
+    "Linux"
+  ],
+  "Groovy": [
+    "Linux"
+  ],
+  "HiveQL": [
+    "Linux"
+  ],
+  "Hypertext Markup Language (HTML)": [
+    "Linux"
+  ],
+  "IBM Informix-4GL": [
+    "Linux"
+  ],
+  "Lisp": [
+    "Linux"
+  ],
+  "Objective C": [
+    "Linux"
+  ],
+  "Pascal|*": [
+    "Linux"
+  ],
+  "PL/SQL": [
+    "Linux"
+  ],
+  "PRO*C": [
+    "Linux"
+  ],
+  "Python": [
+    "Linux"
+  ],
+  "R": [
+    "Linux"
+  ],
+  "Salesforce Object Query Language (SOQL)": [
+    "Linux"
+  ],
+  "SAS": [
+    "Linux"
+  ],
+  "Sass": [
+    "Linux"
+  ],
+  "Transact-SQL": [
+    "Linux"
+  ],
+  "TypeScript": [
+    "Linux"
+  ],
+  "VoiceXML": [
+    "Linux"
+  ],
+  "Activiti": [
+    "Linux"
+  ],
+  "Application Development Facility (ADF)": [
+    "Linux"
+  ],
+  "Casegen": [
+    "Linux"
+  ],
+  "Clarify|*": [
+    "Linux"
+  ],
+  "ConceptWave": [
+    "Linux"
+  ],
+  "F5 Secure Web Gateway Services": [
+    "Linux"
+  ],
+  "HP Server Automation (HPSA)": [
+    "Linux"
+  ],
+  "Nexus Repository OSS": [
+    "Linux"
+  ],
+  "OpenText Exstream": [
+    "Linux"
+  ],
+  "Oracle Access Management": [
+    "Linux"
+  ],
+  "Oracle Designer": [
+    "Linux"
+  ],
+  "Oracle Net Services": [
+    "Linux"
+  ],
+  "Oracle Real Application Clusters (RAC)": [
+    "Linux"
+  ],
+  "PeopleSoft": [
+    "Linux"
+  ],
+  "Perkin Elmer Informatics (PKI)": [
+    "Linux"
+  ],
+  "SAP Web Dynpro": [
+    "Linux"
+  ],
+  "Sentry": [
+    "Linux"
+  ],
+  "Sybase SQL Server|*": [
+    "Linux"
+  ],
+  "TIBCO InConcert": [
+    "Linux"
+  ],
+  "Apache Hbase": [
+    "Linux"
+  ],
+  "SonarQube": [
+    "Linux"
+  ],
+  "VMware Solution Exchange Marketplace (VSX)": [
+    "Linux"
+  ]
+}

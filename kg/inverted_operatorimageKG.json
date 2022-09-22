@@ -1,0 +1,504 @@
+{
+  "Version": "1.0.4",
+  "Linux": [
+    "Apache Spark Operator",
+    "Banzai Cloud Kafka Operator",
+    "Camel K Operator",
+    "GrdsCloud MySQL for Kubernetes",
+    "Hive for Red Hat OpenShift",
+    "IBM Spectrum Scale CSI Plugin Operator",
+    "Jenkins Operator",
+    "Postgresql Operator",
+    "Redis Operator",
+    "WildFly",
+    "MongoDB Enterprise Operator",
+    "Apache Spark Operator",
+    "Banzai Cloud Kafka Operator",
+    "Camel K Operator",
+    "GrdsCloud MySQL for Kubernetes",
+    "Hive for Red Hat OpenShift",
+    "IBM Spectrum Scale CSI Plugin Operator",
+    "Jenkins Operator",
+    "Postgresql Operator",
+    "Redis Operator",
+    "WildFly",
+    "MongoDB Enterprise Operator",
+    "Instana Agent Operator",
+    "credstash-operator",
+    "Snyk Operator",
+    "Akka Cluster Operator",
+    "Varnish Operator",
+    "Datadog Operator",
+    "Hazelcast Enterprise Operator",
+    "infinispan",
+    "Nuxeo Operator",
+    "ArangoDB",
+    "Eclipse Che",
+    "AWS S3 Operator",
+    "Altinity ClickHouse Operator",
+    "MinIO Operator",
+    "Elastic Cloud on Kubernetes",
+    "Percona XtraDB Cluster Operator",
+    "Keycloak Operator",
+    "Grafana Operator",
+    "Mattermost Operator",
+    "synapse-helm",
+    "IBM Cloud IAM Operator",
+    "Knative Operator",
+    "Cassandra",
+    "Kubeflow",
+    "Openshift Qiskit Operator",
+    "Azure Service Operator",
+    "Strimzi",
+    "Sematext Operator",
+    "Eclipse Hawkbit",
+    "Eclipse Ditto",
+    "Mariadb Operator",
+    "Zadara Operator",
+    "Istio",
+    "Vault Helm",
+    "druid-operator",
+    "etcd",
+    "Traefikee Operator",
+    "IBM Cloud Operator",
+    "Yugabyte Operator",
+    "CockroachDB",
+    "Community Jaeger Operator",
+    "IoT simulator",
+    "Elasticsearch (ECK) Operator",
+    "Elasticsearch Phenix Operator",
+    "Logging Operator",
+    "AWS Controllers for Kubernetes - Amazon ElastiCache",
+    "Elasticsearch Index Operator",
+    "Prometheus Exporter Operator",
+    "Kong Operator",
+    "MongoDB Operator",
+    "MongoDB Atlas Operator",
+    "Percona Distribution for MongoDB Operator",
+    "Percona Distribution for MySQL Operator",
+    "PlanetScale Operator for Vitess",
+    "Percona Operator for PostgreSQL",
+    "PostgreSQL Operator by Dev4Ddevs.com",
+    "Crunchy Postgres for Kubernetes",
+    "EDB Postgres for Kubernetes",
+    "Postgres-Operator",
+    "Ext Postgres Operator",
+    "Robin Cloud Native Storage",
+    "Redis Enterprise",
+    "Splunk Operator",
+    "Encrypted Images Key Syncer Helm Operator",
+    "Joget DX on Apache Tomcat",
+    "APIcast",
+    "Spark Operator",
+    "Kubestone",
+    "Flink Kubernetes Operator",
+    "Alvearie Imaging Ingestion Operator",
+    "DataStax Kubernetes Operator for Apache Cassandra",
+    "Qserv operator",
+    "Prometheus Operator",
+    "Rook-Ceph",
+    "Argo CD",
+    "Starboard Operator",
+    "TiDB Operator",
+    "Altinity Operator for ClickHouse",
+    "Flux",
+    "RocketMQ Operator",
+    "StorageOS",
+    "Lightbend Console Operator",
+    "External Secrets Operator",
+    "Intel Device Plugins Operator",
+    "silicom-sts-operator",
+    "API Operator for Kubernetes",
+    "KEDA",
+    "WSO2 API Manager Operator for Kubernetes",
+    "AWS Controllers for Kubernetes - Amazon API Gateway v2",
+    "AWS Controllers for Kubernetes - Amazon Application Auto Scaling",
+    "AWS Controllers for Kubernetes - Amazon DynamoDB",
+    "AWS Controllers for Kubernetes - Amazon EC2",
+    "AWS Controllers for Kubernetes - Amazon ECR",
+    "AWS Controllers for Kubernetes - Amazon EKS",
+    "AWS Controllers for Kubernetes - Amazon EMR on EKS",
+    "AWS Controllers for Kubernetes - Amazon IAM",
+    "AWS Controllers for Kubernetes - Amazon KMS",
+    "AWS Controllers for Kubernetes - Amazon Lambda",
+    "AWS Controllers for Kubernetes - Amazon MQ",
+    "AWS Controllers for Kubernetes - Amazon OpenSearch Service",
+    "AWS Controllers for Kubernetes - Amazon RDS",
+    "AWS Controllers for Kubernetes - Amazon S3",
+    "AWS Controllers for Kubernetes - Amazon SageMaker",
+    "Falco Operator",
+    "Kubemq Enterprise Operator",
+    "Apicurio Registry Operator",
+    "GitLab",
+    "GitLab Runner",
+    "nfd-operator",
+    "Appsody Operator",
+    "Runtime Component Operator",
+    "Open Liberty Operator",
+    "Kogito",
+    "Submariner",
+    "Upbound Universal Crossplane (UXP)",
+    "BeeGFS CSI Driver",
+    "cluster-impairment-operator",
+    "Kogito Knative Eventing Source",
+    "k8gb",
+    "Kubernetes NMState Operator",
+    "MARIN3R",
+    "MetalLB Operator",
+    "NetObserv Operator",
+    "NeuVector Operator",
+    "Network Service Mesh Operator",
+    "Prisma Cloud Compute Operator",
+    "Routernetes",
+    "skydive-operator",
+    "Tf Operator",
+    "Nexus Operator",
+    "Anchore Engine Operator",
+    "Carbonetes Operator",
+    "AtlasMap Operator",
+    "Cryostat Operator",
+    "Hazelcast Platform Operator",
+    "Infinispan Operator",
+    "Minio Operator",
+    "YAKS Operator",
+    "Istio Workspace",
+    "Kiali Operator",
+    "Vault Operator",
+    "ks-releaser",
+    "Argo CD Operator (Helm)",
+    "Multicluster Subscription Operator",
+    "Weave GitOps Terraform Controller"
+  ],
+  "Java|*": [
+    "Apache Spark Operator",
+    "AtlasMap Operator",
+    "Cryostat Operator"
+  ],
+  "Spark": [
+    "Apache Spark Operator",
+    "Apache Spark Operator",
+    "Spark Operator",
+    "Kubestone"
+  ],
+  "Go": [
+    "Banzai Cloud Kafka Operator",
+    "Camel K Operator",
+    "Hive for Red Hat OpenShift",
+    "IBM Spectrum Scale CSI Plugin Operator",
+    "Jenkins Operator",
+    "Redis Operator",
+    "WildFly",
+    "External Secrets Operator",
+    "Intel Device Plugins Operator",
+    "silicom-sts-operator"
+  ],
+  "Apache Kafka": [
+    "Banzai Cloud Kafka Operator",
+    "Banzai Cloud Kafka Operator"
+  ],
+  "Java|Apache Camel": [
+    "Camel K Operator",
+    "Camel K Operator"
+  ],
+  "MySQL": [
+    "GrdsCloud MySQL for Kubernetes",
+    "GrdsCloud MySQL for Kubernetes",
+    "Percona Distribution for MySQL Operator",
+    "PlanetScale Operator for Vitess"
+  ],
+  "Apache Hive": [
+    "Hive for Red Hat OpenShift",
+    "Hive for Red Hat OpenShift"
+  ],
+  "IBM Spectrum Scale": [
+    "IBM Spectrum Scale CSI Plugin Operator",
+    "IBM Spectrum Scale CSI Plugin Operator"
+  ],
+  "Jenkins": [
+    "Jenkins Operator",
+    "Jenkins Operator"
+  ],
+  "PostgreSQL": [
+    "Postgresql Operator",
+    "Postgresql Operator",
+    "Percona Operator for PostgreSQL",
+    "PostgreSQL Operator by Dev4Ddevs.com",
+    "Crunchy Postgres for Kubernetes",
+    "EDB Postgres for Kubernetes",
+    "Postgres-Operator",
+    "Ext Postgres Operator",
+    "Robin Cloud Native Storage"
+  ],
+  "Redis": [
+    "Redis Operator",
+    "Redis Operator",
+    "Redis Enterprise"
+  ],
+  "JBoss|Wildfly": [
+    "WildFly",
+    "WildFly"
+  ],
+  "MongoDB": [
+    "MongoDB Enterprise Operator",
+    "MongoDB Enterprise Operator",
+    "MongoDB Operator",
+    "MongoDB Atlas Operator",
+    "Percona Distribution for MongoDB Operator"
+  ],
+  "instana": [
+    "Instana Agent Operator"
+  ],
+  "credstash": [
+    "credstash-operator"
+  ],
+  "Snyk": [
+    "Snyk Operator"
+  ],
+  "Akka": [
+    "Akka Cluster Operator"
+  ],
+  "Varnish": [
+    "Varnish Operator"
+  ],
+  "Datadog": [
+    "Datadog Operator"
+  ],
+  "Hazelcast": [
+    "Hazelcast Enterprise Operator",
+    "Hazelcast Platform Operator"
+  ],
+  "Infinispan": [
+    "infinispan",
+    "Infinispan Operator"
+  ],
+  "Nuxeo": [
+    "Nuxeo Operator"
+  ],
+  "ArangoDB": [
+    "ArangoDB"
+  ],
+  "Eclipse|Eclipse Che": [
+    "Eclipse Che"
+  ],
+  "Amazon S3": [
+    "AWS S3 Operator"
+  ],
+  "ClickHouse": [
+    "Altinity ClickHouse Operator"
+  ],
+  "MinIO": [
+    "MinIO Operator",
+    "Minio Operator"
+  ],
+  "Elasticsearch": [
+    "Elastic Cloud on Kubernetes"
+  ],
+  "XtraDB": [
+    "Percona XtraDB Cluster Operator"
+  ],
+  "Keycloak": [
+    "Keycloak Operator"
+  ],
+  "Grafana": [
+    "Grafana Operator"
+  ],
+  "Mattermost": [
+    "Mattermost Operator"
+  ],
+  "Synapse": [
+    "synapse-helm"
+  ],
+  "Cloud IAM": [
+    "IBM Cloud IAM Operator"
+  ],
+  "Knative": [
+    "Knative Operator",
+    "YAKS Operator"
+  ],
+  "Apache Cassandra": [
+    "Cassandra"
+  ],
+  "Kubeflow": [
+    "Kubeflow"
+  ],
+  "Qiskit": [
+    "Openshift Qiskit Operator"
+  ],
+  "Microsoft Azure": [
+    "Azure Service Operator"
+  ],
+  "Strimzi": [
+    "Strimzi"
+  ],
+  "Sematext": [
+    "Sematext Operator"
+  ],
+  "Eclipse|Eclipse hawkBit": [
+    "Eclipse Hawkbit"
+  ],
+  "Eclipse|Eclipse Ditto": [
+    "Eclipse Ditto"
+  ],
+  "MariaDB": [
+    "Mariadb Operator"
+  ],
+  "Zadara": [
+    "Zadara Operator"
+  ],
+  "Istio": [
+    "Istio",
+    "Istio Workspace",
+    "Kiali Operator"
+  ],
+  "Vault": [
+    "Vault Helm",
+    "Vault Operator"
+  ],
+  "Apache Druid": [
+    "druid-operator"
+  ],
+  "etcd": [
+    "etcd"
+  ],
+  "Traefik": [
+    "Traefikee Operator"
+  ],
+  "IBM Cloud": [
+    "IBM Cloud Operator"
+  ],
+  "YugabyteDB": [
+    "Yugabyte Operator"
+  ],
+  "CockroachDB": [
+    "CockroachDB"
+  ],
+  "Jaeger": [
+    "Community Jaeger Operator"
+  ],
+  "Eclipse|*": [
+    "IoT simulator"
+  ],
+  "Elastic (ELK) Stack": [
+    "Elasticsearch (ECK) Operator",
+    "Elasticsearch Phenix Operator",
+    "Logging Operator",
+    "AWS Controllers for Kubernetes - Amazon ElastiCache",
+    "Elasticsearch Index Operator",
+    "Prometheus Exporter Operator"
+  ],
+  "Ingres": [
+    "Kong Operator"
+  ],
+  "Splunk": [
+    "Splunk Operator"
+  ],
+  "Sysinternal Tools|Sync": [
+    "Encrypted Images Key Syncer Helm Operator"
+  ],
+  "Apache Tomcat": [
+    "Joget DX on Apache Tomcat"
+  ],
+  "Nginx": [
+    "APIcast"
+  ],
+  "BASIC": [
+    "Flink Kubernetes Operator"
+  ],
+  "C": [
+    "Alvearie Imaging Ingestion Operator",
+    "DataStax Kubernetes Operator for Apache Cassandra",
+    "Qserv operator",
+    "Prometheus Operator",
+    "Rook-Ceph",
+    "Argo CD",
+    "Starboard Operator",
+    "TiDB Operator",
+    "Altinity Operator for ClickHouse",
+    "Flux",
+    "RocketMQ Operator",
+    "StorageOS"
+  ],
+  "C++|Visual C++": [
+    "Lightbend Console Operator"
+  ],
+  "PRO*C": [
+    "API Operator for Kubernetes",
+    "KEDA",
+    "WSO2 API Manager Operator for Kubernetes",
+    "AWS Controllers for Kubernetes - Amazon API Gateway v2",
+    "AWS Controllers for Kubernetes - Amazon Application Auto Scaling",
+    "AWS Controllers for Kubernetes - Amazon DynamoDB",
+    "AWS Controllers for Kubernetes - Amazon EC2",
+    "AWS Controllers for Kubernetes - Amazon ECR",
+    "AWS Controllers for Kubernetes - Amazon EKS",
+    "AWS Controllers for Kubernetes - Amazon EMR on EKS",
+    "AWS Controllers for Kubernetes - Amazon IAM",
+    "AWS Controllers for Kubernetes - Amazon KMS",
+    "AWS Controllers for Kubernetes - Amazon Lambda",
+    "AWS Controllers for Kubernetes - Amazon MQ",
+    "AWS Controllers for Kubernetes - Amazon OpenSearch Service",
+    "AWS Controllers for Kubernetes - Amazon RDS",
+    "AWS Controllers for Kubernetes - Amazon S3",
+    "AWS Controllers for Kubernetes - Amazon SageMaker"
+  ],
+  "R": [
+    "Falco Operator",
+    "Kubemq Enterprise Operator",
+    "Apicurio Registry Operator"
+  ],
+  "SAS": [
+    "GitLab",
+    "GitLab Runner"
+  ],
+  "Scala": [
+    "nfd-operator"
+  ],
+  "Swift": [
+    "Appsody Operator",
+    "Runtime Component Operator"
+  ],
+  "Java|Spring": [
+    "Open Liberty Operator",
+    "Kogito"
+  ],
+  "IBM i": [
+    "Composable",
+    "IBM COS Bucket Operator",
+    "Event Streams Topic",
+    "Hybrid Application Model Operator",
+    "IBM Application Gateway Operator",
+    "IBM block storage CSI driver operator",
+    "Ibm Quantum Operator",
+    "IBM Security Verify Access Operator",
+    "QiskitPlayground"
+  ],
+  ".NET Framework|*": [
+    "Submariner",
+    "Upbound Universal Crossplane (UXP)",
+    "BeeGFS CSI Driver",
+    "cluster-impairment-operator",
+    "Kogito Knative Eventing Source",
+    "k8gb",
+    "Kubernetes NMState Operator",
+    "MARIN3R",
+    "MetalLB Operator",
+    "NetObserv Operator",
+    "NeuVector Operator",
+    "Network Service Mesh Operator",
+    "Prisma Cloud Compute Operator",
+    "Routernetes",
+    "skydive-operator",
+    "Tf Operator"
+  ],
+  "Docker": [
+    "Nexus Operator",
+    "Anchore Engine Operator",
+    "Carbonetes Operator"
+  ],
+  "Git": [
+    "ks-releaser",
+    "Argo CD Operator (Helm)",
+    "Multicluster Subscription Operator",
+    "Weave GitOps Terraform Controller"
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "Version": "1.0.4",
+  "Linux|Red Hat Enterprise Linux": [
+    "IBM Maximo Asset Management",
+    "OpenLDAP",
+    "golang_Linux",
+    "haproxy",
+    "httpd",
+    "jenkins",
+    "MarkLogic",
+    "memcached",
+    "Java SE JRE_Linux",
+    "Microsoft SQL Server",
+    "Mongo_Linux",
+    "mysql",
+    "nginx",
+    "Python_Linux",
+    "redis_Linux",
+    "ruby",
+    "swift",
+    "tomcat",
+    "websphere-liberty",
+    "ansible",
+    "hive",
+    "websphere-traditional",
+    "Apache Cassandra",
+    "Ansible Tower"
+  ],
+  "IBM Maximo": [
+    "IBM Maximo Asset Management"
+  ],
+  "OpenLDAP": [
+    "OpenLDAP",
+    "openldap"
+  ],
+  "Linux": [
+    "gcc",
+    "node",
+    "php",
+    "rabbitmq",
+    "fabric-ca",
+    "db2",
+    "mq",
+    "base",
+    "wildfly",
+    "nginx-proxy",
+    "javascript-node.js",
+    "objectivec-gcc",
+    "nginx-ingress",
+    "node-red-docker",
+    "sas",
+    "activemq",
+    "hadoop-docker",
+    "nexus3",
+    "splunk",
+    "IBM Transformation Extender",
+    "openjdk_Linux",
+    "perl",
+    "postgres",
+    "solr",
+    "odm",
+    "asterisk",
+    "drupal",
+    "elastic",
+    "genymotion",
+    "hadoop",
+    "neo4j",
+    "openldap",
+    "openvpn",
+    "pentaho",
+    "redis",
+    "remedy",
+    "riak",
+    "sentry",
+    "sonarqube",
+    "whois",
+    "tableau",
+    "wordpress",
+    "sqlite",
+    "glassfish",
+    "lucee",
+    "awk",
+    "basic",
+    "expect",
+    "focus",
+    "fortran",
+    "graphql",
+    "groovy",
+    "jcl",
+    "scala",
+    "typescript",
+    "log4j",
+    "struts",
+    "angularjs",
+    "react",
+    "ado",
+    "flash",
+    "java",
+    "python",
+    "instana",
+    "credstash",
+    "snyk",
+    "akka",
+    "varnish",
+    "datadog",
+    "hazelcast",
+    "infinispan",
+    "nuxeo",
+    "arangodb",
+    "clickhouse",
+    "minio",
+    "elasticsearch",
+    "keycloak",
+    "grafana",
+    "mattermost",
+    "synapse",
+    "kubeflow",
+    "sematext",
+    "mariadb",
+    "istio",
+    "vault",
+    "etcd",
+    "traefik",
+    "yugabytedb",
+    "cockroachdb",
+    "jaeger",
+    "powershell",
+    "dds",
+    "git",
+    "gitlab"
+  ],
+  "C++|*": [
+    "gcc"
+  ],
+  "Go": [
+    "golang_Linux"
+  ],
+  "HAProxy": [
+    "haproxy"
+  ],
+  "Apache HTTP Server": [
+    "httpd"
+  ],
+  "Jenkins": [
+    "jenkins"
+  ],
+  "MarkLogic DB": [
+    "MarkLogic"
+  ],
+  "Memcached": [
+    "memcached"
+  ],
+  "Java Runtime Environment (JRE)": [
+    "Java SE JRE_Linux"
+  ],
+  "MS SQL Server|*": [
+    "Microsoft SQL Server"
+  ],
+  "MongoDB": [
+    "Mongo_Linux"
+  ],
+  "MySQL": [
+    "mysql"
+  ],
+  "Nginx": [
+    "nginx",
+    "nginx-proxy"
+  ],
+  "Node.js": [
+    "node",
+    "javascript-node.js"
+  ],
+  "PHP": [
+    "php"
+  ],
+  "Python": [
+    "Python_Linux",
+    "python"
+  ],
+  "RabbitMQ": [
+    "rabbitmq"
+  ],
+  "Redis": [
+    "redis_Linux",
+    "redis"
+  ],
+  "Ruby": [
+    "ruby"
+  ],
+  "Swift": [
+    "swift"
+  ],
+  "Java|*": [
+    "tomcat",
+    "websphere-liberty",
+    "websphere-traditional",
+    "openjdk_Linux",
+    "java"
+  ],
+  "Apache Tomcat": [
+    "tomcat"
+  ],
+  "WebSphere Liberty": [
+    "websphere-liberty"
+  ],
+  "Ansible": [
+    "ansible",
+    "Ansible Tower"
+  ],
+  "Apache Hive": [
+    "hive"
+  ],
+  "Linux|Debian": [
+    "kafka",
+    "postgresql",
+    "spark",
+    "debian"
+  ],
+  "Apache Kafka": [
+    "kafka"
+  ],
+  "PostgreSQL": [
+    "postgresql",
+    "postgres"
+  ],
+  "Spark": [
+    "spark"
+  ],
+  "Linux|Ubuntu": [
+    "vmware-tools",
+    "ubuntu"
+  ],
+  "VMware Tools": [
+    "vmware-tools"
+  ],
+  "Fabric OS": [
+    "fabric-ca"
+  ],
+  "DB2": [
+    "db2"
+  ],
+  "IBM Websphere MQ": [
+    "mq"
+  ],
+  "Websphere Application Server (WAS)": [
+    "websphere-traditional"
+  ],
+  "JBoss|*": [
+    "base"
+  ],
+  "JBoss|Wildfly": [
+    "wildfly"
+  ],
+  "JavaScript|*": [
+    "javascript-node.js"
+  ],
+  "Objective C": [
+    "objectivec-gcc"
+  ],
+  "Ingres": [
+    "nginx-ingress"
+  ],
+  "Wherescape Red": [
+    "node-red-docker"
+  ],
+  "SAS": [
+    "sas"
+  ],
+  "Apache ActiveMQ": [
+    "activemq"
+  ],
+  "Hadoop": [
+    "hadoop-docker",
+    "hadoop"
+  ],
+  "Nexus Repository OSS": [
+    "nexus3"
+  ],
+  "Splunk": [
+    "splunk"
+  ],
+  "IBM WebSphere Transformation Extender (WTX)": [
+    "IBM Transformation Extender"
+  ],
+  "Perl|*": [
+    "perl"
+  ],
+  "Apache Solr": [
+    "solr"
+  ],
+  "IBM Operational Decision Manager (ODM)": [
+    "odm"
+  ],
+  "Apache Cassandra": [
+    "Apache Cassandra"
+  ],
+  "Asterisk": [
+    "asterisk"
+  ],
+  "Drupal": [
+    "drupal"
+  ],
+  "Elastic (ELK) Stack": [
+    "elastic"
+  ],
+  "Genymotion": [
+    "genymotion"
+  ],
+  "Neo4j": [
+    "neo4j"
+  ],
+  "OpenVPN": [
+    "openvpn"
+  ],
+  "Pentaho": [
+    "pentaho"
+  ],
+  "Remedy": [
+    "remedy"
+  ],
+  "Riak": [
+    "riak"
+  ],
+  "Sentry": [
+    "sentry"
+  ],
+  "SonarQube": [
+    "sonarqube"
+  ],
+  "Sysinternal Tools|Whois": [
+    "whois"
+  ],
+  "Tableau": [
+    "tableau"
+  ],
+  "Wordpress": [
+    "wordpress"
+  ],
+  "SQLite": [
+    "sqlite"
+  ],
+  "GlassFish": [
+    "glassfish"
+  ],
+  "Lucee": [
+    "lucee"
+  ],
+  "AWK": [
+    "awk"
+  ],
+  "BASIC": [
+    "basic"
+  ],
+  "Expect": [
+    "expect"
+  ],
+  "FOCUS": [
+    "focus"
+  ],
+  "Fortran": [
+    "fortran"
+  ],
+  "GraphQL": [
+    "graphql"
+  ],
+  "Groovy": [
+    "groovy"
+  ],
+  "JCL": [
+    "jcl"
+  ],
+  "Scala": [
+    "scala"
+  ],
+  "TypeScript": [
+    "typescript"
+  ],
+  "Java|Log4j": [
+    "log4j"
+  ],
+  "Java|Struts": [
+    "struts"
+  ],
+  "JavaScript|AngularJS": [
+    "angularjs"
+  ],
+  "JavaScript|React": [
+    "react"
+  ],
+  "Android": [
+    "android"
+  ],
+  "DART": [
+    "dart"
+  ],
+  "Linux|CentOS": [
+    "centos"
+  ],
+  "Linux|openSUSE": [
+    "opensuse"
+  ],
+  "Unix|BSD|FreeBSD": [
+    "freebsd"
+  ],
+  "Linux|Fedora": [
+    "fedora"
+  ],
+  "ActiveX|ADO": [
+    "ado"
+  ],
+  "Flash": [
+    "flash"
+  ],
+  "Windows": [
+    "windows"
+  ],
+  "instana": [
+    "instana"
+  ],
+  "credstash": [
+    "credstash"
+  ],
+  "Snyk": [
+    "snyk"
+  ],
+  "Akka": [
+    "akka"
+  ],
+  "Varnish": [
+    "varnish"
+  ],
+  "Datadog": [
+    "datadog"
+  ],
+  "Hazelcast": [
+    "hazelcast"
+  ],
+  "Infinispan": [
+    "infinispan"
+  ],
+  "Nuxeo": [
+    "nuxeo"
+  ],
+  "ArangoDB": [
+    "arangodb"
+  ],
+  "ClickHouse": [
+    "clickhouse"
+  ],
+  "MinIO": [
+    "minio"
+  ],
+  "Elasticsearch": [
+    "elasticsearch"
+  ],
+  "Keycloak": [
+    "keycloak"
+  ],
+  "Grafana": [
+    "grafana"
+  ],
+  "Mattermost": [
+    "mattermost"
+  ],
+  "Synapse": [
+    "synapse"
+  ],
+  "Kubeflow": [
+    "kubeflow"
+  ],
+  "Sematext": [
+    "sematext"
+  ],
+  "MariaDB": [
+    "mariadb"
+  ],
+  "Istio": [
+    "istio"
+  ],
+  "Vault": [
+    "vault"
+  ],
+  "etcd": [
+    "etcd"
+  ],
+  "Traefik": [
+    "traefik"
+  ],
+  "YugabyteDB": [
+    "yugabytedb"
+  ],
+  "CockroachDB": [
+    "cockroachdb"
+  ],
+  "Jaeger": [
+    "jaeger"
+  ],
+  "Powershell": [
+    "powershell"
+  ],
+  "DDS": [
+    "dds"
+  ],
+  "Git": [
+    "git"
+  ],
+  "GitLab": [
+    "gitlab"
+  ]
+}

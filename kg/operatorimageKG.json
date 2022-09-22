@@ -1,0 +1,4553 @@
+{
+  "KG Version": "1.0.4",
+  "Container Images": {
+    "Apache Spark Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Spark",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/radanalyticsio/spark-operator:1.0.2",
+      "OperatorRepository": "https://github.com/radanalyticsio/spark-operator"
+    },
+    "Banzai Cloud Kafka Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Apache Kafka",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "banzaicloud/kafka-operator:0.3.1",
+      "OperatorRepository": "https://github.com/banzaicloud/kafka-operator/tree/master"
+    },
+    "Camel K Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Java|Apache Camel",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "docker.io/apache/camel-k:1.3.0",
+      "OperatorRepository": "https://github.com/apache/camel-k"
+    },
+    "GrdsCloud MySQL for Kubernetes": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "MySQL",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "grds/mysql-operator:1.0.0",
+      "OperatorRepository": "https://github.com/GrdsCloud"
+    },
+    "Hive for Red Hat OpenShift": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Apache Hive",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/openshift-hive/hive:v1.0.17",
+      "OperatorRepository": "https://github.com/openshift/hive"
+    },
+    "IBM Spectrum Scale CSI Plugin Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "IBM Spectrum Scale",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/ibm-spectrum-scale/ibm-spectrum-scale-csi-operator:v2.3.0",
+      "OperatorRepository": "https://github.com/IBM/ibm-spectrum-scale-csi/"
+    },
+    "Jenkins Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Jenkins",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "virtuslab/jenkins-operator:v0.3.0",
+      "OperatorRepository": "https://github.com/jenkinsci/kubernetes-operator"
+    },
+    "Postgresql Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "PostgreSQL",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/deekshah86/postgresql-operator",
+      "OperatorRepository": "https://github.com/janepelladinesh/postgresql-operator"
+    },
+    "Redis Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Redis",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/opstree/redis-operator:v0.3.0",
+      "OperatorRepository": "https://github.com/ot-container-kit/redis-operator"
+    },
+    "WildFly": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "JBoss|Wildfly",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/wildfly/wildfly-operator:0.3.0",
+      "OperatorRepository": "https://github.com/wildfly/wildfly-operator"
+    },
+    "MongoDB Enterprise Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "MongoDB",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/mongodb/mongodb-enterprise-operator:1.12.0",
+      "OperatorRepository": "https://github.com/mongodb/mongodb-enterprise-kubernetes"
+    },
+    "Instana Agent Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "instana",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "instana/instana-agent-operator:0.3.7",
+      "OperatorRepository": "https://github.com/instana/instana-agent-operator"
+    },
+    "credstash-operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "credstash",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/ouzi/credstash-operator:v1.13.0",
+      "OperatorRepository": "https://github.com/ouzi-dev/credstash-operator"
+    },
+    "Snyk Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Snyk",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "docker.io/snyk/kubernetes-operator:1.59.3",
+      "OperatorRepository": "https://github.com/snyk/kubernetes-monitor"
+    },
+    "Akka Cluster Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Akka",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "lightbend-docker-registry.bintray.io/lightbend/akkacluster-operator:v1.0.0",
+      "OperatorRepository": "https://github.com/lightbend/akka-cluster-operator"
+    },
+    "Varnish Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [
+        {
+          "Class": "Varnish",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App Server",
+          "Subtype": ""
+        }
+      ],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "ibmcom/varnish-operator:0.27.2",
+      "OperatorRepository": "https://github.com/IBM/varnish-operator"
+    },
+    "Datadog Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Datadog",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "datadog/operator:0.3.0",
+      "OperatorRepository": "https://github.com/DataDog/datadog-operator"
+    },
+    "Hazelcast Enterprise Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Hazelcast",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "hazelcast/hazelcast-enterprise-operator:0.3.7",
+      "OperatorRepository": "https://github.com/hazelcast/hazelcast-operator"
+    },
+    "infinispan": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Infinispan",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "docker.io/jboss/infinispan-operator:0.3.0",
+      "OperatorRepository": "https://github.com/infinispan/infinispan-operator"
+    },
+    "Nuxeo Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Nuxeo",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "docker.io/appzygy/nuxeo-operator:0.7.1",
+      "OperatorRepository": "https://github.com/aceeric/nuxeo-operator"
+    },
+    "ArangoDB": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "ArangoDB",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "arangodb/kube-arangodb:1.0.2",
+      "OperatorRepository": "https://github.com/arangodb/kube-arangodb"
+    },
+    "Eclipse Che": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Eclipse|Eclipse Che",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/eclipse/che-operator@sha256:ea3641202e11ad00bd639b59809b6f4a6508f2c143d260b1683a9f36d74ed54f",
+      "OperatorRepository": "https://github.com/eclipse-che/che-operator"
+    },
+    "AWS S3 Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Amazon S3",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/screeley44/aws-s3-provisioner:v1.0.0",
+      "OperatorRepository": "https://github.com/yard-turkey/aws-s3-provisioner"
+    },
+    "Altinity ClickHouse Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "ClickHouse",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "altinity/clickhouse-operator:0.9.9",
+      "OperatorRepository": "https://github.com/altinity/clickhouse-operator"
+    },
+    "MinIO Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "MinIO",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "minio/k8s-operator:1.0.3",
+      "OperatorRepository": "https://github.com/minio/minio-operator"
+    },
+    "Elastic Cloud on Kubernetes": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Elasticsearch",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "docker.elastic.co/eck/eck-operator:1.0.0-beta1",
+      "OperatorRepository": "https://github.com/elastic/cloud-on-k8s"
+    },
+    "Percona XtraDB Cluster Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "XtraDB",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "percona/percona-xtradb-cluster-operator:1.7.0",
+      "OperatorRepository": "https://github.com/percona/percona-xtradb-cluster-operator"
+    },
+    "Keycloak Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Keycloak",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/keycloak/keycloak-operator:9.0.2",
+      "OperatorRepository": "https://github.com/keycloak/keycloak-operator"
+    },
+    "Grafana Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Grafana",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/integreatly/grafana-operator:v3.10.1",
+      "OperatorRepository": "https://github.com/integr8ly/grafana-operator"
+    },
+    "Mattermost Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Mattermost",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "docker.io/mattermost/mattermost-operator:v0.5.0",
+      "OperatorRepository": "https://github.com/mattermost/mattermost-operator"
+    },
+    "synapse-helm": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Synapse",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/mgoerens/synapse-helm:v0.0.11",
+      "OperatorRepository": "https://github.com/opdev/synapse-helm"
+    },
+    "IBM Cloud IAM Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Cloud IAM",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "cloudoperators/ibmcloud-iam-operator:0.1.0",
+      "OperatorRepository": "https://github.com/IBM/ibmcloud-iam-operator"
+    },
+    "Knative Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Knative",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "gcr.io/knative-releases/knative.dev/operator/cmd/operator:v0.20.0",
+      "OperatorRepository": "https://github.com/knative/operator"
+    },
+    "Cassandra": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Apache Cassandra",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "gcr.io/cassandra-operator/cassandra-operator:v2.0.0",
+      "OperatorRepository": "https://github.com/instaclustr/cassandra-operator"
+    },
+    "Kubeflow": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Kubeflow",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "aipipeline/kubeflow-operator:v1.0.0",
+      "OperatorRepository": "https://github.com/kubeflow/kfctl"
+    },
+    "Openshift Qiskit Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Qiskit",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "https://hub.docker.com/repository/docker/singhp11/openshift-qiskit-operator",
+      "OperatorRepository": "https://github.com/qiskit-community/openshift-quantum-operators/tree/master/operators-examples/openshift-qiskit-operator"
+    },
+    "Azure Service Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Microsoft Azure",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "mcr.microsoft.com/k8s/azureserviceoperator:1.0.27207",
+      "OperatorRepository": "https://github.com/Azure/azure-service-operator"
+    },
+    "Strimzi": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Strimzi",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "docker.io/strimzi/operator@sha256:62218aee7553b31db1f65bc30b3c6b6595c2fd631b2e1792e24e554a47080aa6",
+      "OperatorRepository": "https://github.com/strimzi/strimzi-kafka-operator"
+    },
+    "Sematext Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Sematext",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "docker.io/sematext/sematext-operator:1.0.33",
+      "OperatorRepository": "https://github.com/sematext/sematext-operator"
+    },
+    "Eclipse Hawkbit": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Eclipse|Eclipse hawkBit",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "docker.io/ctron/hawkbit-operator:0.1.4",
+      "OperatorRepository": "https://github.com/ctron/hawkbit-operator"
+    },
+    "Eclipse Ditto": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Eclipse|Eclipse Ditto",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "docker.io/ctron/ditto-operator:0.1.0",
+      "OperatorRepository": "https://github.com/ctron/ditto-operator"
+    },
+    "Mariadb Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "MariaDB",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/manojdhanorkar/mariadb-operator:v0.0.1",
+      "OperatorRepository": "https://github.com/abalki001/mariadb-operator"
+    },
+    "Zadara Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Zadara",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "zadara/zoperator:0.3.6",
+      "OperatorRepository": "https://github.com/zadarastorage/zadara-operator"
+    },
+    "Istio": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Istio",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "banzaicloud/istio-operator:0.1.6",
+      "OperatorRepository": "https://github.com/banzaicloud/istio-operator/tree/release-1.1"
+    },
+    "Vault Helm": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Vault",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/brejohns/vault-helm:0.0.1",
+      "OperatorRepository": "https://github.com/SDBrett/vault-helm"
+    },
+    "druid-operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Apache Druid",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "druidio/druid-operator:0.0.6",
+      "OperatorRepository": "https://github.com/druid-io/druid-operator"
+    },
+    "etcd": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "etcd",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/coreos/etcd-operator@sha256:66a37fd61a06a43969854ee6d3e21087a98b93838e284a6086b13917f96b0d9b",
+      "OperatorRepository": "https://github.com/coreos/etcd-operator"
+    },
+    "Traefikee Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [
+        {
+          "Class": "Traefik",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App Server",
+          "Subtype": ""
+        }
+      ],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "containous/traefikee-operator:v0.3.0",
+      "OperatorRepository": "https://github.com/containous/traefikee-operator"
+    },
+    "IBM Cloud Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "IBM Cloud",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "cloudoperators/ibmcloud-operator:0.1.10",
+      "OperatorRepository": "https://github.com/IBM/cloud-operators"
+    },
+    "Yugabyte Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "YugabyteDB",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/yugabyte/yugabytedb-operator",
+      "OperatorRepository": "https://github.com/yugabyte/yugabyte-operator"
+    },
+    "CockroachDB": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "CockroachDB",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "quay.io/helmoperators/cockroachdb:v3.0.7",
+      "OperatorRepository": "https://github.com/dmesser/cockroachdb-operator"
+    },
+    "Community Jaeger Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Jaeger",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "docker.io/jaegertracing/jaeger-operator:1.11.1",
+      "OperatorRepository": "https://github.com/jaegertracing/jaeger-operator"
+    },
+    "IoT simulator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Eclipse|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/ctron/iot-simulator-operator"
+    },
+    "Elasticsearch (ECK) Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Elastic (ELK) Stack",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/elastic/cloud-on-k8s"
+    },
+    "Elasticsearch Phenix Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Elastic (ELK) Stack",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/Carrefour-Group/elastic-phenix-operator"
+    },
+    "Logging Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Elastic (ELK) Stack",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/opstree/logging-operator:v0.3.0'\"]",
+      "OperatorRepository": "https://github.com/ot-container-kit/logging-operator"
+    },
+    "AWS Controllers for Kubernetes - Amazon ElastiCache": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Elastic (ELK) Stack",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "Elasticsearch Index Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Elastic (ELK) Stack",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/IBM/esindex-operator"
+    },
+    "Prometheus Exporter Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Elastic (ELK) Stack",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/3scale/prometheus-exporter-operator:v0.2.4'\"]",
+      "OperatorRepository": "https://github.com/3scale/prometheus-exporter-operator"
+    },
+    "Kong Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Ingres",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/kong/kong-operator"
+    },
+    "MongoDB Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "MongoDB",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/opstree/mongodb-operator:v0.3.0'\"]",
+      "OperatorRepository": "https://github.com/ot-container-kit/mongodb-operator"
+    },
+    "MongoDB Atlas Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "MongoDB",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/mongodb/mongodb-atlas-kubernetes-operator:1.1.0'\"]",
+      "OperatorRepository": ""
+    },
+    "Percona Distribution for MongoDB Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "MongoDB",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/percona/percona-server-mongodb-operator"
+    },
+    "Percona Distribution for MySQL Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "MySQL",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/percona/percona-xtradb-cluster-operator"
+    },
+    "PlanetScale Operator for Vitess": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "MySQL",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": ""
+    },
+    "Percona Operator for PostgreSQL": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "PostgreSQL",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/percona/percona-postgresql-operator"
+    },
+    "PostgreSQL Operator by Dev4Ddevs.com": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "PostgreSQL",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/dev4devs-com/postgresql-operator:0.1.1'\"]",
+      "OperatorRepository": "https://github.com/dev4devs-com/postgresql-operator"
+    },
+    "Crunchy Postgres for Kubernetes": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "PostgreSQL",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/CrunchyData/postgres-operator"
+    },
+    "EDB Postgres for Kubernetes": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "PostgreSQL",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/enterprisedb/cloud-native-postgresql'\"]",
+      "OperatorRepository": "https://www.enterprisedb.com/docs/postgres_for_kubernetes/latest/"
+    },
+    "Postgres-Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "PostgreSQL",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/zalando/postgres-operator"
+    },
+    "Ext Postgres Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "PostgreSQL",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/movetokube/postgres-operator"
+    },
+    "Robin Cloud Native Storage": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "PostgreSQL",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": ""
+    },
+    "Redis Enterprise": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Redis",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/RedisLabs/redis-enterprise-k8s-docs"
+    },
+    "Splunk Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Splunk",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": ""
+    },
+    "Encrypted Images Key Syncer Helm Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Sysinternal Tools|Sync",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'docker.io/lumjjb/enc-key-sync-operator:v0.0.1'\"]",
+      "OperatorRepository": "https://github.com/IBM/k8s-enc-image-operator"
+    },
+    "Joget DX on Apache Tomcat": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [
+        {
+          "Class": "Apache Tomcat",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App Server",
+          "Subtype": ""
+        }
+      ],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/jogetworkflow/"
+    },
+    "APIcast": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [
+        {
+          "Class": "Nginx",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App Server",
+          "Subtype": ""
+        }
+      ],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/3scale/apicast-operator:v0.4.0'\"]",
+      "OperatorRepository": "https://github.com/3scale/apicast-operator"
+    },
+    "Spark Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [
+        {
+          "Class": "Spark",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App Server",
+          "Subtype": ""
+        }
+      ],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/GoogleCloudPlatform/spark-on-k8s-operator"
+    },
+    "Kubestone": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [
+        {
+          "Class": "Spark",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App Server",
+          "Subtype": ""
+        }
+      ],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/xridge/kubestone"
+    },
+    "Flink Kubernetes Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "BASIC",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'docker.io/apache/flink-kubernetes-operator:1.0.1'\"]",
+      "OperatorRepository": "https://github.com/apache/flink-kubernetes-operator.git"
+    },
+    "Alvearie Imaging Ingestion Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/Alvearie/imaging-ingestion"
+    },
+    "DataStax Kubernetes Operator for Apache Cassandra": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/k8ssandra/cass-operator"
+    },
+    "Qserv operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/lsst/qserv-operator"
+    },
+    "Prometheus Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/prometheus-operator/prometheus-operator:v0.47.0'\"]",
+      "OperatorRepository": "https://github.com/prometheus-operator/prometheus-operator"
+    },
+    "Rook-Ceph": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/rook/rook"
+    },
+    "Argo CD": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/argoprojlabs/argocd-operator'\"]",
+      "OperatorRepository": "https://github.com/argoproj-labs/argocd-operator"
+    },
+    "Starboard Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'docker.io/aquasec/starboard-operator:0.15.6'\"]",
+      "OperatorRepository": "https://github.com/aquasecurity/starboard"
+    },
+    "TiDB Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/pingcap/tidb-operator"
+    },
+    "Altinity Operator for ClickHouse": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/altinity/clickhouse-operator"
+    },
+    "Flux": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://fluxcd.io/docs/"
+    },
+    "RocketMQ Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/apache/rocketmq-operator"
+    },
+    "StorageOS": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/storageos/operator"
+    },
+    "Lightbend Console Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "C++|Visual C++",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/lightbend/console-charts/tree/master/operator"
+    },
+    "External Secrets Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "Go",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/external-secrets/external-secrets-helm-operator"
+    },
+    "Intel Device Plugins Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "Go",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/intel/intel-device-plugins-for-kubernetes"
+    },
+    "silicom-sts-operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "Go",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/silicom/sts-operator:v0.0.1'\"]",
+      "OperatorRepository": "github.com/silicomdk/sts-operator"
+    },
+    "API Operator for Kubernetes": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/wso2/k8s-api-operator"
+    },
+    "KEDA": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/kedacore/keda-olm-operator"
+    },
+    "WSO2 API Manager Operator for Kubernetes": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/wso2/k8s-wso2am-operator"
+    },
+    "AWS Controllers for Kubernetes - Amazon API Gateway v2": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon Application Auto Scaling": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon DynamoDB": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon EC2": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon ECR": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon EKS": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon EMR on EKS": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon IAM": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon KMS": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon Lambda": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon MQ": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon OpenSearch Service": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon RDS": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon S3": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "AWS Controllers for Kubernetes - Amazon SageMaker": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "PRO*C",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/aws-controllers-k8s"
+    },
+    "Falco Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "R",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'docker.io/falcosecurity/falco-operator-helm:0.7.6'\"]",
+      "OperatorRepository": "https://github.com/falcosecurity/falco-operator/tree/helm-based-operator"
+    },
+    "Kubemq Enterprise Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "R",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'docker.io/kubemq/kubemq-operator:latest'\"]",
+      "OperatorRepository": "https://github.com/kubemq-io/kubemq-operator"
+    },
+    "Apicurio Registry Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "R",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/apicurio/apicurio-registry-operator:1.0.0'\"]",
+      "OperatorRepository": "https://github.com/Apicurio/apicurio-registry-operator"
+    },
+    "GitLab": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "SAS",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://gitlab.com/gitlab-org/cloud-native/gitlab-operator"
+    },
+    "GitLab Runner": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "SAS",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://gitlab.com/gitlab-org/gl-openshift/gitlab-runner-operator"
+    },
+    "nfd-operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "Scala",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/kubernetes-sigs/node-feature-discovery-operator"
+    },
+    "Appsody Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "Swift",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/appsody/appsody-operator"
+    },
+    "Runtime Component Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "Swift",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/application-stacks/runtime-component-operator"
+    },
+    "Open Liberty Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [
+        {
+          "Class": "Java|Spring",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lib",
+          "Subtype": ""
+        }
+      ],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/OpenLiberty/open-liberty-operator"
+    },
+    "Kogito": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [
+        {
+          "Class": "Java|Spring",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lib",
+          "Subtype": ""
+        }
+      ],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/kiegroup/kogito-operator:1.24.0'\"]",
+      "OperatorRepository": "https://github.com/kiegroup/kogito-operator"
+    },
+    "Composable": {
+      "OS": [
+        {
+          "Class": "IBM i",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/IBM/composable"
+    },
+    "IBM COS Bucket Operator": {
+      "OS": [
+        {
+          "Class": "IBM i",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/IBM/cos-bucket-operator"
+    },
+    "Event Streams Topic": {
+      "OS": [
+        {
+          "Class": "IBM i",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/IBM/event-streams-topic"
+    },
+    "Hybrid Application Model Operator": {
+      "OS": [
+        {
+          "Class": "IBM i",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/hybridappio/ham-deploy:0.1.0'\"]",
+      "OperatorRepository": "https://github.com/hybridapp-io/ham-deploy"
+    },
+    "IBM Application Gateway Operator": {
+      "OS": [
+        {
+          "Class": "IBM i",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/IBM-Security/ibm-application-gateway-operator"
+    },
+    "IBM block storage CSI driver operator": {
+      "OS": [
+        {
+          "Class": "IBM i",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/IBM/ibm-block-csi-operator"
+    },
+    "Ibm Quantum Operator": {
+      "OS": [
+        {
+          "Class": "IBM i",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/application/husky_parul/ibm-quantum-operator'\"]",
+      "OperatorRepository": "https://github.com/redhat-et/ibm-quantum-operator"
+    },
+    "IBM Security Verify Access Operator": {
+      "OS": [
+        {
+          "Class": "IBM i",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/IBM-Security/verify-access-operator"
+    },
+    "QiskitPlayground": {
+      "OS": [
+        {
+          "Class": "IBM i",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'docker.io/qiskit/operator:0.1'\"]",
+      "OperatorRepository": "https://github.com/qiskit-community/openshift-quantum-operators/tree/master/operators-examples/kubernetes-qiskit-operator"
+    },
+    "Submariner": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'quay.io/submariner/submariner-operator:0.11.0'\"]",
+      "OperatorRepository": "https://github.com/submariner-io/submariner-operator"
+    },
+    "Upbound Universal Crossplane (UXP)": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/upbound/universal-crossplane"
+    },
+    "BeeGFS CSI Driver": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/netapp/beegfs-csi-driver"
+    },
+    "cluster-impairment-operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'quay.io/redhat-performance/cluster-impairment-operator:1.0.4'\"]",
+      "OperatorRepository": "https://github.com/redhat-performance/cluster-impairment-operator"
+    },
+    "Kogito Knative Eventing Source": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/knative-sandbox/eventing-kogito"
+    },
+    "k8gb": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/k8gb-io/k8gb"
+    },
+    "Kubernetes NMState Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'quay.io/nmstate/kubernetes-nmstate-operator:v0.47.0'\"]",
+      "OperatorRepository": "https://github.com/nmstate/kubernetes-nmstate"
+    },
+    "MARIN3R": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'quay.io/3scale/marin3r'\"]",
+      "OperatorRepository": "https://github.com/3scale-ops/marin3r"
+    },
+    "MetalLB Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'quay.io/metallb/metallb-operator'\"]",
+      "OperatorRepository": "https://github.com/metallb/metallb-operator"
+    },
+    "NetObserv Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'quay.io/netobserv/network-observability-operator:0.1.3'\"]",
+      "OperatorRepository": "https://github.com/netobserv/network-observability-operator"
+    },
+    "NeuVector Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/neuvector/neuvector-operator"
+    },
+    "Network Service Mesh Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'quay.io/acmenezes/nsm-operator:v0.0.1'\"]",
+      "OperatorRepository": "https://github.com/acmenezes/nsm-operator"
+    },
+    "Prisma Cloud Compute Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'quay.io/prismacloud/pcc-operator'\"]",
+      "OperatorRepository": "https://github.com/PaloAltoNetworks/prisma-cloud-compute-operator"
+    },
+    "Routernetes": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'quay.io/routernetes/routernetes-operator:0.0.5'\"]",
+      "OperatorRepository": "https://github.com/routernetes/routernetes-operator"
+    },
+    "skydive-operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'docker.io/skydive/skydive-operator:0.0.50'\"]",
+      "OperatorRepository": "https://github.com/skydive-project/skydive-golang-operator"
+    },
+    "Tf Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": ".NET Framework|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'docker.io/tungstenfabric/tf-operator:latest'\"]",
+      "OperatorRepository": "https://github.com/tungstenfabric/tf-operator"
+    },
+    "Nexus Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Docker",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'quay.io/m88i/nexus-operator:0.6.0'\"]",
+      "OperatorRepository": "https://github.com/m88i/nexus-operator"
+    },
+    "Anchore Engine Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Docker",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'docker.io/anchore/engine-operator:v0.1.3'\"]",
+      "OperatorRepository": "https://github.com/anchore/engine-operator"
+    },
+    "Carbonetes Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Docker",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'docker.io/carbonetes/operator:1.0.4'\"]",
+      "OperatorRepository": "https://github.com/carbonetes/carbonetes-analyzer"
+    },
+    "AtlasMap Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "Java|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/atlasmap/atlasmap-operator:0.4.1'\"]",
+      "OperatorRepository": "https://github.com/atlasmap/atlasmap-operator"
+    },
+    "Cryostat Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [
+        {
+          "Class": "Java|*",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Lang",
+          "Subtype": ""
+        }
+      ],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/cryostat/cryostat-operator:2.1.1'\"]",
+      "OperatorRepository": "github.com/cryostatio/cryostat-operator"
+    },
+    "Hazelcast Platform Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Hazelcast",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'docker.io/hazelcast/hazelcast-platform-operator:5.3'\"]",
+      "OperatorRepository": "https://docs.hazelcast.com/operator/latest/"
+    },
+    "Infinispan Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Infinispan",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/infinispan/operator:2.2.4.Final'\"]",
+      "OperatorRepository": "https://github.com/infinispan/infinispan-operator"
+    },
+    "Minio Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "MinIO",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/minio/operator'\"]",
+      "OperatorRepository": "https://github.com/minio/operator"
+    },
+    "YAKS Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [
+        {
+          "Class": "Knative",
+          "Variants": "",
+          "Versions": "",
+          "Type": "Runtime",
+          "Subtype": ""
+        }
+      ],
+      "Docker_URL": "[\"'docker.io/citrusframework/yaks:0.10.0'\"]",
+      "OperatorRepository": "https://github.com/citrusframework/yaks"
+    },
+    "Istio Workspace": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Istio",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/maistra/istio-workspace:v0.5.1'\"]",
+      "OperatorRepository": "https://github.com/maistra/istio-workspace"
+    },
+    "Kiali Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Istio",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/kiali/kiali-operator:v1.53.0'\"]",
+      "OperatorRepository": "https://github.com/kiali/kiali"
+    },
+    "Vault Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Vault",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/banzaicloud/bank-vaults/tree/master/operator"
+    },
+    "ks-releaser": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Git",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://github.com/kubesphere-sigs/ks-releaser-operator"
+    },
+    "Argo CD Operator (Helm)": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Git",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/disposab1e/argocd-operator-helm'\"]",
+      "OperatorRepository": "https://github.com/disposab1e/argocd-operator-helm.git"
+    },
+    "Multicluster Subscription Operator": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Git",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "[\"'quay.io/open-cluster-management/multicluster-operators-subscription:2.3.0'\"]",
+      "OperatorRepository": "https://github.com/open-cluster-management/multicloud-operators-subscription"
+    },
+    "Weave GitOps Terraform Controller": {
+      "OS": [
+        {
+          "Class": "Linux",
+          "Variants": "",
+          "Versions": "",
+          "Type": "OS",
+          "Subtype": ""
+        }
+      ],
+      "Lang": [],
+      "Lib": [],
+      "App": [
+        {
+          "Class": "Git",
+          "Variants": "",
+          "Versions": "",
+          "Type": "App",
+          "Subtype": ""
+        }
+      ],
+      "App Server": [],
+      "Plugin": [],
+      "Runlib": [],
+      "Runtime": [],
+      "Docker_URL": "",
+      "OperatorRepository": "https://weaveworks.github.io/tf-controller/"
+    }
+  }
+}
