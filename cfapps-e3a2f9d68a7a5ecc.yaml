@@ -1,0 +1,384 @@
+apiVersion: move2kube.konveyor.io/v1alpha1
+kind: CfApps
+spec:
+  applications:
+    - application:
+        guid: 92f3d3dd-fb21-448a-ae92-f32efeeada3b
+        createdat: "2021-11-24T08:01:11Z"
+        updatedat: "2021-11-24T08:04:32Z"
+        name: cfnodejsapp
+        memory: 256
+        instances: 1
+        diskquota: 1024
+        spaceguid: 74faba82-c6db-40af-9179-4f4c288efdde
+        stackguid: 317d85c3-9abf-470a-aa68-4e229d8d7b1c
+        state: STARTED
+        packagestate: STAGED
+        command: ""
+        buildpack: ""
+        detectedbuildpack: nodejs
+        detectedbuildpackguid: 7dfdebec-f05d-4f4e-9c1e-f5841cbae7dc
+        healthcheckhttpendpoint: ""
+        healthchecktype: port
+        healthchecktimeout: 0
+        diego: true
+        enablessh: true
+        detectedstartcommand: npm start
+        dockerimage: ""
+        dockercredentialsjson: {}
+        dockercredentials:
+          username: ""
+          password: ""
+        environment: {}
+        stagingfailedreason: ""
+        stagingfaileddescription: ""
+        ports:
+          - 8080
+        spaceurl: /v2/spaces/74faba82-c6db-40af-9179-4f4c288efdde
+        spacedata:
+          meta:
+            guid: 74faba82-c6db-40af-9179-4f4c288efdde
+            url: /v2/spaces/74faba82-c6db-40af-9179-4f4c288efdde
+            createdat: "2020-10-05T05:29:46Z"
+            updatedat: "2020-10-05T05:29:46Z"
+          entity:
+            guid: 74faba82-c6db-40af-9179-4f4c288efdde
+            createdat: ""
+            updatedat: ""
+            name: dev
+            organizationguid: 11387077-d81c-4340-852d-d02648a9e9d7
+            orgurl: /v2/organizations/11387077-d81c-4340-852d-d02648a9e9d7
+            orgdata:
+              meta:
+                guid: 11387077-d81c-4340-852d-d02648a9e9d7
+                url: /v2/organizations/11387077-d81c-4340-852d-d02648a9e9d7
+                createdat: "2020-10-05T05:29:31Z"
+                updatedat: "2020-10-05T05:29:31Z"
+              entity:
+                guid: 11387077-d81c-4340-852d-d02648a9e9d7
+                createdat: ""
+                updatedat: ""
+                name: irlhc4
+                status: active
+                quotadefinitionguid: ee8bf3cc-8776-4300-a490-b17552723c14
+                defaultisolationsegmentguid: ""
+            quotadefinitionguid: ""
+            isolationsegmentguid: ""
+            allowssh: true
+        packageupdatedat: "2021-11-24T08:03:51Z"
+      environment:
+        environment: {}
+        stagingenv:
+          BLUEMIX_REGION: ibm:yp:us-south
+        runningenv:
+          BLUEMIX_REGION: ibm:yp:us-south
+        systemenv:
+          VCAP_SERVICES: {}
+        applicationenv:
+          VCAP_APPLICATION:
+            application_id: 92f3d3dd-fb21-448a-ae92-f32efeeada3b
+            application_name: cfnodejsapp
+            application_uris:
+              - cfnodejsapp-quiet-topi-os.mybluemix.net
+            application_version: 62d24f28-2fc6-454e-b0c4-222e83a23f0a
+            cf_api: https://api.us-south.cf.cloud.ibm.com
+            limits:
+              disk: 1024
+              fds: 16384
+              mem: 256
+            name: cfnodejsapp
+            organization_id: 11387077-d81c-4340-852d-d02648a9e9d7
+            organization_name: irlhc4
+            process_id: 92f3d3dd-fb21-448a-ae92-f32efeeada3b
+            process_type: web
+            space_id: 74faba82-c6db-40af-9179-4f4c288efdde
+            space_name: dev
+            uris:
+              - cfnodejsapp-quiet-topi-os.mybluemix.net
+            users: null
+            version: 62d24f28-2fc6-454e-b0c4-222e83a23f0a
+    - application:
+        guid: d6cc4457-25f4-4b68-a88f-de0eb0fd0ec2
+        createdat: "2021-12-14T10:01:40Z"
+        updatedat: "2021-12-14T10:03:08Z"
+        name: orders
+        memory: 1024
+        instances: 1
+        diskquota: 1024
+        spaceguid: 74faba82-c6db-40af-9179-4f4c288efdde
+        stackguid: 317d85c3-9abf-470a-aa68-4e229d8d7b1c
+        state: STARTED
+        packagestate: STAGED
+        command: ""
+        buildpack: https://github.com/cloudfoundry/java-buildpack
+        detectedbuildpack: java
+        detectedbuildpackguid: ""
+        healthcheckhttpendpoint: ""
+        healthchecktype: port
+        healthchecktimeout: 0
+        diego: true
+        enablessh: true
+        detectedstartcommand: 'JAVA_OPTS="-agentpath:$PWD/.java-buildpack/open_jdk_jre/bin/jvmkill-1.16.0_RELEASE=printHeapHistogram=1 -Djava.io.tmpdir=$TMPDIR -XX:ActiveProcessorCount=$(nproc) -Djava.ext.dirs=$PWD/.java-buildpack/container_security_provider:$PWD/.java-buildpack/open_jdk_jre/lib/ext -Djava.security.properties=$PWD/.java-buildpack/java_security/java.security $JAVA_OPTS" && CALCULATED_MEMORY=$($PWD/.java-buildpack/open_jdk_jre/bin/java-buildpack-memory-calculator-3.13.0_RELEASE -totMemory=$MEMORY_LIMIT -loadedClasses=23193 -poolType=metaspace -stackThreads=250 -vmOptions="$JAVA_OPTS") && echo JVM Memory Configuration: $CALCULATED_MEMORY && JAVA_OPTS="$JAVA_OPTS $CALCULATED_MEMORY" && MALLOC_ARENA_MAX=2 SERVER_PORT=$PORT eval exec $PWD/.java-buildpack/open_jdk_jre/bin/java $JAVA_OPTS -cp $PWD/. org.springframework.boot.loader.JarLauncher'
+        dockerimage: ""
+        dockercredentialsjson: {}
+        dockercredentials:
+          username: ""
+          password: ""
+        environment: {}
+        stagingfailedreason: ""
+        stagingfaileddescription: ""
+        ports:
+          - 8080
+        spaceurl: /v2/spaces/74faba82-c6db-40af-9179-4f4c288efdde
+        spacedata:
+          meta:
+            guid: 74faba82-c6db-40af-9179-4f4c288efdde
+            url: /v2/spaces/74faba82-c6db-40af-9179-4f4c288efdde
+            createdat: "2020-10-05T05:29:46Z"
+            updatedat: "2020-10-05T05:29:46Z"
+          entity:
+            guid: 74faba82-c6db-40af-9179-4f4c288efdde
+            createdat: ""
+            updatedat: ""
+            name: dev
+            organizationguid: 11387077-d81c-4340-852d-d02648a9e9d7
+            orgurl: /v2/organizations/11387077-d81c-4340-852d-d02648a9e9d7
+            orgdata:
+              meta:
+                guid: 11387077-d81c-4340-852d-d02648a9e9d7
+                url: /v2/organizations/11387077-d81c-4340-852d-d02648a9e9d7
+                createdat: "2020-10-05T05:29:31Z"
+                updatedat: "2020-10-05T05:29:31Z"
+              entity:
+                guid: 11387077-d81c-4340-852d-d02648a9e9d7
+                createdat: ""
+                updatedat: ""
+                name: irlhc4
+                status: active
+                quotadefinitionguid: ee8bf3cc-8776-4300-a490-b17552723c14
+                defaultisolationsegmentguid: ""
+            quotadefinitionguid: ""
+            isolationsegmentguid: ""
+            allowssh: true
+        packageupdatedat: "2021-12-14T10:01:49Z"
+      environment:
+        environment: {}
+        stagingenv:
+          BLUEMIX_REGION: ibm:yp:us-south
+        runningenv:
+          BLUEMIX_REGION: ibm:yp:us-south
+        systemenv:
+          VCAP_SERVICES: {}
+        applicationenv:
+          VCAP_APPLICATION:
+            application_id: d6cc4457-25f4-4b68-a88f-de0eb0fd0ec2
+            application_name: orders
+            application_uris:
+              - orders-proud-bilby-rf.mybluemix.net
+            application_version: a8144918-ae6f-4f7c-aa57-e3e7d48426c4
+            cf_api: https://api.us-south.cf.cloud.ibm.com
+            limits:
+              disk: 1024
+              fds: 16384
+              mem: 1024
+            name: orders
+            organization_id: 11387077-d81c-4340-852d-d02648a9e9d7
+            organization_name: irlhc4
+            process_id: d6cc4457-25f4-4b68-a88f-de0eb0fd0ec2
+            process_type: web
+            space_id: 74faba82-c6db-40af-9179-4f4c288efdde
+            space_name: dev
+            uris:
+              - orders-proud-bilby-rf.mybluemix.net
+            users: null
+            version: a8144918-ae6f-4f7c-aa57-e3e7d48426c4
+    - application:
+        guid: 65ac4f57-141e-4e0c-a0b2-fd4273422e57
+        createdat: "2021-12-14T10:04:00Z"
+        updatedat: "2021-12-14T10:05:43Z"
+        name: gateway
+        memory: 1024
+        instances: 1
+        diskquota: 1024
+        spaceguid: 74faba82-c6db-40af-9179-4f4c288efdde
+        stackguid: 317d85c3-9abf-470a-aa68-4e229d8d7b1c
+        state: STARTED
+        packagestate: STAGED
+        command: ""
+        buildpack: https://github.com/cloudfoundry/java-buildpack
+        detectedbuildpack: java
+        detectedbuildpackguid: ""
+        healthcheckhttpendpoint: ""
+        healthchecktype: port
+        healthchecktimeout: 0
+        diego: true
+        enablessh: true
+        detectedstartcommand: 'JAVA_OPTS="-agentpath:$PWD/.java-buildpack/open_jdk_jre/bin/jvmkill-1.16.0_RELEASE=printHeapHistogram=1 -Djava.io.tmpdir=$TMPDIR -XX:ActiveProcessorCount=$(nproc) -Djava.ext.dirs=$PWD/.java-buildpack/container_security_provider:$PWD/.java-buildpack/open_jdk_jre/lib/ext -Djava.security.properties=$PWD/.java-buildpack/java_security/java.security $JAVA_OPTS" && CALCULATED_MEMORY=$($PWD/.java-buildpack/open_jdk_jre/bin/java-buildpack-memory-calculator-3.13.0_RELEASE -totMemory=$MEMORY_LIMIT -loadedClasses=24458 -poolType=metaspace -stackThreads=250 -vmOptions="$JAVA_OPTS") && echo JVM Memory Configuration: $CALCULATED_MEMORY && JAVA_OPTS="$JAVA_OPTS $CALCULATED_MEMORY" && MALLOC_ARENA_MAX=2 SERVER_PORT=$PORT eval exec $PWD/.java-buildpack/open_jdk_jre/bin/java $JAVA_OPTS -cp $PWD/. org.springframework.boot.loader.JarLauncher'
+        dockerimage: ""
+        dockercredentialsjson: {}
+        dockercredentials:
+          username: ""
+          password: ""
+        environment: {}
+        stagingfailedreason: ""
+        stagingfaileddescription: ""
+        ports:
+          - 8080
+        spaceurl: /v2/spaces/74faba82-c6db-40af-9179-4f4c288efdde
+        spacedata:
+          meta:
+            guid: 74faba82-c6db-40af-9179-4f4c288efdde
+            url: /v2/spaces/74faba82-c6db-40af-9179-4f4c288efdde
+            createdat: "2020-10-05T05:29:46Z"
+            updatedat: "2020-10-05T05:29:46Z"
+          entity:
+            guid: 74faba82-c6db-40af-9179-4f4c288efdde
+            createdat: ""
+            updatedat: ""
+            name: dev
+            organizationguid: 11387077-d81c-4340-852d-d02648a9e9d7
+            orgurl: /v2/organizations/11387077-d81c-4340-852d-d02648a9e9d7
+            orgdata:
+              meta:
+                guid: 11387077-d81c-4340-852d-d02648a9e9d7
+                url: /v2/organizations/11387077-d81c-4340-852d-d02648a9e9d7
+                createdat: "2020-10-05T05:29:31Z"
+                updatedat: "2020-10-05T05:29:31Z"
+              entity:
+                guid: 11387077-d81c-4340-852d-d02648a9e9d7
+                createdat: ""
+                updatedat: ""
+                name: irlhc4
+                status: active
+                quotadefinitionguid: ee8bf3cc-8776-4300-a490-b17552723c14
+                defaultisolationsegmentguid: ""
+            quotadefinitionguid: ""
+            isolationsegmentguid: ""
+            allowssh: true
+        packageupdatedat: "2021-12-14T10:04:09Z"
+      environment:
+        environment: {}
+        stagingenv:
+          BLUEMIX_REGION: ibm:yp:us-south
+        runningenv:
+          BLUEMIX_REGION: ibm:yp:us-south
+        systemenv:
+          VCAP_SERVICES: {}
+        applicationenv:
+          VCAP_APPLICATION:
+            application_id: 65ac4f57-141e-4e0c-a0b2-fd4273422e57
+            application_name: gateway
+            application_uris:
+              - gateway-restless-fossa-ws.mybluemix.net
+            application_version: addfe6ce-a746-4dc1-a074-83b62aa2b2de
+            cf_api: https://api.us-south.cf.cloud.ibm.com
+            limits:
+              disk: 1024
+              fds: 16384
+              mem: 1024
+            name: gateway
+            organization_id: 11387077-d81c-4340-852d-d02648a9e9d7
+            organization_name: irlhc4
+            process_id: 65ac4f57-141e-4e0c-a0b2-fd4273422e57
+            process_type: web
+            space_id: 74faba82-c6db-40af-9179-4f4c288efdde
+            space_name: dev
+            uris:
+              - gateway-restless-fossa-ws.mybluemix.net
+            users: null
+            version: addfe6ce-a746-4dc1-a074-83b62aa2b2de
+    - application:
+        guid: 9f2a3c27-dd8b-408b-a792-cff81588282f
+        createdat: "2021-12-14T14:54:25Z"
+        updatedat: "2021-12-14T15:15:38Z"
+        name: frontend
+        memory: 1024
+        instances: 1
+        diskquota: 1024
+        spaceguid: 74faba82-c6db-40af-9179-4f4c288efdde
+        stackguid: 317d85c3-9abf-470a-aa68-4e229d8d7b1c
+        state: STARTED
+        packagestate: STAGED
+        command: npm run start
+        buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+        detectedbuildpack: nodejs
+        detectedbuildpackguid: ""
+        healthcheckhttpendpoint: ""
+        healthchecktype: port
+        healthchecktimeout: 0
+        diego: true
+        enablessh: true
+        detectedstartcommand: npm start
+        dockerimage: ""
+        dockercredentialsjson: {}
+        dockercredentials:
+          username: ""
+          password: ""
+        environment: {}
+        stagingfailedreason: ""
+        stagingfaileddescription: ""
+        ports:
+          - 8080
+        spaceurl: /v2/spaces/74faba82-c6db-40af-9179-4f4c288efdde
+        spacedata:
+          meta:
+            guid: 74faba82-c6db-40af-9179-4f4c288efdde
+            url: /v2/spaces/74faba82-c6db-40af-9179-4f4c288efdde
+            createdat: "2020-10-05T05:29:46Z"
+            updatedat: "2020-10-05T05:29:46Z"
+          entity:
+            guid: 74faba82-c6db-40af-9179-4f4c288efdde
+            createdat: ""
+            updatedat: ""
+            name: dev
+            organizationguid: 11387077-d81c-4340-852d-d02648a9e9d7
+            orgurl: /v2/organizations/11387077-d81c-4340-852d-d02648a9e9d7
+            orgdata:
+              meta:
+                guid: 11387077-d81c-4340-852d-d02648a9e9d7
+                url: /v2/organizations/11387077-d81c-4340-852d-d02648a9e9d7
+                createdat: "2020-10-05T05:29:31Z"
+                updatedat: "2020-10-05T05:29:31Z"
+              entity:
+                guid: 11387077-d81c-4340-852d-d02648a9e9d7
+                createdat: ""
+                updatedat: ""
+                name: irlhc4
+                status: active
+                quotadefinitionguid: ee8bf3cc-8776-4300-a490-b17552723c14
+                defaultisolationsegmentguid: ""
+            quotadefinitionguid: ""
+            isolationsegmentguid: ""
+            allowssh: true
+        packageupdatedat: "2021-12-14T14:59:40Z"
+      environment:
+        environment: {}
+        stagingenv:
+          BLUEMIX_REGION: ibm:yp:us-south
+        runningenv:
+          BLUEMIX_REGION: ibm:yp:us-south
+        systemenv:
+          VCAP_SERVICES: {}
+        applicationenv:
+          VCAP_APPLICATION:
+            application_id: 9f2a3c27-dd8b-408b-a792-cff81588282f
+            application_name: frontend
+            application_uris:
+              - frontend-patient-oryx-mc.mybluemix.net
+            application_version: 0af54cc6-c7cf-4a4b-9247-2f9a0d817bc2
+            cf_api: https://api.us-south.cf.cloud.ibm.com
+            limits:
+              disk: 1024
+              fds: 16384
+              mem: 1024
+            name: frontend
+            organization_id: 11387077-d81c-4340-852d-d02648a9e9d7
+            organization_name: irlhc4
+            process_id: 9f2a3c27-dd8b-408b-a792-cff81588282f
+            process_type: web
+            space_id: 74faba82-c6db-40af-9179-4f4c288efdde
+            space_name: dev
+            uris:
+              - frontend-patient-oryx-mc.mybluemix.net
+            users: null
+            version: 0af54cc6-c7cf-4a4b-9247-2f9a0d817bc2
