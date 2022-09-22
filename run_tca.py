@@ -1,7 +1,7 @@
 import yaml
 import json
-from service.containerize_assessment import Assessment
-from service.containerize_planning import Plan
+from service.assessment import Assessment
+from service.planning import Plan
 from service.infer_tech import InferTech
 
 plan = Plan()
@@ -26,6 +26,7 @@ with open('cfservices-32194c9906854947.yaml') as file:
           }
         ]
 
+        assessment = Assessment()
         assess_result = assessment.app_validation(input)
 
         print(json.dumps(assess_result, indent=2))
